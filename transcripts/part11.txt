@@ -1,0 +1,101 @@
+# Course part 11 transcript (ElevenLabs scribe_v2, Telugu+English), duration 1144s
+[0:00:01] సో, మనం previous కి ఏం నేర్చుకున్నాం? profit and loss statement ఎలా చదవాలి, balance sheet ఎలా చూడాలి, cash flows ఎలా చూడాలి and ఈరోజు మనం ratios గురించి నేర్చుకుందాం.
+[0:00:09] Ratios అంటే ఏం కాదు simple, normal terms నేర్చుకుంటాం అనమాట. PE అంటే ఏంటి, ROC అంటే ఏంటి, book value అంటే ఏంటి, ROE అంటే ఏంటి, dividend yield అంటే ఏంటి అనేసి మనం నేర్చుకుంటాం ఈరోజు.
+[0:00:24] ఓకే, సో, ఇది అంతా-- అంటే important ఏ but ఏంటంటే నేను మీకు అంత depth వెళ్లాల్సిన అవసరం లేదు just మీకు దాని meaning, formula, example తో సహా నేను మీకు ఇది ఇస్తాను and also మీకు ఏం-- మీకు ఈ document కావాలంటే నాకు DM చేయండి, నేను మీకు share చేస్తా.
+[0:00:39] ఓకే, సో, నేను ఇది మీకు share చేస్తారు కాబట్టి సో, దీని-దీని ప్రకారమే మీకు explain చేసుకుంటూ వెళ్తే తర్వాత మీకు future లో ఇది కావాలనుకున్నప్పుడు, ఇది చూసినప్పుడు మీకు ఒక clarity వస్తుంది.
+[0:00:50] ఓకే, సో, ఓకే, ఫస్ట్ gross profit margin, gross profit margin అంటే ఏంటంటే basic గా for example ఒక company కి ఓకే, gross profit margin అంటే ఏంటంటే total revenue minus cost
+[0:01:11] of goods sold. ఓకే, so for example ఆ, మీరు ఒక thousand rupee, మీకు ఇక్కడ example చెప్తా చూడండి pen example తో, మీరు ఒక pen అనేది purchase చేశారు ఎంత ten rupees తో, దాన్ని ఏమంటారు cost of goods and sell it for fifteen rupees, దాన్ని ఏమంటారు revenue.
+[0:01:28] మనకి ఇక్కడ gross profit ఎంత వచ్చింది five rupees కదా, అంటే revenue minus cost of goods, మనం అమ్మింది ఎంత, మనం కొన్నది ఎంత minus చేస్తే మన pocket లో ఉన్నది ఎంత five rupees profit ఉన్నది.
+[0:01:38] సో, ఇది margin అంటే ఏంటంటే percentage wise కావాలి, percentage wise కావాలంటే ఏంటి simple గా, ఇక్కడ formula చూడండి total revenue minus cost of goods sold divided by total revenue into hundred.
+[0:01:50] ఓకే, మీకు అప్పుడు percent వస్తుంది, దాన్ని gross profit margin అనేసి అంటారు. ఓకే, for example ఇక్కడ మనం M&M M&M car example ఏ తీసుకోండి, so ఇక్కడ car sales revenue minus only raw material cost.
+[0:02:05] ఓకే, so ఇలా మీరు gross profit margin అంటే ఇది formula and ఇది example కింద చూడండి.
+[0:02:11] ఓకే, second meaning చూడండి the profit percentage left after deducting only direct raw materials, goods cost from revenue before salaries, electricity or taxes.
+[0:02:22] ఇప్పుడు ఏం చేద్దాం, ఈ salaries, electricity, operational costs, operational costs ఇవన్నీ add చేద్దాం.
+[0:02:29] అలా add చేస్తే దాన్ని ఏమంటారంటే EBITDA, EBITDA అంటే ఏంటంటే earnings before interest, tax, depreciation, amortization.
+[0:02:38] ఓకే, EBITDA అంటే అది. అంటే before tax every expense ని minus చేసుకుంటారు total revenue లో నుంచి. ఓకే, దాన్ని EBITDA అంటారు.
+[0:02:46] ఓకే, for example ఇక్కడ formula చూడండి total revenue minus, ఇక్కడ చూడండి ఏం ఏం minus చేస్తున్నారో raw material cost plus operating expenses like salaries, labor, electricity, fixed cost.
+[0:02:57] ఇందాక gross profit అంటే ఏమనుకున్నాం, only total revenue minus raw material cost. ఇప్పుడు దానికి ఇంకా ఏం add చేశారు operating expenses అంటే like salaries, labor, electricity, fixed costs కొన్ని ఉంటాయి కదా day to day expenses.
+[0:03:09] so అవన్నీ add చేశాక ఓ company కి ఉన్న ప్రతి expense add చేస్తే దాన్ని EBITDA అనేసి అంటారు.
+[0:03:16] ఓకే, so meaning చూడండి operational profit left after deducting both raw materials and day to day operating expenses.
+[0:03:24] Got it? Before paying tax. so EBITDA positive ఉందంటే company is profitable after paying raw materials, salaries and fixed cost before tax.
+[0:03:33] ఓకే, EBITDA negative ఉన్నదంటే company అనేది loss లో ఉన్నది అనేసి మనం అర్థం చేసుకోవాలి. next, ఓకే, ఇప్పుడు ఫ-first ఏం చేశాం gross profit అంటే ఏంటో తెలుసుకున్నాం, EBITDA అంటే తెలుసు-- ఏ-ఏంటో తెలుసుకున్నాం.
+[0:03:44] so ఈ EBITDA ki tax కూడా add చేశారనుకోండి, దాన్ని PAT అంటారు. PAT అంటే ఏంటి profit after tax. ఇక్కడ చూడండి EBITDA minus depreciation, interest plus income tax.
+[0:03:56] ఓకే, దీన్ని profit after tax అనేసి అంటారు. for example the final net take-home profit left in the company's hands before paying all raw material cost, operating cost and government income tax.
+[0:04:09] అంటే simple గా EBITDA plus, EBITDA వస్తది కదా, దాంట్లో నుంచి ఇంకా tax అని మనం government కి pay చేసిన, company government కి pay చేస్తది కదా tax, ఆ tax ని minus చేస్తే మనకు వచ్చేది PAT అంటే profit after tax.
+[0:04:22] Got it? next, ROE అంటే ఏంటంటే return on equity. so basically return on equity అంటే ఏంటంటే, ఒక simple terms లో చెప్తా గుర్తుపెట్టుకోండి for example మీరు Reliance తీసుకోండి, Reliance తీసుకుని ఒక thousand rupees మీరు invest చేశారు, ఎప్పుడు IPO time లో.
+[0:04:40] if you invest thousand rupees in Reliance during an IPO for business expansion. basically IPO ఎందుకు వస్తది, ఆ investors కి ఇచ్చిన amount అంతా వాళ్ళ pocket లోకి వెళ్తది.
+[0:04:52] so అది వీళ్ళు expansion కి లేదా debt clearance కి వాళ్ళు use చేసుకుంటారు. ఓకే, so ఆ అప్పుడు invest చేస్తారు కదా for example Reliance అనేది thousand rupees raise చేసింది IPO ద్వారా.
+[0:05:06] ఓకే, A అనే company thousand rupees raise చేసింది IPO ద్వారా. ఓకే, entire amount. ఓకే, ROE tells you how much profit that A company generates using that thousand rupees of capital.
+[0:05:20] for example IPO వచ్చిన time లో thousand rupees ఉంటాయి కదా, so ఆ thousand rupees నే మనం అది ఒక-- అంటే company raise చేసిన amount కింద పెట్టుకొని దానికి వీళ్ళు every year ఎంత profits generate చేస్తున్నారన్న దాన్ని percentage wise calculate చేస్తారు.
+[0:05:35] for example ఇక్కడ చూడండి, ఇక్కడ formula చూడండి profit after tax అంటే ఏంటి PAT, మనకు తెలుసు కదా PAT formula ఏంటో divided by shareholders equity.
+[0:05:43] అంటే ఏంటి for example Reliance అనేది thousand crores raise చేసిందనుకోండి, Reliance కి two hundred crores o three hundred crores o profit వచ్చింది.
+[0:05:52] so two hundred crores divided by thousand crores raise చేసింది కదా thousand crores into hundred అంటే percent వస్తది, దాన్ని ROE అనేసి అంటారు.
+[0:06:00] Got it? ఇక్కడ చూడండి meaning shows how much profit that company generates at the business level of every hundred rupees of shareholders capital invested.
+[0:06:11] ఓకే, ROE అంటే అది simple గా, got it? next ROCE అంటే ఏంటంటే return on capital employed ఇది ఇక్కడ ఏం చేసుకుంది ఇందాక ROE అంటే return on equity అంటే only shareholders IPO time లో shareholders equity ఎంత amount ఉంటుందో దానికి profit కి calculate చేస్తాం.
+[0:06:30] ఇక్కడ ఏంటి, ఆ shareholders equity దాంతో పాటు వీళ్ళు debt raise చేస్తారు కదా బయట నుంచి అప్పు తెచ్చుకుంటారు కదా so దాన్ని కూడా కలిపి entire దానికి ఎంత వచ్చింది same formula.
+[0:06:42] ఇక్కడ చూడండి operating profit divided by total capital employed into hundred. so basically ఇక్కడ చూడండి if a company deploys hundred of hundred rupees of total capital into its business operations, ROCE shows how efficiently it generates returns compared to peers in the same industry.
+[0:06:59] so ఇక్కడ చూడండి measures how efficiently the company uses its total capital both shareholders equity plus debt to generate profits.
+[0:07:07] చెప్పా కదా ROE ఏంటంటే only shareholders equity కి profit కి percentage calculate చేస్తారు ROCE అంటే వచ్చిన profit కి shareholders equity plus debt వీళ్ళు బయట నుంచి తెచ్చుకుంటారు కదా ఆ debt కలిపి percentage calculate చేస్తారు.
+[0:07:22] got it? so ఇవన్నీ basic మీరు just గుర్తుపెట్టుకోండి అంతే.మీకు ఏంటంటే EBITDA అంటే ఏంటి మీకు తెలియాలి got it?
+[0:07:32] so అంతేగాని మనం మనం ఇవి ఎక్కడ ఉపయోగపడతాయి అంటే ఇక్కడ మనకు snapshot ఉంది చూడండి company snapshot so ఇక్కడ మీకు అర్థమవుతుంది అన్నమాట.
+[0:07:40] ఇవన్నీ next video లో మనం screener లో ఎలా చదవాలి అనేసి చెప్పుకుంటాం కదా fundamental analysis అప్పుడు explain చేస్తా అవన్నీ ఏంటని just ఈ video లో ఏంటంటే just ఇవన్నీ meanings ఏంటో తెలుసుకోండి.
+[0:07:51] మీకు pdf కావాలంటే నేను మీకు share చేస్తా నాకు DM చేయండి got it? so ఇప్పటివరకు మనకు ఏమైంది profitability ratios అయిన్నాయి.
+[0:07:59] so gross profit margin, EBITDA అంటే ఏంటో తెలిసింది, PAT అంటే ఏంటో తెలిసింది ROE, ROCE okay.
+[0:08:06] next వీటిని leverage and solvency ratios అంటారు.
+[0:08:13] basically profitability ratios ఏంటంటే profitability ratios లో ఈ five వస్తాయి got it? మీరు గుర్తుపెట్టుకోవాల్సిన అవసరం లేదు just మీకు knowledge కోసం చెప్తున్నా, గమ్మున ఎవరైనా అడిగినా మీకు ఒక idea ఉంటుంది అనేసి.
+[0:08:24] Entire financial ratios లో మూడు ఉంటాయి profitability ratios, leverage and solvency ratios, valuation ratios okay.
+[0:08:34] so profitability ratios లో ఏంటంటే మీకు ఎంత profit వస్తుందన్నది ఒక clarity తీసుకురావడానికి అవి తీసుకురావడానికి ఏంటి మీకు five terms వాడతారు ఇక్కడ ఏంటి gross profit margin, EBITDA, PAT, ROE, ROCE okay.
+[0:08:49] next leverage and solvency ratios అంటే ఏంటంటే ఇక్కడ చూడండి check how much goal sorry check how much loan debt the company has taken and whether it can safely repay its borrowings.
+[0:09:01] so వీళ్ళు debt తెచ్చుకుంటారు కదా so ఆ debt కి ఎన్ని రోజుల్లో pay చేయగలరు, వీళ్ళకి వచ్చే profits కి debt కి ఎలా ఉన్నది so ఈ relations, ఈ leverage and solvency ratios లో మనం find out చేయొచ్చు.
+[0:09:13] so ఇది ఎన్ని ఉన్నది total, four ఉన్నాయి. ఏంటి debt to equity ratio, net debt to EBITDA, interest coverage ratio, debt capital employed.
+[0:09:26] ఇది చూడండి debt to equity ratio అంటే formula ఏంటి total debt divided by shareholders equity got it?
+[0:09:33] మనం ఇందాక ఇక్కడ ఏం చేసాం ROE, ROE అంటే simple ఏంటి profit తో చేసాం మనకి profit తో మనకి ఒక percentage వచ్చింది.
+[0:09:40] ఇక్కడ ఏంటి debt తో మనకి ఒక percentage మనం తీసుకుంటున్నాం. ఏంటి total debt ఆ profit place లో debt ఉంటుంది total debt divided by shareholders equity అది formula దాన్నేమంటారు debt to equity ratio అనేసి అంటారు.
+[0:09:52] example చెప్తా చూడండి companies compares total loans against the company's actual net worth okay assets minus liabilities లాంటిది ఇది.
+[0:10:01] మనం ఒకటి discuss చేసుకున్నాం కదా assets minus liabilities balance sheet లో.
+[0:10:13] okay so మీరు ఇది అంత depth కి వెళ్లాల్సిన అవసరం లేదు నేను మీకు ముందరే చెప్తున్నా ఇవన్నీ చెప్పాలనేసి నేను మీకు చెప్తున్నా okay అంత concentrate చేయాల్సిన అవసరం లేదు just మీకు general ఈ terms తెలిస్తే సరిపోతాయి okay.
+[0:10:24] ఇవి ఉన్నాయి కదా next video లో చెప్పుకుందాం ఈ terms తెలిస్తే సరిపోతాయి. just మీకు చెప్పాలి కదా information ఇవ్వాలి కదా అనేసి చెప్తున్నా ఇందులో so అంత deep గా వెళ్లాల్సిన అవసరం లేదు.
+[0:10:33] ఒకవేళ తెలుసుకోవాలి అర్థం కాలేదు నాకు deep గా తెలుసుకోవాలనేసి ఉన్నదంటే నాకు DM చేయండి మీకు in-depth explain చేస్తా okay.
+[0:10:40] so first ఏంటి debt to equity ratio అంటే ఏంటి total debt divided by shareholders equity got it? so example కొన్ని ఉన్నాయి చూడండి assume shareholders equity అంటే ఎంత బయటకి IPO time release చేసిందంటే ten lakhs అనుకుందాం debt ఎంతుంది ten lakhs అంటే company కి ఒక ten lakhs అప్పు ఉందనుకుందాం ratio కావాలంటే మనకి ఏంటి
+[0:11:00] formula ఏంటి total debt total debt divided by shareholders equity అంటే ఎంత ten divided by ten అంటే ఎంత వచ్చింది one వచ్చింది equal to net worth.
+[0:11:09] so debt debt అనేది fifteen lakhs twenty lakhs ఉన్నదనుకోండి okay అప్పుడు ఏమవుతుంది ratio 1.5 to 2 వస్తుంది అది red flag.
+[0:11:19] ఎందుకంటే మీకు ఇక్కడ చూడండి, మీకిది ఎంత ఎక్కువ ఉంటే company కి అంత minus మీకు one కన్నా కింద ఉంటే company కి plus got it?
+[0:11:30] అలా గుర్తుపెట్టుకోండి simple గా one కన్నా కింద ఉంటే company కి plus one ఉన్నా పర్లేదు okay manageable అంటే ఎంత వస్తున్నాయో డబ్బులు అంత debt ఉన్నది వీళ్ళు అలా సమానంగా manage చేసుకుంటా వెళ్తున్నారు.
+[0:11:42] లేదు వీళ్ళ దగ్గర ఎంత raise చేశారో దానికన్నా తక్కువ debt ఏ ఉన్నది చాలా healthy గా grow అవుతున్న company అది plus. అలా ఉంటే మనకు numbers ఎంత వస్తది divide చేసినప్పుడు one కన్నా కింద వస్తది కదా so one కన్నా కింద ఉంటే అది green flag కింద చూడాలి one కన్నా పైన ఉంటే అది red flag కింద చూడాలి got it?
+[0:11:59] next net debt to EBITDA so ఇక్కడ చూడండి ఇక్కడ DMDI debt to equity చూసాం ఇక్కడ ఏంటి debt to EBITDA simple net net debt divided by EBITDA.
+[0:12:11] simple మనకి EBITDA అంటే ఏమనుకున్నాం ఇందాక total revenue minus tax తప్ప మిగిలిన అన్ని expenses. got it same ఇక్కడ కూడా అదే ratio వస్తుంది.
+[0:12:22] next interest coverage ratio అంటే EBITDA divided by interest expense. ఇది అంత అవసరం లేదు. basically ఇది ఏంటంటే for example ఆహ్ ఈ company కు for example thousand crores thousand rupees loan ఉన్నది ఒక company కి every year hundred rupees profit వస్తుంది.
+[0:12:38] అన్ని అయిపోయాక వాళ్ళ pocket లో after tax hundred rupees ఉంటుంది. so ఎన్ని years లో వీళ్ళు debt clear చేయగలరు ten years so అలా interest coverage ratio అంటే అలా ఎన్ని years పడుతుంది.
+[0:12:48] so ఇది ఎంత తక్కువుంటే మనకి company కి అంత better అన్నమాట. next debt capital employed ఇది కూడా అంత పట్టించుకోవాల్సిన అవసరం లేదు మీకు general చెప్తున్నా out of fifty lakhs total funding
+[0:13:08] if five lakhs ten percent is founder's equity and forty five percent ninety lakhs is from loans. the ninety percent debt share indicates a high risk debt structure.
+[0:13:18] మీకు అర్థమైందా debt to capital employed అంటే for example ఇక్కడ చూడండి ఒక hundred percent company లో ten percent అనేది founder's equity కింద ఉంది.
+[0:13:27] మిగిలిన ninety percent అనేది ఆ debt ఉన్నది. okay. వాళ్ళు వాళ్ళ దగ్గర ఉన్న cash గాని లేకపోతే assets గాని లేవి ఏదో ఉంటాయి కదా entire company కి సంబంధించినవి ten percent ఏ వాళ్ళ pocket లో మిగిలిన ninety percent debt.
+[0:13:40] so అప్పుడు ఏంటి అక్కడ ఏ అక్కడ percentage ఎంత వస్తుంది ninety percent debt share ఉన్నది. okay got it. so దానికి debt to capital employed కి మనకు ratio వస్తుంది.
+[0:13:49] next valuation ratios so ఇది కొంచెం చూడండి ఇది కొంచెం మీరు అర్థం చేసుకోవడానికి try చేయండి. ఇది పెద్ద leverage and solvency పెద్ద అర్థం చేసుకోకపోయినా పర్లేదు కానీ okay మీకు profitability ratios valuation ratios కొద్దిగా వాళ్ళ-- కొద్దిగా నేర్చుకోండి okay neglect చేయొద్దు.
+[0:14:06] first ఏంటి valuation ratios అంటే basically stock కి మన company కి valuations ఆ ratios కనిపెట్టేదాన్ని valuation ratios అంటారు.
+[0:14:14] for example stock ఎంత price ఉన్నది దానికి వచ్చే company ఈ రెండు ఎంత ratios లో match అవుతున్నాయి. okay stock price and company valuations ని match చేస్తది valuation ratios.
+[0:14:23] first ఏంటి P/E ratio P/E ratio అంటే ఏంటి price to earnings అంటారు. formula చూడండి current share price divided by earnings per share for example ఇది ఎలా calculate చేస్తారు అంటే for example P/E అనేది ఇక్కడ first simple example చూడండి sorry meaning చూడండి how many rupees you are paying today to earn one rupee of profit from the company.
+[0:14:44] for example మీరు ఒక hundred rupees ఉన్నది అనుకోండి hundred rupees hundred rupees stock price అయితే ఒక stock price for example ఆ ఒక్క stock కి one rupee earn చేస్తుంది company so మీరు అప్పుడు ఎంత pay చేస్తున్నారు అక్కడ P/E ratio hundred times pay చేస్తున్నట్టా లేదా?
+[0:15:02] అంటే for example ఇక్కడ example చూడండి మీకు అర్థమవుతుంది. P/E equal to twenty ఉన్నది అనుకోండి దాని అర్థం ఏంటి మీరు twenty times pay చేస్తున్నారు.
+[0:15:10] paying twenty rupees to earn one rupee for example P/E hundred ఉన్నది అంటే hundred times pay చేస్తుంది stock price paying hundred rupees to earn one rupee of profit.
+[0:15:20] అర్థమైందా P/E equal to five-- అంటే paying five hundred rupees to earn one of-- one rupee of profit. P/E ratio ఎంత ఎక్కువ ఉంటే stock అనేది అంత expensive గా ఉన్నది అనేసి మనం అర్థం చేసుకోవాలి.
+[0:15:30] got it. next P/B ratio అంటే price to book re-- price to book అనేసి అంటారు.
+[0:15:37] ఇదేంటి current share price divided by book value per share basically ఏంటంటే for example ఒక book value hundred rupees ఉందనుకోండి but stock trades at one fifty rupees or two hundred అప్పుడు మీకు P/B value ఎంత వచ్చింది one point five two times వచ్చింది.
+[0:15:52] for example silver example గాని తీసుకోండి fundamental value of silver is one lakh but buyers who over paying one point five to one-- for example one point two lakhs pay చేస్తున్నారు అనుకోండి retail hype లో అప్పుడు మీకు గుర్తుందా మీకు అప్పుడు silver బాగా తక్కువైనప్పుడు ఆహ్ మీరు purchase చేయాలంటే ten thousand ఎక్కువ pay చేయాలి five thousand ఎక్కువ pay చేయాలి మీరు మీరు వాళ్ళకి sell
+[0:16:12] చేయాలంటే five thousand తక్కువ pay చేయాలి. so అది న-- అది నడిసింది కదా boom so ఆ difference నే price to book ratio అనేసి అంటారు.
+[0:16:19] okay. దాని value ఎంత మనం extra pay చేస్తుంది ఎంత got it. so ఇది కూడా మీరు చూసుకోవాలి.
+[0:16:26] ఈ రెండు important P/E ratio price to book ratio ఇదేంటంటే stock ఎంత expensive ఉంది stock ఎంత మనకు discount లో దొరుకుతుంది అన్నది ఈ రెండాటిల్ని చూసుకుంటే మనకు ఒక idea వస్తుంది.
+[0:16:35] next dividend yield అంటే ఏమీ కాదు for example మీరు ఒక one lakh invest చేశారు అనుకోండి అందులో మీకు ten thousand dividend ఇచ్చాడు అనుకోండి మీకు అప్పుడు dividend yield ఎంత percentage లో ten percent అంత simple dividend yield అనేది ఏం కాదు.
+[0:16:48] hundred rupees ఒక stock value hundred rupees ఉందంటే దానికి one rupee dividend ఇచ్చాడంటే every stock కి one percent dividend yield.
+[0:16:55] అదే hundred rupees ఉన్న ఒక stock కి ten rupees dividend declare చేశాడంటే ten percent అంతే. okay so this is financial ratios మీకు ఏమన్నా ఇది మీకు share చేస్తే నాకు DM చేయండి నేను మీకు ఖచ్చితంగా share చేస్తా.
+[0:17:09] ఒకసారి చదవండి ఇదంతా got it. మరీ అంత వెళ్ళిపోవాల్సిన అవసరం లేదు మీరు just profitability ratios చూసుకుంటారు next leverage and solvency just అర్థం చేసుకుంటారు అంత పెద్ద ఇన్-- అంటే అంత depth గా చూడాల్సిన అవసరం లేదు.
+[0:17:23] okay valuation ratios వచ్చి కొంచెం నేర్చుకోండి P/E ratio అంటే ఏంటి P/B ratio అంటే ఏంటి dividend yield అంటే ఏంటి got it.
+[0:17:30] so next video లో మనం ఏం చేస్తామంటే ఇగ మీకు fundamentals దీంతో అయిపోయినట్టే. మనం మొత్తం cover చేసేశాం quarterly results, P&L ఎలా చదవాలి, balance sheet, cash flows, ratios okay.
+[0:17:45] so మీకు ఇప్పుడు ఒక stock కి support and resistance ఎలా draw చేయాలో అర్థమైంది. next fundamental-fundamentals individual గా ఏది ఏంటి ఎలా చదవాలి ఏది minus లో ఉంటే positive ఆ plus లో ఉంటే positive ఒక company కి అనేది each and everything మీకు in depth తెలిసింది.
+[0:18:01] ఇప్పుడు next video లో ఏం చేస్తామంటే fundamentals last ఒక video వస్తది. ఆ video లో ఏంటంటే మీరు ఈ screener లో ఎలా చదవాలి okay.
+[0:18:08] ఇవన్నీ మనం ఇప్పుడు నేర్చుకున్నాం చూసారా fundamentals లో P&L, ఉమ్ balance sheet, ratios, cash flow ఇవన్నీ నేర్చుకున్నాం చూసారా ఇవన్నీ ఎలా combine చేయాలి got it.
+[0:18:17] అది next video లో అవుతుంది. ఆ తర్వాత video లో direct strategy కి వెళ్ళిపోతాం. so ఇంకొక-- ఈ video తర్వాత ఇంకొక two videos అయిపోయినాయి అంటే మీకు complete swing trading మొత్తం అయిపోయినట్లే.
+[0:18:27] తర్వాత we will dive into options అనమాట okay. okay guys so మీరు practice చేయండి ఏమన్నా అర్థం కాకపోతే నాకు వెంటనే DM చేయండి weekends లో one on one session పెట్టుకొని లేదా ఒక three, four members ని కలిపి అక్కడ నేను మీకు explain చేస్తా in depth okay.
+[0:18:41] so ఇలా మీరు only ఇది చూ-- video చూసేసి వదిలేసి నేను direct trade చేస్తా అంటే మీకు అర్థం కాదు confuse అవుతారు.
+[0:18:48] ప్రతి video అయ్యాక మీకు ఎలా gap ఉంటుంది కాబట్టి video, video కి so అక్కడ మీరు మధ్య-- ఈ gap లో practice చేయండి okay.
+[0:18:55] so practice చేస్తే మీకు మంచిగా అర్థమవుతుంది next వచ్చే videos అన్నీ. okay guys bye see you in the next video.
