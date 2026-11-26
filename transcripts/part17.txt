@@ -1,0 +1,169 @@
+# Course part 17 transcript (ElevenLabs scribe_v2, Telugu+English), duration 1792s
+[0:00:07] Okay guys, so ఈరోజు మనం swing trading strategy గురించి మాట్లాడుకుందాం. So, ఇప్పటి వరకు మీరు నేర్చుకున్నది ఏంటి? So, technical analysisలో support, resistance ఎలా draw చేయాలో నేర్చుకున్నారు and also ఒక company మంచిదా, కాదా అన్నది ఎలా చూడాలో మీరు నేర్చుకున్నారు fundamental analysisలో.
+[0:00:19] So, ఇప్పుడు fundamental analysis కొంచెసేపు పక్కకు పెట్టండి. Okay? So, మనం ఇప్పుడు ఏం చేయాలంటే, so first మన technicalsలో మనం నేర్చుకుంది ఏంటి?
+[0:00:26] Support and resistance. So, basicగా మన Indiaలో దేన్ని చూసి market అనేది కదులుతది? Index.
+[0:00:32] ఏ indexes అవి? Nifty, Sensex. మనం only Nifty చూస్తాం. Okay? So, Nifty open చేసుకోండి.
+[0:00:41] So, Nifty daily time frameలో పెట్టుకోండి. Weekly అన్నా పర్వాలేదు. So, మీకు Nifty first daily time frameలో పెట్టుకొని ఏం చేస్తారంటే, మీకు major, major supports ఎక్కడ కనిపిస్తున్నాయ్, resistance ఎక్కడ కనిపిస్తున్నాయ్, ఇక్కడ draw చేస్తారు.
+[0:00:53] For example ఇదిగోండి, ఇక్కడొక major zone ఉన్నది. Okay? So, ఇక్కడ market ఎప్పుడూ ఇక్కడికి వచ్చాక ఏదో ఒకటి అవుతుంది. అక్కడ support తీసుకుని పైకన్నా వెళ్తుంది aggressiveగా లేదా అక్కడి నుంచి కిందకన్నా fall అవుతుంది.
+[0:01:03] So, ఇక్కడ కూడా చూడండి ఎలా ఎన్ని సార్లు అక్కడి నుంచి మళ్ళీ reverse అయిందో. Okay? So, ఇక్కడ కూడా చూడండి, ఇక్కడొక, ఇక్కడొక చిన్న zone ఉంది.
+[0:01:09] Okay? ఇక్కడొక zone ఉన్నది. ఇక్కడొక zone ఉన్నది. Okay? So, ఇలా supports and resistance draw చేసుకుంటారు.
+[0:01:15] Okay? Clearగా వినండి. మీరు Nifty ఎప్పటికప్పుడు support and resistance one daily time frameలో మీరు updatedగా ఉండి draw చేసుకుని ఉండాలి.
+[0:01:23] So, Okay? So, so మీరు ఎప్పుడూ ఏం చేస్తారంటే major support and resistance ఉంటాయి కదా, ఈ మధ్యలో Nifty ఉన్నప్పుడు మీరు అసలు ఏమీ entries తీసుకోరు, exits అవ్వరు.
+[0:01:37] Okay? మనం ఎప్పుడు entries తీసుకుంటామంటే, ఎప్పుడైతే support zone దగ్గరికి వచ్చి అక్కడ market reversal, Nifty అనేది reversal find-- reversal అక్కడ కనిపిస్తుందో అప్పుడనేది మనం stocks వెతకడానికి మనం try చేస్తాం.
+[0:01:50] Okay? First మనం ఎప్పుడు entry అవ్వాలన్నదేంటి? Nifty open చేసి కూర్చుంటాం, ఎప్పుడైతే supports దగ్గరికి వల్తు-- వస్తుందో, అక్కడ reversal form అవుతుందో, అప్పుడే మనం entries అనేవి తీసుకుంటాం.
+[0:01:59] For example ఇక్కడ చూడండి, ఇక్కడ three days ఉన్నాయి కదా, three days green లో ఉన్నాయి, ఇక్కడొక entry తీసుకుంటాం. మళ్ళీ next exit ఎక్కడ అవుతాం?
+[0:02:06] Next resistance ఎక్కడ ఉన్నదో అక్కడ exit అవుతాం. Okay? So, అలా. మళ్ళీ ఇక్కడికి వచ్చింది, మళ్ళీ ఇక్కడ reversal form అవుతుంది, మళ్ళీ ఇక్కడ entry తీసుకుంటాం, మళ్ళీ ఇక్కడ exit అవుతాం.
+[0:02:14] Next ఇక్కడ support తీసుకోవాలా? ఇక్కడ support తీసుకుంది. మళ్ళీ ఇక్కడ enter అవుతాం, ఇక్కడ exit అవుతాం. Same, మీరు అలా గమనిస్తా వెళ్ళండి.
+[0:02:21] మీరు ఎంత చూసినా మీకు reverseలో historically ఎంత అలా వెళ్ళినా వెనక్కి మీకు అదే pattern మీకు కనిపిస్తా ఉంటది.
+[0:02:27] Okay? So, ఎప్పుడూ fear of missing outలో, FOMOలోకి వెళ్ళి మధ్యలో buy చేయడం గాని చేయకూడదు. So, లేదా resistance దగ్గర buy చేయడం గాని మనం చేయకూడదు.
+[0:02:35] Only supports దగ్గరికి వచ్చి market అనేది అక్కడ support తీసుకుంటుందన్న confirmation వచ్చాక మాత్రమే మనం buying, stocks buy చేయడానికి మనం stocks అనేవి pickకోవాలి.
+[0:02:43] Okay? So, మీకు watch-- so, Okay మీరు ఎప్పుడు entry తీసుకోవాలి, ఎప్పుడు exit అవ్వాలి అన్నది మీకు clarity వచ్చింది కదా. So, ఇప్పుడు stocks అనేవి ఎలా pick చేసుకుని, ఎలా watchlistలో పెట్టుకోవాలనేసి నేను మీకు చెప్తా.
+[0:02:55] మీకు sector rotation అనేసి ఉంటది. So, నేను use చేసే platform వచ్చేసి Stock Mojo. So, ఇది premium pay చేయాలి.
+[0:03:01] Monthly I think around five hundred అలా pay చేయాలనుకుంటా. So, ఇందులోనే మనకి మొత్తం optionsకి సంబంధించినవి కూడా ఇందులోనే ఉంటాయి.
+[0:03:09] Okay? So, if anyone wanted you can take. Otherwise sector rotation అనేది maximum ప్రతిచోటా paid ఏ ఉంటది. So, Stock Mojo అనేది నాకు మంచి platform అనిపించింది.
+[0:03:17] So, you can take this. So, Stock Mojoకి వచ్చాక ఏం చేయాలంటే, మీకిక్కడ ana-- analyze అనేసి ఒకటుంటది.
+[0:03:25] Okay? Analyzeలోకి వస్తే మీకిక్కడ కింద sector rotation అనేసి ఉంటది. So, sector rotation click చేస్తే మీకీ, ఈ page అనేది మీకొస్తది.
+[0:03:32] Okay? So, ఇక్కడ చివరిది, sector rotation. So, ఇక్కడ benchmark ఏం పెట్టుకున్నారు? Nifty fifty. Okay?
+[0:03:38] So, time frame ఇక్కడ ఏం పెట్టుకున్నారు? Daily. Okay? Daily పెట్టుకుంటే అంటే, మీకు ఒక్కొక్క dot daily అన్నమాట. ఇదొక, ఇది previous last trading session, ఇది ఆ ముందరి trading session, ఇది దాని ముందరి trading session.
+[0:03:50] Okay? అలా tail అంటే అలా ఎన్ని మీకీ, మీకెన్ని trading sessions కావాలి. Okay? మీ ఇష్టం ఎన్నన్నా పెట్టుకోండి. Okay? నేను just default వదిలేస్తా.
+[0:03:58] So, మీకిక్కడ ఇలా scroll చేసుకుంటూ వెళితే, మీకిక్కడ index కనిపిస్తాయి కదా, so ఇవన్నీ indexes, sector, sector indexes అన్నమాట.
+[0:04:04] For example auto click చేశామనుకోండి, auto indexesలో మీకు ఏమేమి improvingలో ఉన్నాయి, ఏమేమి leadingలో ఉన్నాయి, weakeningలో ఏమున్నాయ్, laggingలో ఏమున్నాయని మీకు clearగా కనిపిస్తాది.
+[0:04:14] Okay? So, మీరు first all sectors click చేసుకున్నారు. Okay. Okay, so మీకిక్కడ చూసినట్లయితే graphలో so మీకు four quadrants కనిపిస్తాయి.
+[0:04:24] first ఏంటి? Leading, weakening, lagging, improving. So, మీకు stock market అనేది ఎటు ఎక్కడికి వెళ్లిపోయినా ఈ four quadrantsలో తిరగాల్సిందే.
+[0:04:34] Leading అంటే ఏంటి? ఇప్పుడు right ఏలా వెళ్తుంది, పైకి. So, అందుకు leadingలో ఉన్నది. So, మీకా leading నుంచి weakening అవుతాయి.
+[0:04:41] మీకీ cycle leading, weakening, lagging, improving, leading. So, ఈ cycleలో market అనేది rotate అవుతా, continuous rotate అవుతానే ఉంటది.
+[0:04:49] So, ఇక్కడ మీరు గమనించినట్లయితే ప్రతి sec-- ఒక్కొక్క sector ఒక్కొక్క stageలో ఉంటది మీరు continuous ఈ-- long, along the year చూసినట్లయితే మీకు.
+[0:04:58] So, మీకు ఎప్పుడన్నా అన్ని sectors ఒకేచోట ఉండవు. So, for example అన్ని sectors improvingలోనో, అన్ని sectors leadingలోనో ఉండవు.
+[0:05:04] అలాగని అన్ని sectors laggingలో ఉండవు. మనమేం చేస్తామంటే, so leadingలో ఉన్నవి, weakeningలో ఉన్నవి మనం, మనం వాటి జోలికి వెళ్ళం.
+[0:05:13] మనమేం చూస్తామంటే lagging and improving ఈ రెండు quadrantsలో చూస్తాం మనం only. Okay? So, ఈ రెండు quadrantsలో మనకేమేం sectors ఉన్నాయి?
+[0:05:19] Auto sector ఉంది, metal sector ఉంది, healthcare ఉంది, pharma ఉంది, energy ఉంది, defense ఉంది, almost అన్నీ market పడుతుంది కాబట్టి అన్నీ laggingలోకే వచ్చాయి.
+[0:05:27] So, మనం ఇప్పుడేం చేస్తామంటే, Nifty అనేది ఇక్కడ మంచి support దగ్గరికి వచ్చింది. Okay? ఈ candle చూశారు, మంచిగా reversal అవుతుంది.
+[0:05:35] So, అప్పుడేం చేస్తారు? Sector rotationలోకి వస్తారు. Sector rotationలోకి వచ్చి lagging, improvingలో ఏమేం sectors ఉన్నాయనేసి ఒకసారి చూసుకుంటారు.
+[0:05:42] For example ఈరోజు మనం auto sector తీసుకుందాం. Okay? Lagging నుంచి just improvingలోకి వస్తుంది కదా, so auto sector మనం చూసుకుందాం.
+[0:05:49] So, auto sector చూసుకున్నట్లయితే auto sector మీకు-- ఈ sectorsలో each major, మీకు sector indices ఎలా చూడాలో చెప్తా.
+[0:05:57] మీరు simple ఇక్కడికి వచ్చాక NSC sec-sector index అని type చేయండి. So, మీకు first official NSC website కనిపిస్తుంది, sectoral inde-indices అనేసి.
+[0:06:07] So, అది click చేస్తే... మీకు ఇక్కడ complete ప్రతి index Nifty bank index అంటే bank, Nifty auto index అంటే auto.
+[0:06:14] so మనం ఇప్పుడు ఏం చూస్తున్నాం, so ఇక్కడ మీకు ప్రతిదీ ఉంటుందన్నమాట FMCG, healthcare, hospitals, housing finance, IT index ప్రతిదీ. so మనం ఇప్పుడు Nifty auto index చూస్తున్నాం కాబట్టి Nifty auto index అనేది మనం click చేస్తున్నాం.
+[0:06:25] okay. one minute sir ఇది change చేసినట్టు ఉన్నారు.
+[0:06:46] indices okay so ఇక్కడ మీరు NSE home page లోకి వచ్చారు.
+[0:06:53] ఇక్కడ market data ఉంది కదా market data లోకి వస్తారు. market data లోకి వచ్చాక ఇక్కడ equity కింద indices అని ఉంటది, indices click చేస్తే మీరు ఈ page లోకి వస్తారు.
+[0:07:01] so ఇక్కడ మీరు చూసినట్లయితే ప్రతి index, index, index ఉంటది కదా ప్రతి index, list అయిన index అనేది మీకు ప్రతిదీ ఇక్కడ కనిపిస్తా ఉంటది.
+[0:07:08] okay Nifty small cap అనేసి, mid cap అనేసి ఇక్కడ sectoral indices ఉన్నాయి చూసారా అక్కడికి వస్తారు మీరు. so Nifty auto, మనం Nifty auto చూస్తున్నాం కాబట్టి ఇది example కి నేను తీసుకుని so అది మనం click చేశాం.
+[0:07:19] okay so ఇప్పుడు ఈరోజు ఇప్పుడు కింద ఇందు లో ఏంటంటే major ఉంటాయి కదా auto అవన్నీ so అవన్నీ సంబంధించినవన్నీ ఇక్కడ వస్తాయి.
+[0:07:25] so only మనం ఈ stocks లోనే trade చేయాలి. ఇవన్నీ ఏంటంటే కొంచెం establish అయ్యి మంచి P&L తో ఒక long run ఉన్న companies ఇవన్నీ.
+[0:07:34] so మనం కొత్త companies లోకి వెళ్ళం. ఇప్పుడు మనం established companies మనం చూస్తాం. so ఇక్కడ చూడండి ఇక్కడ ఏమేమి ఉన్నాయి మనకి M&M, Maruti, TVS Motors, TMPV, Eicher Motors, Hero Motors, Bajaj Auto, Ashok Leyland, Motherson, Hyundai, Bharat Forge okay.
+[0:07:47] so ఇవన్నీ తీసుకున్నాం కదా so ఇవన్నీ మనం watchlist లో add చేసుకుంటాం. ఏం చేయాలి మీరు? మీరు ఇక్కడికి వచ్చి either మీరు ఏం చూస్తున్నా మీకు simple గా watchlist అనేది create చేసుకోవాలి.
+[0:07:59] sector wise list అనేసి ఇక్కడ నేను auto, auto లో చూడండి నాకు auto, auto stocks అన్నీ నాకు తెలిసినంతవరకు అన్నీ add చేసి పెట్టుకున్నా.
+[0:08:07] okay so ఇందులో నేను ఏమంటా అంటే మీరు first initially గా ఇక్కడ కనిపిస్తది కదా మీకు sectorals NSE website లోకి వచ్చాక sector wise చూసుకుంటారు కదా NSE auto లో ఉన్నాం కదా, ఈ stocks మీరి focus మీరు concentrate చేయండి, మిగిలిన stocks దగ్గరికి వెళ్ళద్దు.
+[0:08:19] okay ఇవన్నీ established stocks. so ఇప్పుడు for example M&M ఏ తీసుకుందాం M&M first లో ఉన్నది కదా so మనం M&M stock చూద్దాం.
+[0:08:37] M&M okay so ఇప్పుడు ఇక్కడ ఏమున్నది, ఇక్కడ index sector rotation లో ఏంటి lagging నుంచి improving కి వచ్చింది.
+[0:08:48] ఎప్పుడు last trading, last two trading sessions లోనే lagging నుంచి improving కి వచ్చింది మీరు ఇక్కడ గమనించితే two dots. okay so ఇక్కడ improve అవుతుంది, మళ్ళీ ఇదొక trending వచ్చేదా అవకాశాలు ఎక్కువున్నాయ్.
+[0:08:59] and also ఇంకోటి గుర్తుపెట్టుకోండి మీకు ఇక్కడ improving వచ్చిందంటే next leading కి వెళ్ళిపోతది అనేసే ఉండదు. next improving నుంచి మళ్ళీ lagging కి వెళ్ళొచ్చు, మళ్ళీ lagging నుంచి direct leading లోకి వెళ్ళొచ్చు okay.
+[0:09:10] లేదా lagging నుంచి మళ్ళీ weakening కి వెళ్ళొచ్చు, లేదా ఇక్కడ weakening లోకి వచ్చి మళ్ళీ trending లోకి వెళ్ళిపోవచ్చు so okay. ఇలా rotate అవ్వాలని ఉండదు.
+[0:09:18] మీకు ఏంటంటే ఏ zone లో ఉన్నది అన్నది మీకు ఒక clarity వస్తది. okay so ఇక్కడ మీరు చూసినట్లయితే మనం ఏం చేయాలి first ఒక stock తీసుకున్నాక supports and resistance అనేటివి draw చేసుకుంటాం.
+[0:09:28] so ఇక్కడ అన్నీ support and resistance draw చేసుకుని ఉన్నా. so ఇక్కడ మీరు చూసినట్లయితే Nifty M&M ని, so ఇక్కడ support తీసుకుంటుందా లేదా stock అనేది.
+[0:09:37] తీసుకుంటుంది కదా, మీకు ఈ signs ఏమని చెప్పా? మీరు candle journey, candle journey ని మీరు follow అవ్వాలని చెప్పానా లేదా opening నుంచి closing వరకు.
+[0:09:44] so ఇక్కడ మీరు past two, two trading sessions నుంచి చూసినట్లయితే మీకు ఏమవుతుంది market open అయ్యాక కిందకి sellers ఎంతలా push చేసినా తర్వాత afternoon session నుంచి buyers వచ్చి dominate చేస్తున్నారు, అవునా కాదా.
+[0:09:56] so ఈ zone అనేది చాలా important zone and also అక్కడ మనకు, అక్కడ మనకి price action అనేది clear గా కనిపిస్తుంది buy side ఉన్నది అనేసి. so Nifty అనేది ఎక్కడ ఉన్నది మనకి support దగ్గర ఉన్నది.
+[0:10:05] M&M auto sector ఎక్కడ ఉన్నది slow గా improving లోకి వస్తుంది. so ఇప్పుడు ఏం చేస్తాం auto sector లో ఉన్న ప్రతి stock three, four major stocks అన్నీ తీసుకుందాం for example M&M ఉంది next Hyundai చూడండి.
+[0:10:21] okay so మీరు Hyundai చూసినట్లయితే Hyundai ఇంకా పడుతుంది okay M&M లో support తీసుకోవట్లేదు. so మనం Hyundai దగ్గరికి వెళ్దాం. Hyundai next support ఎక్కడ ఉన్నది, ఇక్కడ ఉన్నది.
+[0:10:29] so అక్కడికి వచ్చే వరకు అక్కడ ఒక alert పెట్టుకొని వదిలేస్తాం. okay simple alerts పెట్టుకోండి, alerts పెట్టుకొని ఆ zone లో వదిలేయండి. so మళ్ళా అక్కడికి వచ్చినప్పుడు మళ్ళీ చూద్దాం.
+[0:10:37] so ప్రస్తుతం మన దగ్గర ఉన్న condition కి Nifty అనేది support దగ్గర ఉన్నది, అక్కడ reversal sign కనిపిస్తుంది and also మీరు అన్ని stocks చూసినట్లయితే, మీరు ఇంకా చూడొచ్చు, మిగిలిన stocks అన్నీ ఉన్నాయి కదా, ఇవన్నీ కూడా compare చేయాలి.
+[0:10:48] wait, ఊ, okay ఈ stocks ఉన్నాయి చూసారా, ఇవన్నీ stocks compare చేయాలి. so compare చేసి ఏదైతే ఆ supports దగ్గర reversal అవుతుందో, అవన్నీ watchlist లో పెట్టుకుంటారు.
+[0:11:01] watchlist లో పెట్టుకున్నాక ఏం చేయాలి అంటే next fundamental analysis లోకి రావాలి. fundamental analysis, మనం ఏ app use చేస్తాం screener.
+[0:11:08] so screener లోకి వద్దాం. మనం చూసే company ఏంటి M&M. సో మీకు, సో మీకు basic ఒక company overview easy గా తెలియాలంటే simple stock P/E ratio చూసుకోండి just initial comparison కి.
+[0:11:25] okay initial comparison కి stock P/E ratio చూడండి. so మిగిలిన sectors ఇక్కడ P compare, P compare, comparison అని చెప్పా కదా, so ఇక్కడ మీరు చూసినట్లయితే మిగిలిన stocks P/E ratios చూసుకోండి.
+[0:11:35] అన్నట్లు కన్నా ఏది తక్కువుంది, M&M ఏ కదా తక్కువున్నది okay. so M&M అనేది మనం ఇక్కడ ఒకసారి fundamentals చూడాలి.
+[0:11:42] ఎందుకు ఇంత తక్కువున్నది, ఏమన్నా company లో ఏమన్నా జరుగుతుందా, negatives ఏమన్నా ఉన్నాయా, లేదా general మీకు price అనేది ఎలా travel అవుతది అని చెప్పా, ఒకేసారి అలా పైకి వెళ్తా ఉండదు లేదా కిందకి పడతా ఉండదు.
+[0:11:54] okay swings లో travel అవుతది. so ఆ, ఆ price journey లో ఉన్నదా stock అనేది మనం తెలుసుకోవాలి. okay so మనం ఇక్కడ ఏం చేస్తాం అప్పుడు quarterly results కి వస్తాం.
+[0:12:03] so మీకు చెప్పా కదా నేను last video లో screener చూ-చూసినప్పుడు quarterly fundamentals అన్నీ ఎలా read చేయాలనేసి అవ-అవన్నీ read చేస్తాం simple.
+[0:12:11] Okay first ratio first cash flow లోకి వస్తారు అంతా బానే ఉన్నదా positives maintain చేస్తున్నారా లేదు negative ఉంటే ఎక్కడికి వెళ్తుంది ఇక్కడ ఏముంది cash from investing, investing లోకి వెళ్తుంది ఎక్కడికి వెళ్తుంది fixed assets purchased so assets purchase చేస్తున్నారు అయితే lands అన్న లేకపోతే factories అన్న అది మంచిదే కదా company అనేది expand అవుతుందా లేదా cash
+[0:12:31] from operating activity, operating activity నుంచి కూడా వీళ్ళ pockets లో cash వస్తున్నాయి okay so ఇలా మీరు compare చేసుకోండి అవన్నీ నేర్పించా కదా free flow తో వెళ్ళండి ఇలా formulas ఇలాగే ఉండాలి ఇలా ఉండాలి అన్నట్టు కాకుండా ఇది మీ company ఎలా జరుగుతుంది ముందరలో ఏమేం ఇబ్బందులు ఉంటాయి అని ఒక free flow లో వెళ్ళండి analysis అనేది fundamental analysis okay so మీరు ఇవన్నీ
+[0:12:52] చూస్తారు okay చూసిన తర్వాత PE ratio మంచిగా ఉన్నది so entire sector లో మంచి PE ratio ఉన్నది మంచి revenues అన్నీ బాగా వస్తున్నాయి మీరు general గా బయట చూసినట్లయితే బాగా కొంటున్నారు Mahindra cars అనేవి so ఇవన్నీ మీకు plus points కదా so అప్పుడు ఏం చేస్తారు ఇక్కడ reversals అన్నీ కనిపిస్తున్నాయి so ఇక్కడే entry అనేది తీసుకుంటారు okay ఇక్కడ entry తీసుకున్నారు next ఎప్పుడు వరకు
+[0:13:12] అంటే next major support ఎక్కడ ఉన్నది so మీరు ఇక్కడ two ఉంటాయి exits కి entry కి ఎప్పుడూ ఒకటే exits కి ఏంటంటే మీకు market బావున్నది bull, bull run లో ఉన్నది లేదంటే మంచి swings వేసుకుంటా ఏమీ news లేదు general market travel అవుతుంది అంటే మీరు ఇక్కడ enter అయితే మళ్ళీ major resistance ఎక్కడ ఉన్నది ఇక్కడ ఉన్నది ఈ levels అవునా కాదా
+[0:13:33] ఎప్పుడో గాని దీని కిందకి రావట్లేదు so మనం ఏం చేస్తాం ఇక్కడ position తీసుకుని ఇక్కడ వరకు మనం ఉంటాం hold చేస్తాం okay ఇక్కడే exit తీసుకోవచ్చు లేదు నాకు company మీద మంచి నమ్మకం ఉన్నది and also market అనేది for example మీకు ఇక్కడికి వచ్చేటప్పటికి market అనేది middle లో ఉన్నది అనుకోండి
+[0:13:55] నిఫ్టీ అనేది మంచిగా ఈ zone నుంచి breakout ఇస్తుంది so ఇక్కడ ఇలా ఈ type breakout ఇచ్చింది అనుకోండి so అప్పుడు ఏం చేస్తాం hold చేస్తాం so major మీరు holding అప్పుడు entries అప్పుడు exit అప్పుడు నిఫ్టీ ని consider చేయాలి నిఫ్టీ ఎక్కడ ఉన్నది దాన్ని బట్టి మీరు exits for example ఈ example ఏ తీసుకోండి ఏమైంది ఇక్కడ fall పడతాది పడతాది అన్నారా లేదా market నేనేం చెప్పా ఈ
+[0:14:16] zone break చేయనంత వరకు మనకి ఇంకా consolidation లోనే ఉన్నట్టు అనేసి మనం చెప్పుకున్నామా లేదా ఏమైంది ఇక్కడ consolidate అయింది తర్వాత ఎక్కడికి వెళ్ళింది next resistance, ఈ resistance దగ్గర ఉంది మళ్ళీ అక్కడి నుంచి reverse అయింది మళ్ళీ ఇక్కడికి వచ్చింది ఇక్కడి నుంచి మళ్ళీ pull back ఇస్తుంది so మీరు stock ఏ stock తీసుకున్న index తీసుకున్న అది technicals మీరు ఏం
+[0:14:36] తీసుకున్న VWAP తీసుకున్నా లేదా Bollinger bands తీసుకున్నా ఏది తీసుకున్న మీరు EMs తీసుకున్నా ఏం తీసుకున్నా at the end of the day touch points అనేవి support and resistance దగ్గరికి వచ్చే touch points అవుతాయి okay మీకు entry criterias అనేవి support and resistance దగ్గరే మీకు form అవుతాయి maximum okay so support and resistance మీరు నేర్చుకుంటే సరిపోతుంది మిగిలినవన్నీ చూస్తూ మీరు time waste చేసుకోకండి and clumsy so
+[0:14:57] confuse అవ్వకండి okay so ఇక్కడ మనం ఎక్కడ ఉన్నాం M&M entry తీసుకున్నాం కదా so M&M entry తీసుకున్నాం M&M entry తీసుకున్నాక మళ్ళీ market అనేది ఇక్కడికి వచ్చింది ఇక్కడి నుంచి మన market condition బాలేదు so ఇక్కడ exit అవుతాం మనం ఎంత profit వచ్చింది for example ఈ condition నే తీసుకుంటే ఇక్కడ, ఇక్కడ వచ్చింది okay ఇక్కడ ఈ reversal
+[0:15:17] లోనే మనం enter అయితే ఇక్కడికి వచ్చేటప్పటికి ఎంత profit వచ్చింది 3.7% okay fifteen days లో 3.7% వచ్చింది okay for example market condition బావుంది so పెద్ద target పెట్టుకుంటారు ఇక్కడికి పెట్టుకుంటారు ఈ target okay so అలా market condition బట్టి మీకు exits మారుతాయి entries మారవు entries
+[0:15:37] ఎప్పుడూ మీకు ఒకటే formula నిఫ్టీ మంచి support దగ్గర ఉన్నదా next sector rotation లోకి వెళ్తారు sector rotation లో ఏది improving లో ఉన్నది లేదా lagging నుంచి బయటకు వస్తుంది ఈ sectors అన్నీ తీసుకుని అవన్నీ ఆ sector, sector choose చేసుకుంటారు sector choose చేసుకున్నాక ఏం వస్తాయి NSE కి వచ్చి sectorial indices లోకి వచ్చి అక్కడ మీరు sector
+[0:15:57] ని select చేసుకుంటారు మన example ఏంటి auto sector ని select చేసుకుందాం auto sector ని select చేసుకున్నాం ఇక్కడ stocks ఉన్నాయి కదా initially ఈ stocks ని trade చేయండి మీకు experience వచ్చే వరకు తర్వాత వీటిలో నుంచి బయటకు వెళ్ళండి గాని okay so ఈ stocks తీసుకుంటారు ఈ stocks అన్నీ support and resistance draw చేసుకుంటారు draw చేసుకున్నాక ఏదైతే supports దగ్గర support తీసుకుంటుంది అని అనిపించిందో అప్పుడు ఆ stocks అన్నీ పక్కకు తీసుకు వచ్చి
+[0:16:18] వాటికి fundamental analysis చేస్తారు ఆ fundamental analysis చేశాక ఏ stock అయితే మంచి valuation లో ఉన్నది అని అనుకుంటున్నారో and fundamentals కూడా చాలా బాగున్నాయి growth కూడా చాలా steady గా and strong గా అవుతుంది అన్నదో ఆ company లో మీరు entry అనేది తీసుకుంటారు so swing trading కి ఇదే strategy
+[0:16:38] okay so ఇప్పుడు చెప్పా కదా strategy ఇది మీరు back test చేయండి for example for example నిఫ్టీ తీసుకోండి నిఫ్టీ historic గా for example మీరు historic గా మీరు చూసుకోండి ఎక్కడ supports తీసుకుని అక్కడ ఆగుతుందో చూసుకున్నాక ఏ
+[0:16:59] stocks అయితే ఆ time లో supports దగ్గర support తీసుకుంటున్నాయో for example నిఫ్టీ fifty stocks ఏ తీసుకోండి fifty stocks తీసుకోండి fifty stocks watchlist పెట్టుకొని ఏం చేస్తారంటే నిఫ్టీ fifty ఒక పక్కన పెట్టుకొని supports దగ్గరికి వచ్చి reversals అవుతున్న ప్రతిసారి నిఫ్టీ fifty stocks అన్నింటికి support ratios draw చేసి ఉంచుకోండి so అవి ఎలా react అవుతున్నాయో చూడండి మీకు ఒక idea
+[0:17:19] వస్తది okay so నిఫ్టీ fifty బట్టే మనం ఎందుకు నిఫ్టీ fifty ని చూస్తాము సెన్సెక్స్ ని చూస్తాము అన్నది మీకు ఒక clarity వస్తది ఎందుకంటే ప్రతి buyer లేదా seller market పడుతుంది లేదా market crash అవుతుంది లేదా market చాలా బాగా పెరిగింది అని దేని బట్టి దేని బట్టి తెలుసుకుంటారు నిఫ్టీ బట్టి సెన్సెక్స్ బట్టి మీరు news channels కూడా చూసినట్లయితే ఏమంటారు వాళ్ళు ఈరోజు నిఫ్టీ ఇంత points
+[0:17:40] పడింది సెన్సెక్స్ ఇంత points పడిందా లేదా ఇంత పెరిగింది ఇంత పెరిగింది అంటారు but individual stock ఏది compare చేయరు so మనం ఈ index బట్టే market అనేది react అవుతుంది okay for example వరుసగా three days బట్టి మనకి selling వచ్చిందనుకో నిఫ్టీలో ఇక నిఫ్టీలో ఏముంటే fifty stocks ఏ ఉన్నాయి కాకపోతే మిగిలిన ఎన్ని thousands of stocks ఉన్నాయి అవన్నీ react అవుతాయి
+[0:18:00] ఎందుకు react అవుతున్నాయి news బట్టి okay so నిఫ్టీ fifty నే Indian market ని నడుపుతుంది నిఫ్టీ fifty and సెన్సెక్స్ దీని బట్టే market అనేది react అవుతుంది okay అది గుర్తుపెట్టుకోండి అందుకే మనం నిఫ్టీ fifty supports and resistance draw చేసుకుంటాం వాటిని బట్టే అవి supports కి వచ్చినప్పుడే మనం entries తీసుకుంటాం and resistance వచ్చినప్పుడు exit అవుతాం ఓకే ఇప్పుడు మీకు ఏం
+[0:18:20] చెప్-- ఏం చేయాలంటే Nifty fifty stocks అన్నీ తీసుకోండి. ఓకే. తీసుకున్నాక వాటి support and resistance key draw చేసుకోండి.
+[0:18:26] either ten, twenty తీసుకోండి. ఓకే. లేదా ఒక five stocks ఏ తీసుకోండి. లేదా seven, eight stocks తీసుకోండి. Nifty fifty support దగ్గరికి వచ్చినప్పుడు ఆ, ఆ ten to fifteen stocks ఎలా react అవుతున్నాయని చూడండి.
+[0:18:37] simple మీకు ఒక idea వస్తది. so ఇది మాత్రం practice చెయ్-- నేను ఇప్పుడు strategy చెప్పా కదా, strategy గాని practice చేయకుండా direct గాని మీరు invest చేసినట్లయితే మీరు, మీకు FOMO వచ్చి లేదా psychology emotions అనేవి ఇంపో-- impact అయ్యి మీరనేమి డబ్బులు lose అవుతారు.
+[0:18:51] ఓకే. so first practice చేయండి initial next week అంతా ఇప్పుడు ఇది అయిపోయింది కదా, so next week అంతా ఏం చేస్తారంటే options లోకి వెళ్ళొద్దు.
+[0:18:58] మీకు ఇక్కడితో swing trading అనేది అయిపోయింది. so next one week options start చేయకుండా, ఇవి మీకు చెప్-- మీకు చెప్పా కదా ఇప్పుడు ఇవన్నీ, ఇప్పుడు ఈరోజు strategy చెప్పా కదా simple ఇదే points మీరు note చేసుకుని first ఏం చేయాలి?
+[0:19:10] Nifty support దగ్గర ఉందా లేదా చూసుకోవాలి first check point. next sector rotation open చేస్తారు. sector ropation-rotation లో ఏవి lagging అండ్ improving లో ఉన్నాయి, weakening లోకి ఏం వస్తున్నాయి, ఇవన్నీ చూసుకుని ఒక three to four stocks అనే three to four sectors అనేవి మనం pick చేసుకుంటాం.
+[0:19:25] second tick point. next NSC, NSC official website లోకి వచ్చి market data లోకి వచ్చి indices లోకి వస్తే మీకు, మీరు ఏం sectors అనుకుంటున్నారో two to three sectors అనుకుంటున్నారు కదా, ఆ sector stocks అనేవి open చేస్తారు.
+[0:19:39] third check point. next అవన్నీటిలికి support and resistance draw చేసుకుని ఏవైతే supports దగ్గరికి వచ్చి అక్కడ reject అవుతా అక్కడ కనిపిస్తున్నాయో ఆ stocks మళ్ళీ watch list లోకి add చేసుకుంటారు.
+[0:19:50] ఓకే. ఆ తర్వాత ఆ, ఆ అన్నీ stocks తీసుకుని ఆ అన్నీ stocks లో ఏదైతే fundamental గా చాలా బాగున్నాయో చూసుకుని ఆ stock లో five percent లేదా ten percent of your capital invest చేస్తారు.
+[0:20:02] so ఇదే strategy. ఓకే. so చెప్పినప్పుడు simple గానే ఉంటుంది. ఒకసారి practice చేయండి. practice చేస్తే మీకు కూడా అర్థమవుతుంది అండ్ మీకు కూడా easy అవుతుంది.
+[0:20:10] ఓకే so ఈ video తో మీకు swing trading అనేది complete అయిపోయింది. so next అనేది మీరు options start చేయకుండా ఒకసారి swing trading అనేది one week practice చేయండి.
+[0:20:19] practical గా చూడండి market లో ఏమవుతున్నాయి, stocks ఎలా react అవుతున్నాయి, support and resistance కి వస్తున్నదా లేదా అనేసి అవంతా మీరు detail గా చూడండి.
+[0:20:26] లేకపోతే మీకు అర్థం కాదు. practice చేయకపోతే మళ్ళీ మీరు మర్చిపోతారు నేను ఇప్పుడే చెప్తున్న. ఓకే. so ఈ video తో ఇక్కడ ఆపేసి options start చేయకుండా swing trading అనేది మీరు చూడండి.
+[0:20:37] ఓకే. ఇది చూసి ఒక one week practice చేశాక అప్పుడు ఓకే నాకు confidence వచ్చింది stocks swing trading అంటే ఎలా చేయాలో, ఏంటనేది మనకు ఒక clarity వచ్చింది అనుకుందాం.
+[0:20:46] ఓకే. అప్పుడు options లోకి రండి. అండ్ also చాలామంది SL అడుగుతారు కదా. so ఇప్పుడు మన strategies, entries, exits పైకి వెళితే బానే ఉన్నది అనేసి అనుకుంటున్నాం.
+[0:20:55] SL so మన strategy లో SL అనేది ఉండదు. ఎందుకంటే మన, మన investment అనేది, for example, ఓకే ఏ stock choose చేసుకోవాలి, ఏంటి అనేసి అంతా clarity వచ్చింది కదా.
+[0:21:09] so ఇప్పుడు capital allocation చెప్తా. capital allocation. ఓకే so capital allocation ఉండాలని, ఎలా ఉండాలంటే initially గా మీరు start చేస్తున్నారంటే five percent in each stock.
+[0:21:25] దాని మించి వెళ్ళద్దు. ఓకే. మీకు ఈ company చాలా బాగుంది, ఇక్కడ ఈ levels లోకి మళ్ళీ రాదు అన్న confidence ఉంటే ten percent in each stock.
+[0:21:35] ఓకే. next for example మీరు Nifty బట్టే కదా మనం invest చేసేది for example ఇక్కడ invest చేశాం.
+[0:21:42] ఓకే ఇక్కడ invest చేశాం, ఇక్కడ support తీసుకుంది కాబట్టి, కాకపోతే తర్వాత news వచ్చి ఇక్కడికి పడిపోయింది. మళ్ళీ మనమేం చేస్తాం, ఇక్కడికి పడ్డాక అసలు ఆ news ఏంటి, ఎందుకు పడింది ఒక general గా price travel అవుతుంది అన్నట్లయితే మళ్ళీ ఇక్కడి నుంచి ఏం అవ్వాలి, మళ్ళీ పైకి వెళ్ళాలి లేదా, so ఇక్కడికి వచ్చినప్పుడు మళ్ళీ average చేస్తాం మన stocks అన్నీ.
+[0:22:00] so initially ఇక్కడ five percent in each stock పెట్టారు కదా, అప్పుడు averaging ఏం చేస్తామంటే మళ్ళీ five percent in each stock చేస్తాం initially గా five percent పెడితే.
+[0:22:11] లేదు ten percent పెట్టామంటే ten percent పెట్టినా five percent ఏ చేస్తాం. ఓకే. so ఇలా మీరు averaging అనేది చేసుకోవాలి.
+[0:22:24] ఓకే. got it? so capital allocation వచ్చింది కదా so and market కింద అదే for example మనం purchase చేసిన stocks అనేవి కిందకి వస్తే మనం averaging ఎలా చేస్తామన్నది కూడా clarity వచ్చింది కదా.
+[0:22:33] మొత్తం మీరు ప్రతీదీ Nifty ని చూసే చేయాలి. support ఇక్కడ for example మీకు example చెప్పా కదా, చెప్పా కదా. ఇక్కడ entries తీసుకున్నారు.
+[0:22:40] ఓకే market అనేది మళ్ళీ ఇక్కడికి పడింది. so ఇక్కడ మళ్ళీ ఇక్కడ entries తీసుకున్న stocks అన్నీ మనం ఇక్కడే average చేసుకుంటాం. five percent capital తో తీసుకుంటే five percent చేస్తాం.
+[0:22:49] ten percent తీసుకున్నా five percent తోనే చేస్తాం. ఓకే. అండ్ also ఇంకొక third important rule ఏంటంటే for example మీరు తీసుకున్న ప్రతి stock పైకి వెళ్ళాలని rule లేదు కదా.
+[0:22:58] at the end of the day stock market అనేది probability game. అవును కదా. so for example మనం maximum ఒక stock లో twenty percent of your capital మించి వెళ్ళకూడదు.
+[0:23:11] for example మనం initially గా twenty percent వెళ్ళాం, for example averaging చేసుకుంటా వచ్చాం, ఇంకా stock అనేది పైకి పెరగట్లేదు. ఓకే. so ఆ stock లో దొరికేశాం.
+[0:23:18] అప్పుడు ఏం చేస్తాం twenty percent of your capital invest చేశాక averagings అన్నట్లులో ఇంక వదిలేస్తాం ఆ stock ని. ఓకే. పోతే twenty percent పోతది.
+[0:23:26] లేదంటే మళ్ళీ net to net వచ్చినప్పుడు మనం exit అనేది అవుతాం. లేదా five percent loss లోకి వచ్చామనే మనం exit అనేది అవుతాం.
+[0:23:33] ఓకే అండ్ also ఈ exit కి కూడా చాలా criterias ఉంటాయి. for example two criterias ఉంటాయి. first ఏంటి news based. news వచ్చిందంటే వెంటనే మనం exit అయిపోతాం.
+[0:23:41] ఓకే. for example Yes bank case తీసుకోండి. Yes bank లో ఏమైంది? so for example పైన ఎక్కడైనా invest చేశారనుకోండి so అప్పుడు ఏమవుతుంది?
+[0:23:47] మీకు news వచ్చాక ఆ company fraud అని తెలిసింది కదా. so వాళ్ళ deposits అన్నట్లుని వాళ్ళు withdraw చేసుకుని వేరేగా use చేసుకున్నారు.
+[0:23:54] so అది fraud చేస్తున్నారు వాళ్ళు. అప్పుడు ఏం చేస్తాం అలాంటి companies లో వెంటనే ఎంత, ఎంత loss ఉంటే అంత loss తో మనం loss అనేది book చేసుకుని బయటకు వచ్చేస్తాం.
+[0:24:01] ఓకే. అండ్ second వచ్చేసి general, general market sentiment.
+[0:24:08] మీకు ఈ general market sentiment అంటే ఏం చెప్పాలంటే for example HDFC తీసుకోండి. HDFC మీకు news వచ్చే పడింది. కాకపోతే ఆ news ఏంటి?
+[0:24:15] అంత impact చూపించలే. వీళ్ళేమి fraud చేయలేదు, ఏమి చేయలేదు. ఒక చిన్న transaction bribe ఇచ్చి దొరికారు. so వాటి మీద చిన్న issues నడుస్తున్నాయి.
+[0:24:23] so అవేమీ పెద్ద ఇబ్బంది కాదండి. also amount ఎంత? చాలా చిన్నది కదా. సో amount చాలా చిన్నది. వీళ్లకున్న book ప్రకారం అది negligible amount.
+[0:24:32] Okay. వాళ్ళకి peanuts కింద సమానం. సో, సో, ఈ type news లో ఏం చేస్తారంటే for example ఇలా-ఇలా చాలా important levels కొచ్చినప్పుడు ఒకసారి fundamentals తీస్తారు.
+[0:24:43] Fundamentals తీశాక అక్కడ చూస్తారు. చూసిన్ తర్వాత okay అంతా బావున్నది, ఇది just చిన్న case, ఏం కాదు మళ్ళీ అయిపోతుంది అంటే మనం అనేది five percent allocation తో start చేస్తాం ఇక్కడ.
+[0:24:53] మంచి levels లోకొచ్చాక, okay. సో, ఇలా slow, slow గా five percent, five percent చేసుకుంటూ twenty percent కి వెళ్తాం. Okay. సో, మీకు చెప్పా కదా.
+[0:25:03] సో, ఇప్పుడు ఏమేం strategy చెప్పా? Okay. సో, market అనేది పైకి వెళ్తే okay ఎలా book చేసుకోవాలి profit అనేది చెప్పా.
+[0:25:10] లేదు stock మనం invest చేసిన దగ్గర నుంచి market ఇంకా పడుతుంది, పడుతుందన్నప్పుడు ఎలా average చేసుకోవాలో చెప్పా. మీ ప్రతి entries, exits, averaging అంతా Nifty బట్టే ఉండాలి.
+[0:25:20] Okay, సో averaging చెప్పా. next capital allocation ఎంత important చెప్పా. ఏ stock లో మీరు twenty percent of your capital మించి invest చేయకూడదు.
+[0:25:27] Okay. ఎక్కడన్నా ఒక stock లో దొరికేశారు ఇంక twenty percent మొత్తం zero అయిపోయింది, zero అవ్వదు కాకపోతే zero అయిపోయింది అనుకుందాం twenty percent. మీరు monthly ఈ strategy తో three to five percent earn చేస్తారు.
+[0:25:39] సో, three to five percent అంటే మీకు ఆ twenty percent recover చేయడానికి ఎన్ని months పట్టింది? For example three percent ఏ earn చేస్తున్నారనుకోండి, ఎంత పట్టి-- ఎన్ని months పడుతది?
+[0:25:48] 6.6 months. మీరు మళ్ళీ 6.6 months లో మళ్ళీ మీరు recover అయ్యారా లేదా మీ profits? మళ్ళీ ఆ twenty percent recover చేశారు కదా మీరు పోగొట్టుకున్న డబ్బులు.
+[0:25:57] సో, ఇలా మీరు ఎప్పుడూ twenty percent మించి ఎక్కువ చేస్తే ఏమవుతుందంటే మీ psychology అనేది impact అవుతుంది. For example thirty percent of లేదా fifty percent ఒక stock లో invest చేశారు.
+[0:26:07] ఆ stock fraud అని తెలిసిందా company, పోయినయ్ fifty percent డబ్బులు. మళ్ళీ ఆ fifty percent డబ్బులు recover చేయడం ఎంత కష్టం? fifty percent recover చేయడం కష్టమా, twenty percent recover చేయడం కష్టమా?
+[0:26:17] సో, అందుకే capital allocation అనేది చాలా important. ఏ stock లోని twenty percent మించి ఎక్కువ వెళ్ళకూడదు. ఈ twenty percent కూడా మీకు ఎప్పుడొస్తది అంటే ఒక three to four times average చేశాక అప్పుడొస్తది twenty percent.
+[0:26:27] అది చాలా rare case. Okay. మీకు max two averages లోనే మీరు బయట-బయటికొచ్చేస్తారు, ఏ stock లోనన్నా. Okay మీకు ఈ worst case కూడా చెప్పా.
+[0:26:35] See, worst case లో మీరు ఒక stock లో twenty percent మించి పోగొట్టుకోకూడదు. అదొక thumb rule గుర్తుపెట్టుకోండి. ఎప్పుడూ మీకు strategy ఎంత బావున్నా మీరు capital allocation అనేది సరిగ్గా చేసుకోకపోతే మీరు long term survive అవ్వలేరు market లో.
+[0:26:46] అది కూడా గుర్తుపెట్టుకోండి. Okay. సో, ఈరోజుతో swing trading strategy అనేది complete అయింది. సో, పైకి మీకు entries, exits, averagings అన్నీ చెప్పా.
+[0:26:54] next capital allocation ఎలా చేసుకోవాలో చెప్పా. ఇంక next SL చెప్పా కదా. news based ఏమన్నా bad news వచ్చింది company అనేది fraud అని తెలిసిందంటే we will exit.
+[0:27:04] Book-book చేసుకుంటాం loss. లేదు general లో ఏదో news వచ్చింది market sentiment వల్ల పడుతుంది లేదా stock sentiment వల్ల పడుతుందన్నారంటే we will average.
+[0:27:12] Okay? Averaging కూడా ఎలా చేయాలంటే ప్రతి five percent కి six percent కే చేసుకోరు. మీరు ప్రతి average కి ten percent ఉండాలి difference, అది కూడా గుర్తుపెట్టుకోండి.
+[0:27:21] ప్రతి average కి minimum, minimum ten percent difference ఉండాలి. For example మీరు hundred rupees దగ్గర కొంటే మళ్ళీ, ఆ, ninety rupees అంటే ఏంటి ten percent పోయినట్టు కదా, ninety rupees కొచ్చాక మీరు average చేస్తారు.
+[0:27:33] సో, అలా. ఆ ninety rupees average కి కూడా మీరు stock లో historic గా మంచి support దగ్గర ఉండాలి. ఆ support దగ్గరకొచ్చినప్పుడు మనం average చేస్తాం.
+[0:27:40] అలా కాకుండా, for example Jio Finance ఏ తీసుకోండి, Jio Finance ఇక్కడ మనం purchase చేశామనుకోండి, ఇక్కడి నుంచి ఈ మధ్యలో ఇక్కడ ఎక్కడ average చేయం.
+[0:27:51] మళ్ళీ ఇక్కడ మంచి support దగ్గరకొచ్చాక అక్కడ support తీసుకుంటుందని తెలిశాక మనం అక్కడ average చేసుకుందాం. so averaging కూడా minimum ten percent difference ఉంటేనే average చేయండి మీ entry price కి.
+[0:28:01] ఎందుకంటే మనం capital allocation అనేది చాలా జాగ్రత్తగా చేసుకోవాలి. లేదు మీకు for example మీరు అనుకోవచ్చు, మరి నేను average చేసుకుంటే easy గా బయటపడిపోతా కదా, market అనేది ఇక్కడికొచ్చి ఇక్కడి నుంచి మళ్ళీ reversal అయిపోయిందంటే, reverse అయిపోనివ్వండి, మీరు exit అయిపోతారా లేదా?
+[0:28:16] లేదు market ఇంకా, మీరిక్కడ ఎంటర్-- మీరిక్కడ average చేశారు, average చేశాక ఇంకా market కిందకి పడింది. సో, అక్కడ మీకు price ఎంత average అవుతుంది మహా అయితే ఇక్కడికొస్తది two twenty five దగ్గర two thirty దగ్గర, వంద five rupees తగ్గుతుంది.
+[0:28:27] సో, అది మీకు అంత ఫరక్ పడదు కదా. For example మీరు for example two hundred దగ్గరో, ఇక two ten దగ్గరో average చేశారనుకోండి, మీ average price ఎక్కడికొస్తది two twenty దగ్గరొస్తది.
+[0:28:36] ఎన్ని-ఎన్ని rupees difference వచ్చింది ఇక్కడ? ten rupees difference వచ్చింది. సో, మీరు average చేశారంటే మీ average price అనేది చాలా మంచి price దగ్గరకొచ్చి ఉండాలి average price అనేది.
+[0:28:44] సో, ఆ type లో average చేసుకోవాలి. Okay. సో, ఇది ఎంత చెప్పినా, ఈ theory ఎంత చెప్పినా మీకు అర్థం-- సో, అంటే practical గా చూస్తే గాని మీకు అర్థం కాదు.
+[0:28:53] సో, ఏం చేస్తారంటే one week options లోకి వెళ్ళకండి. ఈ strategy ఏ follow అవ్వండి. అంటే capital allocation కూడా మీరు గుర్తుపెట్టుకోండి.
+[0:29:02] సో, ఏమన్నా doubts ఉంటే నాకు DM చేయండి, నేను మీకు explain చేస్తా. Okay guys, thank you. సో, ఇదంతా practice చేయండి.
+[0:29:08] one week అనేది swing trading కి ప్రత్యేకంగా dedicate చేయండి. తొందరపడి options లోకి వెళ్ళద్దు. ఈ one week complete దీన్ని నేర్చుకోండి.
+[0:29:15] next week నుంచి options లోకి రండి. options లో నేను మీకు strategy చెప్తా. And also options strategy, swing-swing strategy అయిపోయాక, సో, మనం ఎలా options invest చేసి వాటిని pledge చేసుకుని వాటి నుంచి option selling చేసుకోవాలో అది కూడా చెప్తా మీకు.
+[0:29:31] Okay. సో, వేరే వాటిలకి distract అవుతున్నా, only ఈ strategy ఏ follow అయ్యి నేను చెప్పిన వాటిల్నే concentrate చేయండి. ఇంకేమీ add చేసుకోవద్దు.
+[0:29:38] Okay? ఇవి చాలు. మీరు profitable అవుతారు. Okay guys, so see you in the next video, bye.
+[0:29:45] Practice అయితే చేయండి, practice చేయకుండా అయితే ఉండొద్దు.
