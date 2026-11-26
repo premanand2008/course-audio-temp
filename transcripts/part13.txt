@@ -1,0 +1,204 @@
+# Course part 13 transcript (ElevenLabs scribe_v2, Telugu+English), duration 2916s
+[0:00:18] Okay bro, so నేను మొన్నకి మొన్నటితో Technical Analysis అయిపోయింది కదా bro. So మీకు ఇప్పటితో Clarity వచ్చింది కదా bro Support, Resistance ఎలా draw చేసుకోవాలి, Trend Lines పెద్దగా neglect చేయనంత అవసరం లేదు.
+[0:00:29] తర్వాత discuss చేద్దాం strategy చూసుకున్నప్పుడు ఎందుకు Trend Lines తీసుకోవాలనేసి. So Support and Resistance next Candlestick Patterns, Price Journey ఈ మూడు అర్థమయినాయి కదా bro, Clarity వచ్చిందా మీకు?
+[0:00:41] Yes bro. మ్మ్ Okay bro. So Technicals మన strategy మనం చూసేవి అవి Technicals అయిపోయినాయి.
+[0:00:48] So Fundamentals, So Fundamentals basic గా ఎందుకు important అంటే ఆ మనకి SL ఉండదు కదా so మనం ఏం చేస్తాం as a investment view లో చూసి stock అనేది కిందకి retrace అయినప్పుడు మనం అక్కడ buy చేస్తాం మళ్ళీ stock అనేది పైకి వెళ్తుందన్న ఉద్దేశంతో.
+[0:01:06] For example ఇక్కడ only Technicals చూస్తే ఏమవుతది అంటే ఆ for example A అనే ఒక company ని తీసుకోండి.
+[0:01:22] company A ఆ company A ఉ year twenty twenty one లో ఒక hundred crores profit వచ్చింది.
+[0:01:43] Okay అప్పుడు stock price వచ్చేసి ఉ Two hundred rupees.
+[0:01:58] So ఇక్కడ valuations అవేమీ పట్టించుకోకండి just general terms లో చెప్తున్నా. Okay two hundred next year twenty twenty two లో one twenty crores
+[0:02:19] profit వచ్చింది. Stock price two twenty అయింది.
+[0:02:35] Next twenty twenty three లో eighty crores profit వచ్చింది. Stock price one sixty కి వచ్చింది.
+[0:04:05] Okay bro, so ఇక్కడ చూసుకున్నట్లయితే for example two companies మనం examples గాని తీసుకున్నాం. So ఒక four years revenues వేసుకున్నాం మనం okay profits అనుకోండి లేదప్పుడు అనుకోండి.
+[0:04:15] So first year ఏంటి hundred crores వచ్చింది okay. అప్పుడు stock price ఎంతుంది two hundred ఉన్నది. Next year వచ్చినట్లయితే one twenty crores profit వచ్చింది.
+[0:04:25] ఒక hundred crores నుంచి one twenty crores profit వచ్చినాయి twenty crores పెరిగింది కదా. Okay పెరగటం వల్ల market అనేది దీన్ని positive గా చూసి stock price అనేది two twenty కి వెళ్ళింది.
+[0:04:34] Next year twenty twenty three eighty crores profit కి decrease అయింది. దీన్ని market negative కింద చూసి one sixty కి అనేది stock price అనేది వచ్చింది.
+[0:04:44] Okay next year మళ్ళీ eighty crores వచ్చింది stock price అనేది one fifty కి వచ్చింది. So ఇది ఒక company A journey stock price అనే journey.
+[0:04:52] Next ఈ company constant profits అనే పెరుగుతున్నాయి మధ్యలో ఒక year అనేది తగ్గింది.
+[0:04:59] Okay so ఇదొక scenario. So hundred crores ఉన్నప్పుడు profit two hundred ఉన్నది, one twenty ఉన్నప్పుడు two twenty ఉన్నది, eighty crores ఉన్నప్పుడు one sixty ఉన్నది, one thirty crores ఉన్నప్పుడు one sixty ఉన్నది.
+[0:05:10] So ఇక్కడ మనకి Fundamentals ఎందుకు important అంటే for example మనం invest చేసేది ఎప్పుడు invest చేస్తాం stock అనేది పైకి పైన rally అయిపోయినప్పుడు మనం invest చెయ్యం.
+[0:05:19] కిందకి పడ్డాక ఒక మంచి valuation value providing zone లోకి వచ్చాక invest చేస్తాం. So మనం ఏం ఇప్పుడు ఏమవుతది అంటే మీరు Fundamentals చూడకుండా only Technicals చూశారనుకోండి ఇప్పుడు stock company A తీసుకోండి one sixty అనేది support అనుకోండి okay చాలా మంచి support ఎప్పుడో two two three four years back one sixty price
+[0:05:39] లో ఉండేది అనుకోండి so చాలా మంచి support కి వచ్చింది కదా అని మనం invest చేస్తే Fundamentals చూడకుండా ఇంతకీ Fundamentals లో ఏమైంది ఇక్కడ ఎందుకు పడింది stock profits అనేది తగ్గడం వల్ల stock అనేది పడింది okay.
+[0:05:53] So ఇలాంటి వాటిల్లో invest చేస్తే ఏమవుతది ఇరుక్కుపోతాం. So for example అదే అదే scenario ఇక్కడ తీసుకోండి Fundamentals ఎందుకు చూడొద్దో చెప్తున్నా.
+[0:06:01] So same ఇక్కడ Fundamentals చూడకుండా invest చేశామనుకోండి ఇక్కడ కూడా ఏం చేస్తాం same as it is one sixty దగ్గర invest చేస్తాం.
+[0:06:10] ఓకే. రెండట్ల ఇరుక్కుంటారు. ఓకే. ఇప్పుడు fundamentals చూసి invest చేస్తే రెండు companies ఎలా ఇన్-ఇన్వెస్ట్మెంట్ decision తీసుకుంటారో చెప్తున్నా చూడండి.
+[0:06:18] ఇక్కడ eighty crores profit వచ్చినప్పుడు one sixty కి వస్తది కదా, సో అప్పుడు మీరు invest చేయరు. ఎందుకు? మీరు fundamentals చూశారు last two years నుంచి profit increase అవుతున్నది సడన్ గా ఇక్కడ forty crores అనేది drop అయింది.
+[0:06:30] ఓకే. అది bad sign కదా. సో, అలాంటి వాటిల్లో మనం invest చేయకూడదు. company B తీసుకోండి for example, 2023 లో చూడండి drop అయింది one sixty కి వచ్చింది మనం invest చేయం.
+[0:06:41] ఓకే. next 2024 year లో చూడండి eighty k అక్కడే ఉంది profit, one fifty కి వచ్చింది మనం invest చేయం growth అనేది లేదు.
+[0:06:49] సో, company B సినారియోలో చూసుకోండి 2024 లో మళ్ళీ pull back అనేది profits లో మళ్ళీ ఆ gain అనేది as it is set అయిపోయింది.
+[0:06:57] ఇక్కడ ఈ growth ఉంది చూసారా growth లోకి వచ్చేసింది one thirty crores profit వచ్చింది price అనేది ఇంకా one sixty దగ్గరే ఉన్నది. సో, ఇక్కడ మన్-ఇక్కడ మనకి value providing zone లో ఉన్నట్టే కదా.
+[0:07:07] ఇది వరకా 2021 లో one hundred crores, one twenty crores profit ఉన్నప్పుడు price అనేది ఎక్కడున్నది? two twenty లో ఉన్నది.
+[0:07:14] ఇప్పుడెక్కడున్నది one thirty crores ఉన్నప్పుడు one sixty లో ఉన్నది. మీకక్కడ difference ఎంత వస్తుంది? ఉంది కదా price లో difference.
+[0:07:20] at the end of, and at the same time మీకు ఈ one sixty అనేది చాలా మంచి support. ఎప్పుడో years back అక్కడ ఆ zone లో trade అయ్యేది price.
+[0:07:29] సో, అప్పుడు మీరు ఇలాంటి situations లో invest చేసుకుంటే ఏంటంటే, మీకు ఆ value providing zone అనేది మీరు invest చేసిన తర్వాత ఒక value providing zone అనేది మీకు create అవుతది.
+[0:07:37] సో, అక్కడి నుంచి future లో company అనేది, company అనేది మళ్ళీ growth track లోనే ఉన్నది కాబట్టి obviously అక్కడి నుంచి ఒకవేళ పెద్ద fall వచ్చినా market లో, మళ్ళీ ఆ price కి రావడం అనేది చాలా easy ఉంటాదన్నమాట as compared to company A తో compare చేసుకుంటే.
+[0:07:51] for example మనం ఇలాంటి company లో invest చేస్తాం. ఓకే. సో, ఇక్కడ eighty crores, ఇక్కడ next year కూడా eighty crores వచ్చింది కదా, ఇక stabilize అయిపోయింది one fifty అంటే మంచి price ఏ కదా అని invest చేశాం.
+[0:08:02] ఓకే. ఆ year fall వచ్చింది. ఏమవుతది? ఇలాంటి company లో, ఇలాంటి company stocks అన్నీ heavy fall అవుతాయి.
+[0:08:09] ఇలాంటి company stocks అన్నీ అంత fall అనేది ఉండదు. ఓకే. సో, మీకు అదొక advantage అవుతది. fa-market fall అయినప్పుడు ఏంటంటే మీరు ధైర్యంగా ఉండొచ్చన్నమాట.
+[0:08:18] ఓకే. నేను మంచి price లో మంచి level లోనే invest చేశా, revenues అనేవి పెరుగుతున్నాయి, profits అనేవి పెరుగుతున్నాయి.
+[0:08:24] సో, obviously ఈ fall అనేది temporary. మళ్ళీ market అనేది pull back ఇచ్చినప్పుడు మళ్ళీ నా price కి అనేది ఖచ్చితంగా stock అనేది నా price కి, entry price కి వస్తుంది అని ఒక confidence ఉంటది.
+[0:08:35] సో, అందుకు మనం fundamentals చూస్తాం. సో, ఎందుకు చూస్తామో ఒకసారి అర్థమైందా లేదా ఏవన్నా confuse అయ్యారా దీంట్లో? క్లియర్ గా ఉంది.
+[0:08:50] ఓకే బ్రో. సో, అప్పుడు మనం ఏం చెప్పుకున్నాం అంటే, ఇవన్నీ రేపు పొద్దున చెప్పుకుందాం బ్రో complete one hour.
+[0:09:00] ఈరోజు ఏంటంటే కొద్దిగా పైపైన ఎలా చూడాలో కమ్మీన అనేది చెప్తా. సో, in depth market cap అంటే ఏంటి?
+[0:09:07] Book value అంటే ఏంటి? PE ratio అంటే ఏంటి? ROC అంటే, face value ఏంటి? Dividend, dividend yield అంటే normal. face value, book value, ROC, stock PE main important.
+[0:09:18] సో, అది మనం రేపు పొద్దున discuss చేద్దాం. first ఇది పైపైన చూట్టం ఎలా చూడాలి అనేసి ఒక company ని ఎలా చూడాలి అనేసి చెప్తా. మీకు screener అనేసి ఒకటి ఉంటది website.
+[0:09:28] సో, basic ఇది, ఇది ఏం చేస్తది అంటే screener అనేది మీకు simple గా ఒక table format లో మీకు ఆ results అనేది complete.
+[0:09:35] వాళ్ళ expenses ఏంటి, operating revenues, profits ఏంటి, next other incomes ఇంకా ఏమైనా incomes ఉన్నాయా major వీళ్ళ products దగ్గర నుంచి కాకుండా, next depreciation, interest, tax ఎంత పడింది, net profits ఎన్ని వచ్చినాయి.
+[0:09:48] సో, ఇదంతా in detail ఒక table format లో ఉంటది. సో, వీళ్ళు ఇదంతా ఎక్కడి నుంచి తీసుకుంటారు అంటే, ఇక్కడ annual reports ఉంటాయి చూసారా, ఈ annual reports లో నుంచి తీసుకుంటారు.
+[0:09:58] సో, మనం ఈ annual reports చూసుకున్నట్లైతే ఎలా ఉంటాయి అంటే కొద్దిగా clumsy ఉంటాయి. మనకి ఇందుల్లోకి వెళ్ళి అంతలా in-in depth చూడాల్సిన అవసరం లేకుండా pages of reports ఉన్నాయి చూసారా, సో, ఇంత reports చూడక్కర్లేకుండా మనకి simple గా ఇలా ఒక table format లో మనకి screener అనే website లో మనకి available ఉంటది ప్రతి stock కి.
+[0:10:18] screener website కి వచ్చి ఇక్కడ search for a company అని ఉంది కదా, ఇక్కడ మీరు ఏ company search చేసినా మీకిక్కడ వస్తది. ఓకే.
+[0:10:25] for example HDFC Bank తీసుకుందాం. ఓకే.
+[0:10:33] ఇవన్నీ రేపు పొద్దున discuss చేద్దాం. first అక్కడి నుంచి start చేస్తే కొద్దిగా confuse అవుతారు. ఉమ్, ఇది కూడా రేపు పొద్దునే.
+[0:10:42] ఓకే. first profit and loss yearly లో చూద్దాం. ఓకే next quarterly లోకి వద్దాం.
+[0:10:50] సో, మీకు ఇక్కడ చూసుకున్నట్లయితే first, first tab ఏమున్నది? Revenue. Revenue అంటే company యొక్క sales.
+[0:10:59] ఓకే. అంటే వాళ్ళు ఎంత income వచ్చిందనేసి. ఇక్కడ ఉండేవన్నీ crores లో అన్నమాట. ఓకే.
+[0:11:06] in crores. next expenses. expenses అంటే మీకు expenses దగ్గర plus దగ్గర click చేస్తే ప్రతీ దానికి manufacturing cost expense ఉంటది, employee cost ఉంటది, other cost అంటే miscellaneous cost ఉంటాయి కదా, అవి ఈ expenses లో ఈ three categories లో ఉంటాయన్నమాట.
+[0:11:25] ఓకే. next ఇక్కడ other incomes అంటే basic గా ఏంటంటే, ఇప్పుడు major banks ఇప్పుడు చేసేది కాకుండా కొన్ని కొన్ని other incomes ఉంటాయి కదా miscellaneous expenses, ఆ miscellaneous incomes.
+[0:11:36] for example major banks కి ఏంటి major, ఆ interest. అంతే కదా interest ఏ కదా వాళ్ళు సంపాదించేది.
+[0:11:44] అలాకా-and next loans. అదే loans అంటే basically interest at the end of the day major income వచ్చేసి interest. అలా కాకుండా చిన్న చిన్నవి external వి ఉంటాయి కదా, ఆ for example ఏదన్నా company కి ఒక audit చేశారనుకోండి, అదొక వేరే income కింద వస్తది.
+[0:12:00] సో, అలా ఇంకా చాలా ఉంటాయన్నమాట banks చేసేవి. సో, అవి అలా చిన్న చిన్న incomes negligible incomes అన్నీ other incomes category లోకి వస్తాయి.
+[0:12:10] అంటే వాళ్ళు చూపించరన్నమాట ఆ డబ్బులు ఎక్కడి నుంచి వచ్చినాయి అనేసి. సో, other incomes category లో వేసేస్తారు simple గా. file చేసేటప్పుడు.
+[0:12:18] అది simple logic. సో ఇక్కడ Profit before tax అనేసి ఉంటది. ఇక్కడ Tax percentage అని ఉంటది.
+[0:12:25] ఇక్కడ Net profit అంటే Tax తీసేసాక మీకు Net profit ఎంత వచ్చింది అనేసి. Earnings per share అంటే ఏంటంటే, for example ఎన్ని shares ఉన్నాయి, ఒకే, profit, ఎన్ని shares ఉన్నాయో దేనిపై profit చేస్తే Earnings per share అనేది వస్తది.
+[0:12:41] సో, ఇది పెరుగుతా ఉంటే companyకి కొంచెం valuation, మంచి valuations లో వస్తున్నట్టు అనేసి మీకు అర్థం అవుతుంది. అర్థం అవుతుంది అనమాట.
+[0:12:49] సో, Dividend Payout అంటే ఏంటంటే, basically ఒక్కొక్క companyకి ఒక్కొక్క type Dividend Payout చేస్తాది. ఒకటి quarterly base చేస్తాది, ఒకటి two quartersకి ఒకసారి.
+[0:12:58] సో ఏంటంటే, అది ఎంత percent మీకు Dividend Payout చేసినాయి. For example, hundred rupees stock ఉంటే మీకు, ఆ, మీకు entire financial yearలో ఒక four, five rupees ఇచ్చారనుకోండి, మీకు five percent Dividend Payout అనేసి ఉన్నది.
+[0:13:11] సో, అలా. next Balance Sheet అనేసి ఉన్నది కదా ఇక్కడ.
+[0:13:24] సో, Balance Sheet లో ఏంటంటే, ఇక్కడ మీరు, అంటే ఒక్కొక్క, ఇప్పుడు banks లో ఉన్నది కాబట్టి మీకు Reserves, Deposits, Borrowings ఇవన్నీ ఉంటాయి.
+[0:13:35] సో, ఈ కింద ఇవన్నీ common ఉంటాయి. పైన మీకు మారుతా ఉంటాయి. For example, ఉమ్, సో
+[0:14:01] ఇదిగోండి, Equity and Reserves, Borrowings, Other Liabilities. సో, ఒక్కొక్క company కొంచెం మారుతా ఉంటాయి. Almost ఏముంటాయి, ఒక్క, ఒక్కొక్క row మారుతా ఉంటుంది అనమాట.
+[0:14:20] ఓకే, సో ఇక్కడ Balance Sheet లో ఏంటంటే, మీకు every row, every financial year అనేసి మీకు ఉంటాది.
+[0:14:29] సో, ఇక్కడ Reserves అంటే company దగ్గర ఎంత FD's కానీ, డబ్బులు కానీ, లేకపోతే వీళ్ళు Bonds చూపించి తెచ్చుకుంటారు కదా డబ్బులు, సో ఆ Reserves అంటారు వీటిని.
+[0:14:38] Deposits, ఎంత Deposits ఉన్నాయి FT's అవన్నీ వాటిల్లో. next Borrowings, Borrowings అంటే, basically వీళ్ళు ఇప్పుడు ఏం చేస్తారంటే, basically, ఇప్పుడు Reserve, మన RBI ఉంటాది కదా, సో RBI ఇప్పుడు, ఇప్పుడు for example మీకు ఇదొక్క చిన్నది చెప్తా
+[0:14:59] చూడండి, ఇది పక్కన పెట్టండి. ఇప్పుడు interest rates పెంచాము అనేసి అంటారు కదా, సో basically అది ఏంటంటే, ఉమ్, ఈ banks అన్నీ ఉంటాయి కదా, ఈ banks అన్నీ ఏంటంటే, RBI దగ్గరికి వెళ్లి డబ్బులు తెచ్చుకుంటాయి అనమాట.
+[0:15:10] For example, ఇప్పుడు five points change ఎంతో percent, five percent interest rate పెట్టింది RBI. ఇప్పుడు HDFC Bank వెళ్ళినా, HDFC Bank RBI దగ్గరికి వెళ్లి నాకు ఒక thousand crores కావాలి అంటే, RBI ఒక thousand crores HDFC Bank కి ఇస్తాది.
+[0:15:24] At a percent of, at a interest percent of five percent. Okay, సో అది Borrowings. ఇంకా బయట నుంచి తెచ్చుకున్నాయి.
+[0:15:33] ఇప్పుడు for example gold ఉన్నది అనుకోండి వీళ్ళ దగ్గర gold, ఆ gold చూపించుకొని మళ్ళీ దానికి loan, డబ్బులు తెచ్చుకుంటారు. సో, ఆ డబ్బులు మళ్ళీ rotate చేస్తారు.
+[0:15:41] సో, అది, అది ఆ category లోకి Borrowings లోకి వస్తాయి. అంటే basically వీళ్ళు బయట నుంచి తెచ్చుకున్నాయి. Other Liabilities, ఇవన్నీ రేపు డిస్కస్ చేద్దాం Liabilities, Fixed Assets, అంటే Assets కి Liabilities కి ఏంటి difference అనేసి.
+[0:15:57] సో, ఈ రోజు మొత్తం అంతా ఏవి చెప్తే కొద్దిగా confusing గా ఉంటది. Okay సో, ఈ రోజు ఏం చేద్దాం అంటే, Revenues చూద్దాము, Net Profits చూద్దాము, మనం stocks ఎలా compare చేయాలి అనేసి just ఈ రెండు కలపడానికి try చేస్తాం.
+[0:16:14] రేపు పొద్దున మొత్తం in-depth వెళ్తాం. సో, for example HDFC Bank తీసుకున్నాం కదా, ఇక్కడ HDFC Bank stock పెట్టుకుందాం.
+[0:16:31] ఆ, ఆ, ఆ, సో,
+[0:16:54] Net Profits చూడండి ఇక్కడ. సో, Net Profits అనేవి increase అవుతున్నాయి కదా. For example, ఇప్పుడు ప్రస్తుతం ఎక్కడ ఉన్నది?
+[0:17:01] March, అంటే last financial year, 2026 లో eighty thousand అనేది Net Profit వీళ్ళకి వచ్చింది.
+[0:17:08] సో, March 2026 ending కి ఎక్కడ ఉందో stock చూద్దాం. ఉమ్, సో, around ఈ levels లో ఉన్నది.
+[0:17:54] ఉమ్, ఓకే, సో March అనేసి ఇక్కడికి వచ్చేటప్పటికి ఈ levels లో ఉన్నది. సో, next financial yearకి వెళ్దాం. Sorry, previous financial అంటే 2025.
+[0:18:02] ఇక్కడ Revenue ఎంత? seventy three thousand crores. సో, March 2025 దగ్గర stock price ఎక్కడ ఉన్నదో చూద్దాం రండి. around ఈ levels లో ఉన్నది.
+[0:18:36] సో మీరు ఇక్కడ for example ఈ రెండే తీసుకుంటూ compare చేద్దాం. ఇక్కడ twenty twenty five లో మీకు profits ఎన్ని వచ్చినయి?
+[0:18:48] seventy three thousand crores, అవున్ కదా. twenty twenty six financial year లో profits ఎన్ని వచ్చినయి? seventy nine thousand crores.
+[0:18:56] ఇక్కడ growth ఉందా, లేదా? ఉంది కదా growth. సో, ఇక్కడికి రండి. సో, అప్పుడు ఆ results వచ్చినప్పుడు మీకు ఎక్కడ ఉన్నది stock అనేది around nine twenty levels లో ఉన్నది.
+[0:19:06] ఇప్పుడు ఎక్కడ ఉన్నది stock? seven thirty seven levels లో ఉన్నది. అంటే ఇది value providing zone ఆ, కాదా? మనం ఏం చేస్తాం, మనం ముందుగా technical analysis ప్రకారం ఓకే major support zone దగ్గరే ఉన్నది.
+[0:19:19] ఓకే, అయిపోయింది technicals, technicals అయిపోయినయి. next fundamentals కి వచ్చాం. fundamentals లో చూసుకున్నాం కదా, ఇంకా చాలా చూస్తాం రేపు పొద్దున చెప్తే, ఇది మీకు basic చెప్తున్నా.
+[0:19:30] సో last financial year ending తీన్తది కదా yearly, quarterly కాదు yearly పెట్టుకోండి, so yearly పెట్టుకుంటారు కదా last two to three financial years yearly ఎక్కడ ఉంది price అనేసి పెట్టుకున్నారు.
+[0:19:42] సో previous ఇక్కడ మీకు profits అనేది seventy three thousand crores వచ్చినప్పుడే price అనేది ఇక్కడ ఉన్నది.
+[0:19:50] కానీ ఇప్పుడు seventy nine thousand crores వచ్చినయి కదా, so price అనేది equivalent గా ఇక్కడన్నా ఉండాలి, లేదా ఇక్కడన్నా ఉండాలి.
+[0:19:56] మీకు మరీ ఇంత correction వచ్చేటప్పటికి ఇది value providing zone కింద అవుతుంది కదా. మంచి support కదా ఇక్కడ ఉంది కదా. obviously ఇక్కడ purchase చేస్తే మళ్ళీ ఒక two quarters తర్వాత price అనేది మళ్ళీ ఇక్కడికి వెళ్ళాలి కదా.
+[0:20:08] సో ఇలా ఈ techinicals తో పాటు ఇలా fundamentals కానీ మనం కలుపుకున్నామంటే మనకు probability అనేది ఎక్కువ ఉంటది.
+[0:20:15] ఓకే, ఇది revenues పెరుగుతా stock అనేది కింద పడితే మనకు value zone కింద ఎలా ఉంటది అనేది చెప్పుకున్నాం. ఇప్పుడు ఇంకొక stock తీసుకుందాం.
+[0:20:24] Profits తగ్గుతున్నది. ఉమ్ ఏదో
+[0:20:45] ఒక stock చెప్పుండి general మీకు. ఒక
+[0:21:15] నిమిషం ఉండండి ఒక stock కొనిచ్చి ఇవ్వతా. మీకు revenues తగ్గుతా ఉన్నాయి. ఇదే
+[0:22:26] example గాని తీసుకోండి Godrej consumer products. ఓకే
+[0:22:49] sir, last four financial years వి మనం profits అనేవి mark చేసుకుంటా వెళ్దాం. ఓకే first general ఇక్కడ మనం first mark చేసుకుందాం.
+[0:23:06] twenty twenty three నుంచి mark చేసుకుందాం. next year.
+[0:23:31] next year. okay
+[0:23:54] twenty twenty three లో ఎంత వచ్చినయి profits వీళ్ళకి? one seven zero two.
+[0:24:11] next twenty twenty four లో. minus five sixty one.
+[0:24:29] next financial year eighteen hundred previous financial year eighteen
+[0:24:50] hundred sixty one so దీనికి first మనం ఏం చేయాలి support and resistance draw చేసుకుందాం first మనం technical side అలా చూసేది major supports కొంతసేపు
+[0:25:37] ఆ PE ratio లు అవన్నీ పక్కన పెట్టేయండి just మనం ఏం చూస్తాం అంటే general మనం ఇందాక మాట్లాడుకున్నాం కదా వాటికి వచ్చే profits కా అప్పుడు ఏ price లో ఉన్నది ఇప్పుడు ఏ price లో ఉన్నది for example twenty twenty three లో చూడండి seventeen zero two కదా ఆ తర్వాత financial year చూడండి may be ఇక్కడ వాళ్ళు expansion కి invest చేసి ఉండొచ్చు basically
+[0:25:58] ఇక్కడ మనం ఏం చూస్తున్నాం profits చూస్తున్నాం కదా for example ఏదన్నా ఒక పెద్ద factory establish చేశారనుకోండి అది expense లోకి వస్తది కదా అది profits అన్ని wipeout చేస్తది కదా may be అది కూడా అయి ఉండొచ్చు అది కూడా ఒక positive ఏ కదా so మనం only ఇక్కడ profits చూస్తున్నాం అది ఒకటే గుర్తుపెట్టుకోండి so ఇక్కడ for example sales అవ్వలేదు ఈ financial year losses లోకి వచ్చేసిందంటే for
+[0:26:19] example ఇక్కడి నుంచి ఏమవ్వాలి ఇక్కడ over value లో ఉన్నట్టా లేదా stock ఇక్కడ seventeen hundred crores profit ఉన్నది అప్పుడు price ఎక్కడ ఉన్నది around nine hundred rupees okay మంచి growth వచ్చింది company లో పెరిగింది so ఈ financial year లో ఏమైంది minus five hundred and sixty one crores loss వచ్చింది so may be ఇక్కడ ఏమై ఉండొచ్చు two cases ఒకటి revenues
+[0:26:39] బాగా generate అవ్వక expenses ఎక్కువయ్యి మీకు loss వచ్చి ఉండొచ్చు second ఏంటంటే expansion కి may be factories కొత్త factories establish చేసి ఉండొచ్చు చాలా reasons ఉంటాయి loss రావడానికి so ఇక్కడ ఇక్కడ మనం ఏం చూస్తాం ఇక్కడ ఈ levels లో మనం invest చేయం ఎందుకంటే ఇక్కడ seventeen hundred crores వచ్చినప్పుడే మనకి price ఎక్కడ ఉంది nine hundred nine hundred దగ్గర
+[0:27:00] ఉంది ఇక్కడ minus five sixty crores వచ్చినప్పుడు ఇదేంటి over value zone కిందనే కదా లెక్క so మనం ఇక్కడ invest చేయం so చూశాం పడింది మళ్ళీ ఇక్కడికి వచ్చింది eighteen fifty two మళ్ళీ stabilize అయ్యింది stabilize అయిన తర్వాత next financial year చూసి అది కూడా అప్పుడు ఇక్కడ ఉండి ఇక్కడ ఒక two thousand crores కానీ లేదా nineteen
+[0:27:20] hundred nineteen fifty crores profit వస్తే అప్పుడు మనం ఈ levels లో invest చేస్తాం so కానీ ఇక్కడ ఏమైంది మళ్ళీ nineteen sixty one మళ్ళీ same ఇక్కడి నుంచి value providing zone లోకి enter అవుతుంది ఈ stock అనేది for example ఇక్కడికి వచ్చింది ఇప్పుడు for example ఈ nineteen sixty one నే కదా previous గా వచ్చింది previous financial year లో వచ్చింది revenues అనేవి profits
+[0:27:40] అనేవి పెరిగినయి ఇంత loss నుంచి మళ్ళీ back back to form వచ్చారు eighteen fifty two వచ్చింది ఆ తర్వాత eighteen sixty one అంటే almost flat ఉన్నది so మళ్ళీ ఇక్కడ previous levels కి వచ్చింది ఇదివరకు previous levels ఇక్కడ ఎంత profit seventeen hundred ఇప్పుడు ఇక్కడ previous ఎంతున్నది eighteen sixty one అంటే ఇక్కడ value providing zone కిందే కదా లెక్క so ఇలాంటి
+[0:28:00] supports దగ్గర for example next ఇంకొక two quarters చూస్తారు లేదా next quarter చూస్తారు so పెరుగుతుంది constant గా అప్పుడు చూసినప్పుడు మీరు ఇలాంటి zones లో invest చేసుకోవాలి ఇలాంటి supports లో ఎందుకంటే ఇక్కడ profits పెరుగుతున్నాయి ఇక్కడ profit ఉన్నప్పుడే ఇంత profit ఉన్నప్పుడే price ఇక్కడ ఉన్నదంటే ఇంత profit ఉన్నప్పుడు మళ్ళీ market అంతా stabilize
+[0:28:20] అయ్యాక పైకి వెళ్ళాల్సిందే కదా stock ఆ valuation ని ఎత్తుకుంటా పైకి వెళ్తది stock so ఇది fundamental చూసుకుని ఈ type previous ఇంకా చాలా చూడాలి మనం profits ఒకటే కాదు మీకు simple గా first profits తో మొదలు పెట్టి next slow slow గా in depth గా వెళ్దాం so profits ఓన్లో చూసుకున్నప్పుడు first ప్రస్తుతానికి profits ఒకటే గుర్తుపెట్టుకోండి ఇక్కడ seventeen hundred వచ్చింది price
+[0:28:40] ఎక్కడ ఉన్నది nine twenty eight మళ్ళీ price అక్కడికి వచ్చింది previous financial year ఎంత వచ్చింది eighteen sixty one అంటే పెరిగింది కదా పెరిగిన దానికంటే ఇంకా కిందకి వచ్చిందంటే ఇక్కడ మంచి value providing zone లో ఉన్నట్టే కదా so ఇలాంటి zones లో మనం invest చేసుకోవాలి for example ఇక్కడే ఇది ఇలా వచ్చింది అనుకోండి ఇది రాలేదు
+[0:29:00] okay ఇటు ఇలా పెరుగుతా వెళ్ళింది పెరుగుతా వెళ్ళింది okay stock మంచిగానే వెళ్ళింది so ఇక్కడ ఈ financial year లో five sixty one minus వచ్చింది అనుకోండి ఇక్కడ మనం invest చేయం ఎందుకంటే around ఇంతలా బాగా perform చేస్తున్న దాన్ని వెంటనే minus లోకి వెళ్ళిందంటే profit అనేది అంటే expansion పక్కన పెట్టేయండి entirely sales అవ్వక పోయినయి అనుకోండి
+[0:29:21] డబ్బులు so ఈ type వచ్చినప్పుడు ఏందంటే ఇక్కడికి వచ్చినా మనం invest చేయం ఇక్కడికి వచ్చినా మనం invest చేయం ఇక్కడికి వచ్చినా తర్వాత four hundred కి వచ్చినా మనం invest చేయం ఎందుకంటే company అనేది fall అనేది మొదలైందనేసి అక్కడ మనం అర్థం చేసుకోవాలి so ఇలా fundamental చూడటం వల్ల ఏంటంటే మనం ఇలాంటి companies నుంచి escape అవ్వచ్చన్నమాట invest చేయకుండా so
+[0:29:42] మీకు అర్థమైందా మనం fundamentals ఈ example తో మనం ఎందుకు fundamentals కి importance ఇస్తాం అనేసి basically fundamentals చూడటం వల్ల ఏంటంటే stock అనేది పడుతుంది okay పడింది పడిందంటే ఒక reason ఉంటది ఒకటి ఆ price ఒక price journey అనేసి ఉంటది every stock కి ప్రతి stock ప్రతిరోజూ పెరుగుతా ఉండదు ఒక one month పెరుగుతది
+[0:30:02] లేదా five months పెరుగుతది ఆ sector అంతా entire FMCG sector అంతా కొన్ని months పెరుగుతాయి తర్వాత మిగిలిన months అన్ని పడతా ఉంటాయి మళ్ళీ తర్వాత మళ్ళీ పెరుగుతాయి so అది sector rotation అనేసి అంటారు మీకు తర్వాత చెప్తాది strategy ఒకటి so అలా for example ఇక్కడ ఈ July నుంచి ఇక్కడి వరకు FMCG sector rotation అనుకోండి పెరిగింది మళ్ళీ కిందకి వచ్చింది మళ్ళీ
+[0:30:23] కిందకి వచ్చినప్పుడు మళ్ళీ ఇక్కడ for example ఇక్కడ same seventeen hundred crores ఉన్నది ఇక్కడ two thousand crores కానీ profit వచ్చింది అనుకోండి ఇక్కడ అప్పుడు మనం దీన్ని ఎలా చూస్తాం value providing zone కింద చూసి మంచి supports దగ్గరికి వచ్చినప్పుడు ఇక్కడ invest చేసి పెట్టుకుంటాం మళ్ళీ sector rotation వచ్చినప్పుడు ఏమవుతది మళ్ళీ పెరుగుతది ఇది price journey మీకు company
+[0:30:43] fundamentals company ఆ అప్పుడు ఇప్పుడు for example profits వచ్చినాయి కదా ఇంక అలా straight గా ప్రతి రోజు వెళ్ళిపోతానే పెరుగుతానే ఉండామంటే ఏ stock కూడా అలా వెళ్ళదు sector rotation అనేసి ఒకటి ఉంటది అదేంటంటే మీకు every three, four months కి ఒక sector అనేది బాగా perform చేస్తా ఉంటది ఒక sector perform ఒక set of sectors perform చేస్తాయి one
+[0:31:03] month ఆ తర్వాత month ఇవన్నీ పడతాయి profit booking వస్తది మళ్ళీ కింద value providing zone లో ఉంటాయి చూసారా ఇలాంటి zones లో ఆ sector లో ఉన్న stocks అన్నీ మళ్ళీ పైకి వెళ్తాయి ఎప్పుడైతే over value అవుతాయో sector అంతా ఆగి profit booking వస్తది మళ్ళీ వేరే sector ఏవో ఉంటాయి కదా value providing zones లో మళ్ళీ ఆ sector లోని ఆ sector లో ఉన్న stocks అన్నీ పైకి వెళ్తాయి
+[0:31:24] over over bought low levels కి వెళ్ళాక అక్కడ అక్కడి నుంచి మళ్ళీ profit booking వస్తది ప్రతి stock ప్రతి sector ఇదే journey follow అవుతది మనమేం చేయాలంటే ఆ journey లో మనం ఇలా previous levels లో కన్నా ఇప్పుడు company అనేది బాగా perform చేస్తుంది ప్రతి దాంట్లో వాటి revenues అనేవి profits అనేవి everything increase
+[0:31:45] అయ్యాయి చాలా బాగా perform చేస్తుంది perform చేస్తున్నప్పుడు ఇదివరకుటి price కి వచ్చినప్పుడు మరి ఇక్కడ value providing zone కింద చూసి మనం ఇలాంటి stocks లో invest చేస్తాం okay so basic ఇది మన strategy అన్నమాట so fundamentals ఇంకా in depth వెళితే ఇదే మన strategy so మీకు అర్థమైంది కదా basic మనం
+[0:32:05] ఎలా compare ఎలా కలుపుతాము technicals ని fundamentals ని అనేసి ఏమైనా confusing గా ఉంటే మళ్ళీ ఒకసారి చెప్పండి ఒకసారి discussion bro
+[0:32:29] అర్థం కాకపోతే పర్లేదు అడగండి మళ్ళీ discuss చేద్దాం ఆ అర్థమైంది bro clear గానే ఉంది clear గా bro ఇక్కడ company quarterly
+[0:32:50] results ఉన్నాయి కదా ఉమ్ అవి particular date లో release చేస్తారా లేకపోతే ఆ quarter ది ఎట్లా release చేస్తారు ఎప్పుడెప్పుడు ఆ అలా ఉండదు bro basic మీకు quarterly results ఏంటంటే for example ఉమ్ మీకు ఇప్పుడు ఈ ఈ sep ఒక్క నిమిషం అండి మీకు ఇక్కడ stocks ఏదో ఒక stocks ఎందుకు చూపిస్తాను అంటే ఒక్కొక్క
+[0:33:10] stock కి ఒక్కొక్క particular date ఇస్తారు bro అంటే ఆ quarter complete అయ్యాక complete అయ్యాక next ఒక within one month లోనే ఆ అంటే వాళ్ళు decide అయ్యి వాళ్ళు ఇదిగో ఈ date మీకు provide చేస్తామనేసి announce చేస్తారు results ఈ date న మీకు public కి announce చేస్తామనేసి వాళ్ళు ఏంటంటే ఆ audit ఆ quarter complete అయ్యాక ఆ auditings
+[0:33:31] అన్నీ చేసుకుని అంతా చేసుకుని filings చేసుకుని అప్పుడు public కి release చేస్తారు అంటే particular date అంటూ ఉండదు bro మాములు every year four quarters ఉంటాయి కదా ఉమ్ సో ఆ quarter complete అయిన వెంటనే నా next month లో around one month, one and half months ఒక్కొక్కటి delay అవుతా ఉంటది ఒక్కొక్క company ఒక్కొక్క company బాగా fast గా ఇస్తారు so అలా okay,
+[0:33:52] okay మీకు ఇక్కడ stocks calen- stock results calendar అనేసి మాములుగా Chrome లో search చేస్తే మీకు వస్తది so అలా మీకు ఒక్కొక్క stock ఒక్కొక్క day ఉంటది fifteenth కి కొన్ని ఉన్నాయి sixteenth కి కొన్ని ఉన్నాయి seventeenth కి కొన్ని ఉన్నాయి twentieth కి కొన్ని ఉన్నాయి so అలా so ఈ month end వరకు అలా ఉంటా ఉన్నాయన్నమాట so
+[0:34:13] వాళ్ళు company preference బట్టి వాళ్ళ auditing అంతా జరిగాక ఇస్తారు date ఒక particular date అంటూ ఉండదు okay so ఇప్పుడు మనం yearly చూసాం కదా so ఈ yearly నే మనం quarterly చూస్తాం so for example every quarter తీసుకోండి so
+[0:34:34] మనం ఏం చేస్తాం same ఇక్కడ మనం ఇందాక ఏం చేసాం ఇక్కడ yearly పెట్టుకున్నాం కదా ఇవన్నీ so మనం ఏం చేస్తామంటే మళ్ళీ quarterly పెట్టుకుంటాం every quarter కి mark చేసుకుంటా ఉంటాం అలా every quarter కి mark చేసుకుని అప్పుడు మళ్ళీ ఇలా value providing zones find చేయడానికి try చేస్తా ఉంటామన్నమాట both yearly mark చేసుకుంటాం
+[0:34:54] next quarterly mark చేసుకుంటాం for example ఈ year చూడండి మీకు quarterly కూడా ఎలా చూడాలంటే for example last financial year ఎంత వచ్చింది three thousand nine hundred crores కదా total ఉమ్ ఒక్క నిమిషం ఉమ్ fifteen thousand crores వచ్చింది కదా so
+[0:35:15] అప్పుడే మీకు ఈ ఈ June లో ఎంత వచ్చింది ఈ June కి four thousand two hundred and twenty five వచ్చేసింది so ఏంటంటే అప్పుడు ఏం చేస్తారు ఈ minus ఇందులో దానికి minus చేసుకుంటారు okay minus చేసుకుంటే ఇంకా ఎంత ఎంత target ఉంది అలా మీకు ఏంటంటే
+[0:35:35] ఒక three quarters అయ్యేదప్పుడుకి గానీ మీకు almost equal అయిపోయింది అనుకోండి previous financial year కి వచ్చిన sales అప్పుడు మీకు automatically company లో చాలా ఎక్కువ growth ఉన్నట్టు కదా అది కూడా ఒక strategy అలా ఒక three quarters అయ్యాక ఏం చేస్తారంటే మంచి companies అన్నీ select చేసుకున్నా three quarters కి వచ్చిన sales profits అవన్నీ ఉంటాయి కదా అవన్నీ combine చేసుకుని
+[0:35:56] last financial year కి ఇప్పుడు ప్రస్తుత ఈ three quarters కు కలుపుకుని almost equal అయిపోతుందా equal అయిపోయింది అంటే మీకు almost చాలా మంచి results fore cast అనేసి ఉంటది so మనం కూడా ఆ value zone లో zones లోకి వచ్చినప్పుడు అక్కడ invest చేసి పెట్టుకుంటే ఆ financial year మొత్తం అంతా అయిపోయాక మంచి ఒక rally ఇస్తది ఒక one month March March month
+[0:36:16] అయిపోయాక next month మంచి rally ఉంటది so అది కూడా ఒక strategy type మీరే చూసుకోవచ్చు so basic ఏంటంటే first మనం yearly mark చేయడం try చూసుకున్నాం కదా next ఏం చేస్తామంటే మనం అలా quarterly mark చేసుకుంటాం quarterly mark చేసుకుని quarterly quarterly కి performance పెరుగుతుంది అనుకోండి for example same ఇక్కడ ఇదే చూడండి
+[0:36:36] June ది previous year చూడండి ఎంత three thousand six hundred and sixty two ఇప్పుడెంత ఉంది four double two five ఉమ్ for example ఇదే June twenty twenty five ది ఇది three thousand six hundred ఉంది కదా June twenty twenty four లో చూడండి three thousand three hundred సో మీకు ఆ increase అనేది వచ్చింది కదా.
+[0:36:55] సో, ఇలా, ఇలా కూడా compare చేసుకోవచ్చు మీరు. ఇలా quarterly, quarterly compare చేసుకుంటే ఏంటంటే మీరు yearly ఆగక్కర్లేకుండా, for example ఇదే తీసుకోండి.
+[0:37:04] ఇప్పుడు ఇక్కడ వచ్చింది. సో, మళ్ళీ next year వరకు ఆగాలంటే మనం ఆగలేం కదా. అలా కాకుండా ఏం చేస్తాం, quarterly, quarterly mark చేసుకున్నామనుకోండి, మనకి ఆ comparison వస్తది కదా.
+[0:37:14] Okay, ఈ quarterly, quarterly improve అవుతున్నాయి. Previous quarters కానీ improve, improve అవుతున్నాయి. For example 2020-23 levels ఏ చూసుకోండి.
+[0:37:21] ఈ quarters ఎలా వచ్చింది revenues. సో, మళ్ళీ ఇక్కడ same ఆ revenues match అవ్వకుండా ఇంకా బాగా ఎక్కువొస్తున్నాయి every quarter.
+[0:37:28] ఎక్కువొస్తున్నాయంటే obvious గా final అన్నీ add చేసుకునేటప్పటికి మనకి financial year అనేది revenue పెరుగుతది కదా.
+[0:37:35] సో, అలా మనం quarterly చూసుకోవడం వల్ల ఏంటంటే మీకు ముందరే కొంచెం ఆ మూ-- ఆ movements ని మనం capture చేసుకోవచ్చన్నమాట.
+[0:37:42] సో, ప్రస్తుతం మీకు అర్థం కాకుండా-కావడానికి every financial year తీసుకుని చెప్పాను. సో, మనం basically ఏం చేయాలంటే same ఇదే pattern లో every quarter కి మనం చూసుకుంటా ఉండాలి.
+[0:37:51] మీకు simple గా ఏంటంటే Screeners website లో మీకు ఇక్కడ quarterly results అని ఉన్నాయి కదా, సో, మీరు simple గా ఇక్కడ compare చేసుకోండి.
+[0:37:58] For example, ఈ 2025 ఏ తీసుకోండి. ఉమ్.
+[0:38:07] Okay, ఇక్కడికి. సో, ఇది. సో, ఈ June 2024 లో three thousand three hundred crores ఉంది కదా, మళ్ళీ same ఇక్కడ చూడండి.
+[0:38:20] పెరిగిందా, లేదా ఈ quarterly? పెరిగింది. Next, September quarter, three thousand six hundred. ఇక్కడ three thousand eight hundred.
+[0:38:27] పెరిగిందా లేదా? పెరిగింది. Next, December పెరిగింది. March పెరిగింది.
+[0:38:35] సో, ఇలా ప్రతి quarter మనకి results అనేవి పెరుగుతున్నాయంటే same ఇదే time లో గాని మనకి same అదే levels లో ఉన్నది, ఆ levels లో stock trade అవుతుంది supports దగ్గర అంటే మనం అది మంచి value zone దాని చూసుకుని మనం అక్కడ invest చేసుకుంటాం.
+[0:38:50] సో, మీకు అర్థం కావడానికి yearly చెప్పాను. మనం చూసేది ఏంటంటే quarterly ఏ చూసుకుంటాం. Every quarter చూసుకుంటాం.
+[0:38:56] మనం ఏంటంటే long term కాదు కదా. Long term చూసేవాళ్ళు yearly కి preference ఇస్తారు. మనమేంటి short term, short term moves కదా.
+[0:39:03] చిన్న, చిన్న swings మనం capture చేస్తాం. సో, మనకి quarterly results అనేవి మనకు బాగా ఉపయోగపడతాయి. మీకు అర్థం కావడం కోసం yearly చెప్పాం.
+[0:39:10] మనం basically మనం చూసేది ఏంటంటే quarterly results ఏ చూస్తాం. సో, okay. మీకు sales ఎలా compare చేసుకోవాలో అర్థమైంది కదా.
+[0:39:17] సో, next ఏంటంటే మీకు profits గురించి చెప్తా. For example మీకు profits మీరు ఎలా compare చేసుకోవాలంటే మీరు percentages అనేది బయటకి తీసుకోవాలి.
+[0:39:26] For example, ఈ quarter లో three thousand nine hundred and ninety eight crores వచ్చింది కదా. సో, అంతటికి మీకు ఎంత వచ్చింది?
+[0:39:33] ఇక్కడ tax మారుతా ఉంటది కాబట్టి ముందరే profit before tax ఏ చూసుకోండి. Seven hundred crores వచ్చింది. Okay, బానే ఉంది.
+[0:39:41] Next quarter, next quarter three thousand nine hundred crores వచ్చింది. ఇక్కడ ఎంత వచ్చింది? Six fifty one వచ్చింది.
+[0:39:47] సో, మీకు ఇది గాని మీకు match అవకుండా, ఈ percentage-- profit percentage అని match అవకుండా, ఇక్కడ decrease అవుతుందనుకోండి profit percentage, అప్పుడు మీకు అది ఎక్కడ reflect అవుతుంది?
+[0:39:59] Overall profit లో reflect అవుతుంది కదా. Reflect అవుతుందంటే మీకక్కడ ఏం పెరుగుతున్నట్టు? Expense, company యొక్క expenses అనేవి పెరుగుతున్నట్టు.
+[0:40:07] అప్పుడు మీకిక్కడ sales కింద expenses అనేవి ఉంటాయి. మీకొకటి material cost ఉంటది, employee cost ఉంటది. సో, మీకు major మీకు ఎక్కడ changes వస్తాయంటే ఆ profits లో.
+[0:40:18] ఒక్కొక్కసారి బయట events అవి అయినప్పుడు ఏంటంటే మీకు material cost లో తేడా వస్తది. లేదు ఒక company production గాని, production సరిగ్గా చేసుకోవట్లేదు, optimization చేయలేకపోతున్నారంటే మీకు employee cost లో difference అనేది వస్తుంది.
+[0:40:32] సో, అది కూడా మీరు గమనించాలి next. Okay. సో, profits తగ్గుతాయి. సో, ప్రస్తుతం మనం ఇందాకటి వరకు ఏం చేసాం, only profits వేసుకుంటా వచ్చాం, only sales వేసుకుంటా వచ్చాం.
+[0:40:42] ఇప్పుడు మనం ఆ fundamental analysis కి ఇంకొక layer add చేసాం. ఏం add చేసాం? ఆ profits percentage అనేది, for example hundred, hundred rupees revenue వస్తే ten rupees profit వచ్చింది అంటే ten percent profit.
+[0:40:55] మీకిక్కడ simple చెప్తా. For example hundred rupees కి ten percent, ten rupees profit వచ్చింది.
+[0:41:09] అంటే ఎంత? Ten percent profit వచ్చింది revenue. Next, one twenty rupees కి ten rupees ఏ profit వచ్చింది.
+[0:41:22] ఇక్కడ percent తగ్గిందా, లేదా? ఎంత వచ్చినట్టు ఇక్కడ మీకు? 8.3%.
+[0:41:37] సో, మీకు ఇలా difference గాని కనిపించింది అంటే అప్పుడేంటి company లో expenses అనేవి పెరిగినయనేది మీరు అర్థం చేసుకోవాలి.
+[0:41:47] సో, expenses ఏంటి? మంచి expenses ఆ లేదా bad expenses అనేసి మనం చూసుకోవాలి. ఒకవేళ material cost పెరుగుతుందనుకోండి.
+[0:41:55] సో, ఆ material cost, for example ఇది FMCG sector కదా, FMCG లో material costs ఎందుకు పెరుగుతున్నాయి? ఓవరాల్ global scenario వల్ల ఏమన్నా, ఆ global situations వల్ల ఏమన్నా అందరికీ పెరుగుతున్నాయా, ప్రతి company కి పెరుగుతున్నాయా, లేదా ఈ ఒక్క company కే ప్రత్యేకంగా పెరుగుతున్నాయా అని compare చేసుకుంటాం.
+[0:42:13] Next employee cost కూడా అంతే. Employee cost ఈ ఒక్క company కే పెరుగుతుందా, లేదా FMCG లో ఉన్న అన్ని companies కి అలాగే పెరుగుతుందా అనేసి.
+[0:42:21] ఒకవేళ ప్రతి company కి material cost పెరుగుతుంది, employee cost పెరుగుతుందంటే okay. అది entire sector కే వర్తిస్తది.
+[0:42:28] అది normal situation. లేదు, ఒక three, four companies కి ఏమీ లేదు బానే ఆ percentage అనేది correct గా maintain అవుతుంది, కొన్ని, కొన్ని companies కి మాత్రం ఆ percentage అనేది తగ్గుతుందంటే అప్పుడు ఎందుకు తగ్గుతుందనేసి in-depth analysis మనం చేయాలన్నమాట.
+[0:42:44] Material cost, employee cost ఎందుకు పెరుగుతుంది? ఒకసారి news చూస్తాం దీన్ని open చేసి complete. Previous six months గా ఏమన్నా news వచ్చిందా దీని మీద bad news అనేసి, అదంతా read చేస్తా ఉంటాము.
+[0:42:56] సో, అక్కడ మనకి ఏమన్నా కనిపించినయంటే, మనకి findings ఏమన్నా కనిపిస్తే stock అనేది పక్కన పెడతాం. ఓకే ఇప్పుడు ఒక layer కిందకి వచ్చాం కదా sales అయినయి, sales నుంచి profits చూసాం.
+[0:43:08] profits sales కి profits కి మీకు percentage తగ్గుతా ఉంటుంటే expenses దగ్గరికి వస్తాం. expenses లో ఒకవేళ material cost, employee cost అని రెండు ఉంటాయి major ఇంకా ఉంటాయి కాకపోతే ఈ రెండు చూద్దాం ప్రస్తుతానికి తర్వాత ఇంకా discuss చేద్దాం వేరే stocks వచ్చినప్పుడు.
+[0:43:25] so, ఇప్పుడు material cost, employee cost ఓకే పెరిగింది కాబట్టి profits అనేవి తగ్గినాయి. so, ఈ sector లో ఉన్న ప్రతి దానికి అలాగే అవుతుందా?
+[0:43:34] అవుతుంది అంటే ఓకే అందరికీ అవుతుంది అది normal. లేదు కొన్ని companies కే అవుతుంది two కా-- ఏదో ఒక five companies ఉంటే major companies పెద్ద, పెద్ద companies two companies కే అలా అవుతుంది మిగిలిన three companies బానే maintain చేస్తున్నాయి material cost, employee cost అంటే అప్పుడు ఎందుకు అవుతుంది అన్నది మీరు news చూడాలి.
+[0:43:51] either ఈ companies కి ఏమన్నా bad news ఏమన్నా వచ్చిందా లేదా వీళ్ళు procure చేసే ఆ procurement ఉంటాయి కదా material may be అక్కడ ఏమన్నా ఇబ్బంది పడుతున్నారా so, ఇది చూసుకుని ఒకవేళ ఏమన్నా ఇబ్బంది పడుతున్నారని తెలిస్తే, ఈ two companies ఉంటాయి కదా మీకు material cost, employee cost పెరిగినాయి పక్కన పెట్టేస్తారు.
+[0:44:08] ఈ three companies ఉన్నాయి చూసారా ఆ profit percentage ని correct గా maintain చేసుకుంటే employee, material cost ని కూడా correct గా maintain చేసుకుంటా వస్తుంది.
+[0:44:16] వీటిలో invest చేయడానికి try చేస్తారు. మళ్ళీ ఈ మూడు companies financial, financial fundamentals అన్నీ analysis చేసుకుని ఈ మూడు companies లో ఏది best చూసుకుంటారు.
+[0:44:26] ఓకే మనం three, three levels లోపలికి వచ్చాం ఇప్పుడు sales, sales నుంచి profits, profits నుంచి profit percentage ఒకవేళ తగ్గుతుంటే expenses.
+[0:44:35] ఓకే మీకు అర్థమైంది కదా ఇక్కడికి, ఒకసారి చెప్పండి. అంటే ఒకే రోజు అంతా చెప్తే ఏమంటే confuse అవుతారు.
+[0:44:43] so, slow, slow గా చెప్పుకుందాం. అర్థమైంది అన్న.
+[0:44:53] ఓకే bro. so, ఒక్క-- లే ఒక్క second. so, ఇంకా ఈరోజుతో ఇక్కడికి ఇలా ఆపేస్తా bro.
+[0:45:00] ఎందుకంటే మొత్తం చెప్తే ఏంటంటే confuse అవు-- practice చేసుకుంటే better. ఇప్పుడు first ఇప్పుడు, ఇప్పుడు ఈ session end చేశాక ఏం చేస్తారంటే, ఆ sectors తీసుకోండి general ఒక IT sector తీసుకోండి, FMCG sector తీసుకోండి, auto, auto sector తీసుకోండి
+[0:45:21] ఏదో ఒక three sectors select చేసుకోండి. ఓకే. లేదు మీకు ఇబ్బంది అవుతుంది అంటే ఏదో ఒక, ఒక sector select చేసుకోండి.
+[0:45:33] ఓకే. ఒక sector select చేసుకుని అందులో ఒక three, four market leaders ని select చేసుకోండి.
+[0:45:46] ఓకే. మనం ఈరోజు చూసింది ఏంటి? sales, sales తర్వాత profits, profits తర్వాత.
+[0:46:10] profit sales percentage పెరుగుతుందా? తగ్గుతుందా? ఈ మూడు చూస్తాం. అలా three, four market leaders three, four stocks ని select చేసుకుని ఒకే sector లో ఈ మూడు చూడండి.
+[0:46:21] ఓకే. ఈ మూడు చూశాక ఒకవేళ అన్నట్లుకి పెరుగుతుంది అనుకోండి అది common. ఓకే.
+[0:46:27] అన్నట్లుకి పెరుగుతుంది మా బయట global situations అలా ఉన్నాయి inflation వచ్చింది అన్నట్లుకి పెరిగినాయి అనేసి అనుకుందాం.
+[0:46:34] లేదు పెరగట్లేదు అంటే for example only one to two stocks increase అయినాయి.
+[0:46:55] remaining maintaining good percentage.
+[0:47:06] ఓకే. ఇలా percentage maintain చేస్తుంటే, ఇప్పుడు మీకు ఇలా differentiate చేయటం వచ్చింది కదా, so, ఇక్కడి వరకు మనం వచ్చాం.
+[0:47:13] so, ఇలా differentiate చేయండి అలా multiple ఒక two to three sectors తీసుకోండి, market leaders ని ఒక three, four market leaders ని తీసుకోండి.
+[0:47:21] తీసుకున్నాక same ఇది చేయండి. మీకు కావాలంటే ఒక్క screenshot తీసుకోండి దీన్ని. కనిపిస్తుందా మీకు లేదా పెద్దది చేయనా?
+[0:47:40] తీసుకున్నారా screenshot? హా
+[0:48:03] bro done. ఉహు. ఓకే bro. so, ఈరోజు ఇదే ఇప్పుడు ఈ session అయిపోయిన వెంటనే ఒక్కసారి ఇంకా class అవుతుంది అనుకోని పక్కన పెట్టకుండా ఒకసారి ఇది ఒకసారి complete చేసేసుకోండి.
+[0:48:16] so, ఇలాగే అయిపోతుంది. so, ఏంటంటే ఇలా సర్లే రేపు చేద్దాం, రేపు చేద్దాం అనేసి గాని మీరు పెట్టుకున్నారంటే, మీకేంటంటే burden అవుతుంది అన్నమాట తర్వాత.
+[0:48:29] so, ఒకసారి చూసుకుని ఇప్పుడే session అయ్యాక వెంటనే ఒకసారి చేసుకోండి.
