@@ -1,0 +1,67 @@
+# Course part 18 transcript (ElevenLabs scribe_v2, Telugu+English), duration 785s
+[0:00:00] Okay guys, so ఇప్పుడు మనం ఈ video లో ఏం చూస్తామంటే మీకు previous video లో volume profiles ఎలా draw చేయడం అనేసి నేను మీకు ఒక strategy overview వచ్చింది కదా.
+[0:00:08] So, ఇక్కడ different scenarios చూద్దాం. So, market లో ఏముంటాయి, three scenarios ఉంటాయి. Okay, follow up అంటే flat open అవుతది market అనేది లేదా up side open అవుతది gap up తో లేదా down side open అవుతది gap down తో.
+[0:00:21] So, initial days లో అంటే for example up to four to five months, six months వరకు initial days లో ఎలా mark చేసుకోవాలి, low volume nodes ఎలా find చేయాలనేసి నేను మీకు చెప్తా.
+[0:00:33] ఆ తర్వాత మన strategy ప్రకారం expand చేసుకుంటా వెళ్తాం కదా మనం, first initial nine fifteen దగ్గర చూస్తాం. Nine fifteen దగ్గర ఏం దొరకకపోతే మనకు ఆహ్ మన low volume nodeకి opposite లో వెళ్తుంటే expand చేసుకుంటా వెళ్తాం.
+[0:00:44] initial daysలో అలా చేయకూడదు. Okay. So, మీకు ఆ confidence వచ్చేంత వరకు ఏం చేయాలంటే, మీరు initialగా ఒక low volume node దొరుకుతుంది కదా, అదే mark చేసుకుని అక్కడే కూర్చోవాలి.
+[0:00:54] price అక్కడికి వస్తే అప్పుడే మనం trade చేస్తాం, లేదంటే trade చేయం. So, ఒక four months గాని మీరు అలా practice చేసినట్టయితే మీకు confidence, confidence అనేది build అవుతది and మీకు losing trades అనేవి బాగా తక్కువ ఉంటాయి.
+[0:01:06] Okay. So, మీకు, so మీకు అలా three scenariosలో నేను మీకు draw చేసి చూపిస్తా, so low volume nodes ఎలా draw చేసుకోవాలనేసి.
+[0:01:14] So, for example, ఇది చూడండి, ఏం చేస్తాం మనం, sorry, nine fifteen to nine fifteen కదా, so nine fifteen to nine fifteen draw చేసాం మనం.
+[0:01:25] So, ఇక్కడ మీరు చూసినట్లయితే ఇక్కడ low volume node ఎక్కడ ఉన్నది and also మీకు A class setups ఎప్పుడొస్తాయంటే edgesలో దొరికినప్పుడు కాదు low volume nodes, మీకు middleలో దొరకాలి low volume nodes.
+[0:01:35] ఇక్కడ చూడండి lowest volume node ఉందా లేదా ఇక్కడ. So, మనం mark చేసుకుంటాం. mark చేసుకున్నాం.
+[0:01:46] ఏమైంది, first touch చేసిన candle ఏంటి? E candle. So, మన strategy ప్రకారం ఏం చేస్తాం మళ్ళీ, ఆ రోజు nine fifteen నుంచి ఆ candle వరకు మనం mark చేసుకుంటాం.
+[0:01:56] So, mark చేసుకున్నట్లయితే మీకు ఇప్పుడు ఈ second time mark చేసుకుంటారు కదా candle, ఇక్కడ మీకు edgesలో ఉన్న edgesే తీసుకోవాలి low volume nodes.
+[0:02:04] ఎక్కడైతే ఈ entire volume profileలో ఎక్కడైతే ఏ pointలో మీకు lowest volume node ఉందో edgeలో last volume node ఉన్నా పర్వాలే, okay.
+[0:02:13] ఎక్కడైతే lowest volume node ఉన్నదో అక్కడే మనం draw చేసుకుంటాం. మనకి ఏం దొరికింది ఇక్కడ, ఇది low volume nodeగా ఈరోజు దొరికింది.
+[0:02:20] తర్వాత మనమేం చేస్తాం, previous day volume profile delete చేస్తాం. So, ఇక్కడి నుంచి ఏం చేస్తాం మనం, మీకు next videoలో చెప్తా, మీకు entries, exit ఏంటి, ఎలాగా అనేసి ఎలా చూసుకోవాలనేసి.
+[0:02:30] ఇక్కడి నుంచి ఏం చేస్తామంటే మనం order flow అంటే footprint charts, volume profile use చేసి futuresలో ఆ delta use చేసి మనమనేది ఏ directionలో మనం ఇక్కడ decide అవుతాం.
+[0:02:40] maybe ఈరోజు మన SL అనేది hit చేయొచ్చు. ఎందుకంటే ఇక్కడ కింద fake move ఇచ్చింది and also తర్వాత పైకి వెళ్ళిపోయింది. Okay, so మీరు ఎలా identify చేయాలో అర్థమైంది కదా.
+[0:02:48] Next ఇక్కడ touch చేసింది కదా, దీని తర్వాత first, first candle ఇది, దీని తర్వాత ఏదైతే touch చేస్తుందో, ఇది touch చేసింది.
+[0:02:57] Okay, ఇది touch చేసింది కదా, ఇక్కడి నుంచి మనం footprint chart అనేది చూడటం మొదలు పెడతాం. అది మీకు next videoలో అర్థమవుతుంది. Okay, so మీకు చెప్పా, so continuation setupలో ఇలా ఉంటుంది.
+[0:03:08] Okay, so continuationే కదా ఇక్కడ previous day కన్నా high అయితే, previous day high ఎంత?
+[0:03:16] ఇది. ఈ high కన్నా పైన open అవలేదు కదా, so ఇది continuation setup. ఇలా gaps వచ్చినా దీన్ని continuation setup అనే అంటారు.
+[0:03:24] Okay, so మీకు ఇక్కడ ఇంకో two, three examples చూపిస్తా. So, తర్వాత రోజు ఏం చేస్తాం, ఇక్కడి నుంచి ఇక్కడికి volume profile draw చేసుకున్నాం.
+[0:03:33] So, draw చేసుకున్న తర్వాత ఇక్కడ lowest volume node ఎక్కడ ఉన్నది? ఉమ్. So, మధ్యలో ఏమీ దొరకలే. So, మీకు lowest ఎక్కడుందంటే ఇక్కడుంది lowest volume node.
+[0:03:43] But ఇది A class setup కాదు. But ఏం చేస్తాం, we have to mark. Okay, మీకు ఎక్కడా దొరకకపోతే mark చేయాలి.
+[0:03:53] So, చేసాం. చేసిన తర్వాత ఏమైంది? E candle అనేది E candle first touch చేసిందా, so మన strategy ప్రకారం ఏం చేస్తాం, ఈ candle వరకు మనం కొత్త volume profile draw చేసుకుంటాం.
+[0:04:05] So, previous అన్నీ delete చేస్తాం. Delete చేసాం కదా, so ఇప్పుడు ఇందుల్లో low volume node ఎక్కడున్నదనేసి మనం identify చేయడానికి try చేస్తాం.
+[0:04:14] Okay. So, మీరిక్కడ చూసినట్లయితే lowest volume node ఎక్కడున్నది, ఇక్కడ ఒకటున్నది, ఈ edgeలో ఒకటున్నది.
+[0:04:23] మనమేం చేస్తాం, రెండూ mark చేసుకుంటాం. Okay. So, ఈ రెండూ mark చేసుకున్నాక ఏం చేస్తామంటే, E candle కదా touch చేసింది, E candle తర్వాత నుంచి ఎలా behave చేస్తుందనేసి మనం footprint chart,
+[0:04:43] volume delta చూసుకుంటూ మనం entries అనేవి decide అవుతాం. Okay. So, next, ఇది కూడా, ఇది కూడా continuation setupే కదా.
+[0:04:53] Previous day high కన్నా పైన open అవలేదు కదా. Okay. So, continuation setup ఒక idea వచ్చింది కదా. So, next gap up.
+[0:05:02] For example, ఇది కూడా continuation setupే. మీకు draw చేసి చూపిస్తే, ఇక్కడ gap up వచ్చింది గానీ previous day కన్నా high అయితే open అవలేదు కదా.
+[0:05:11] Okay, nine fifteen to nine fifteen draw చేసుకున్నాం. Draw చేసుకుంటే మీకు middleలో lowest volume nodes ఎక్కడున్నాయి, మీకు edgeలో కూడా ఉన్నది.
+[0:05:19] మీరిక్కడ గమనించినట్లయితే మీరు ఇందుల్లో, మీకు edgeలో కూడా ఉన్నది. ఆ edgeతో పాటు మీకు సమానంగా ఇక్కడ low volume node ఉంది చూడండి, ఇక్కడ ఈ point of timeలో.
+[0:05:28] Yeah, ఇక్కడ ఒకటున్నది, ఇక్కడ low volume node ఉన్నది. అవునా కాదా, రెండూ సమానంగా ఉన్నాయి.
+[0:05:35] రెండూ సమానంగా ఉన్నాయి కాబట్టి రెండూ mark చేసుకున్నా. ఏదైతే ఎక్కడైతే first touch చేస్తుందో దాన్ని మనం consider చేస్తాం. Okay, ఇక్కడ first touch చేసింది.
+[0:05:43] Okay, so ఇక్కడ delete చేసాం. Delete చేసిన తర్వాత ఏం చేస్తాం మన strategy ప్రకారం, ఆ రోజు nine fifteen నుంచి ఏ candle అయితే touch చేసిందో ఆ candle వరకు volume profile draw చేసుకుంటాం.
+[0:05:51] మళ్ళీ previous day delete చేస్తాం. ఆ levels అన్నీ delete చేస్తాం. Delete చేసిన తర్వాత మీరిక్కడ చూసుకున్నట్లయితే మీకు ఇక్కడ low volume node ఎక్కడున్నది, ఇక్కడ.
+[0:06:02] అవునా కాదా ఇక్కడ ఉందా లేదా lowest volume node. so ఆ తర్వాత candle ఏంటి ఇదే కదా candle next candle touch చేసింది cross చేసింది footprint chart and volume profile ఏంటో మీకు next video లో తెలుస్తుంది కాబట్టి దాని ప్రకారం మీరు entry తీసుకుంటారు మీకు మంచి move అనేది capture చేసారా లేదా okay so continuation setups అయిపోయినాయి next gap ups gap downs చూద్దాం.
+[0:06:23] ఉమ్ okay one minute so మంచి gap, yeah gap down ఇదిగో ఉంది.
+[0:06:39] మీరు మీకు last video లో move చేసుకోవచ్చు అని చెప్పాను కదా మీకు ఏవేవి వెళ్తుంటే but మీకు A class setups ఎందులో వస్తాయి అంటే initial ఒక LVN దొరుకుతది చూసారా ఆ LVN లోనే మీకు A class setups అనేవి వస్తాయి.
+[0:06:51] so ఇక్కడ మీకు చిన్న gap ఉంది so ఆ gap ఇక్కడ కనిపిస్తుందా లేదా so ఈ gap ని మనం mark చేసుకుంటాం okay.
+[0:07:05] so మళ్ళీ గాన ఆ gap ని touch చేసిందంటే మనం అక్కడ entry అనేది తీసుకుంటాం. so ఇక్కడ చూడండి touch చేసిందా లేదా pin point so మనం ఇక్కడ ఏం చేస్తాం ఇక్కడి నుంచి ఇక్కడి వరకు volume profile draw చేసుకుంటాం draw చేసుకుంటే మనకు lowest volume node వస్తది చూడండి ఒకటొక చోట so వచ్చింది
+[0:07:26] కదా ఇక్కడ so previous day delete చేసేస్తాం ఇంకా. ఉమ్ chart off చేద్దాం chart off చేస్తే మనకు కనిపిస్తది lowest volume node ఎక్కడ ఉంది.
+[0:07:40] మీరు ఇక్కడ lowest volume node ఎక్కడ ఉన్నది? ఉమ్ ఇక్కడ చూసుకున్నట్లయితే రెండు సమానంగా ఉన్నాయి almost కదా ఉమ్ so ఇక్కడ draw చేసుకుంటారు, ఇక్కడ draw చేసుకుంటారు so chart ki chart ki దగ్గరలో ఇక్కడ ఉన్నది కాబట్టి మీరు ఇక్కడ lowest volume node మీద draw చేసుకుంటారు.
+[0:07:58] so next మళ్ళీ chart తీసుకువద్దాం. తీసుకొచ్చిన తర్వాత ఇది కదా touch చేసిన candle first initial గా మనకి lowest volume node ఇక్కడ ఉన్నది. so ఏం చేస్తాం ఇక్కడ ఇది cross ఇక్కడి నుంచి ఇది touch చేసింది కదా touch చేసినప్పటి నుంచి మనం footprint chart లోకి వెళ్తాం so అక్కడ దాన్ని బట్టి చూసుకుని మనం అనేది entry అనేది plan చేసుకుంటాం.
+[0:08:15] maybe ఇది cost to cost అవ్వచ్చు లేదా SL అనేది hit చేయొచ్చు. okay so next ఉమ్ so gap down అయింది కదా so మీకు ఎంత పెద్ద gap ఉన్నా మీకు అక్కడ empty space కనిపిస్తుంది కదా empty space ని for example gap down అయింది gap down అయినప్పుడు ఆ opening దగ్గర empty space కనిపిస్తుంది చూసారా అదే low volume
+[0:08:35] node గాని mark చేసుకుంటారు. లేదు gap up అయింది అనుకోండి so మీకు gap up కూడా చూపిస్తా. ఉమ్ one minute gap up అనేది చూస్తున్నాం gap
+[0:08:57] down దొరికింది gap up అనేది చూస్తే మనకి యా ఇదిగోండి ఇక్కడ gap up వచ్చింది చూడండి. nine fifteen నుంచి nine fifteen వరకు
+[0:09:18] మనం draw చేసుకుందాం draw చేసుకుంటే మీకు ఇక్కడ gap లో చూడండి low volume node ఉందా లేదా so ఇది up side కాబట్టి పైన mark చేసుకుంటాం లేదా కింద open so ఈ candle దగ్గరలో మనం low volume node చూసుకోవాలి ఇక్కడ ఉంది కదా low volume node ఇది mark చేసుకున్నాం mark చేసుకున్న తర్వాత ఇక్కడ touch చేసింది కదా first candle ఏది touch చేసింది?
+[0:09:36] ఈ candle. so మన strategy ప్రకారం ఏం చేస్తాం? మళ్ళీ ఆ రోజు nine fifteen నుంచి ఇక్కడి వరకు volume profile draw చేసుకుంటాం draw చేసుకున్న తర్వాత ఇవన్నీ delete చేసేస్తాం delete చేసిన తర్వాత ఇందులో lowest volume node ఎక్కడ ఉన్నదో మనం చూస్తాం.
+[0:09:52] so ఈ second time draw చేసిన దానికి edges లో ఉంటే edges లోనే తీసుకోవాలి okay first draw చేసిన దానికి middle లో ఉంటే మీకు మంచి setup వచ్చినట్టు అన్నమాట got it okay.
+[0:10:01] so ఇక్కడ చూడండి ఏమైంది next ఇక్కడ touch చేసింది touch చేసినప్పటి నుంచి మనం volume profile లోకి వెళ్తాం sorry footprint chart లోకి వెళ్తాం footprint chart లో మనం చూసుకుని దాన్ని బట్టి entries తీసుకుంటాం చూడండి మంచి move capture చేశామా లేదా.
+[0:10:12] so gap ups అయినాయి, gap downs అయినాయి, continuation setups అయినాయి. so దీంతో మీకు volume profiles draw చేసుకుని entry points ఎలా చేసుకోవాలనేసి మీకు ఒక clarity వచ్చింది.
+[0:10:22] అంటే initial days లో nine fifteen to nine fifteen నే draw చేసి ఆ volume profiles ఆ low volume node కోసం wait చేయండి.
+[0:10:29] రాకపోతే చేయొద్దు. first two months లేదా one month అన్నా at least one month అన్నా strict ఆ initial low volume nodes fix అవుతాయంటే మీకు win ratio అనేది చాలా ఎక్కువ ఉంటది when compared to మనం move చేసుకుంటాం కదా ఇంకొక దాంట్లో ఏం చేస్తాం మనం ఇక్కడ ఇక్కడ low volume node ఉంది initial గా for example ఇక్కడే చెప్తా చూడండి.
+[0:10:49] అది అది కూడా అందులో కూడా setups ఉంటాయి కాకపోతే ఏంటంటే మీకు ఆ probability అనేది తగ్గుతుందన్నమాట for example ఇక్కడ draw చేస్తాం.
+[0:10:56] మనకి initial low volume node ఎక్కడ ఉన్నది? ఇక్కడ ఉన్నది. ఉమ్ ఇక్కడి నుంచి అవే move అవుతాయి మనం ఏం చేస్తాం మన strategy ప్రకారం ఇంకా price తో పాటు మనం కూడా move అవుతాం ఇంకో కొత్త low volume node కనిపించే వరకు ఉమ్ so slow గా move అవుతున్నాం ఇంకేమీ కనిపించలే so ఇక్కడ ఒకటి కనిపించింది చూడండి ఉమ్ ఇక్కడ
+[0:11:17] mark చేసుకుంటాం mark చేసుకున్నాక ఇక్కడ అంత movement లేదు కదా మీకు అర్థమైందా? so ఇలా maybe ఇక్కడి నుంచి ఇంకా heavy movement రావచ్చు ఇంకొక రోజు maybe ఇక్కడ cost to cost exit అయి ఉండొచ్చు so నేను మీకు అందుకే చెప్తున్నా.
+[0:11:30] so initial days లో first lowest volume node ఉంటది చూశారా nine fifteen to nine fifteen draw చేసుకోండి దానికే stick on అయ్యి ఉండు ఇక్కడ వచ్చిందా లేదా ఇంత movement వచ్చింది చివరికి ఇక్కడికి వచ్చి ఇక్కడి నుంచి మళ్ళీ పైకి వెళ్ళిందా లేదా so ఇలా initial days లో ఇలా this setup కి one month, two months లేదా నా suggestion ఏంటంటే four months మంచి profitable లోకి వెళ్ళేంత వరకు initial low volume node setups కి draw
+[0:11:50] చేసుకుని simple గా wait చేయండి రాకపోతే no trade. వస్తాయి మీకు setups కాకపోతే కొద్దిగా తక్కువ వస్తాయి okay maybe twenty trading, twenty trading sessions లో ఒక ten, twelve trading sessions వచ్చినా చాలు కదా more than enough కదా daily monthly మీకు ten trading sessions initial days లో profitable ఉంటే okay చాలా A class setups వస్తాయి మీకు గాని price గాని initial low volume node దగ్గరికి
+[0:12:10] వచ్చి మంచిగా reversal అయిందంటే okay so initial days లో first low volume node నే prefer చేయండి మీరు practice చేసేటప్పుడు కూడా ఇలాగే చేయండి drag చేసుకుంటా వెళ్ళొద్దు.
+[0:12:20] తర్వాత ఒక okay మనకు ఒక com-- ఒక comfort zone లోకి వెళ్లారు మీరు ఆ confidence అనేది మీకు build అయింది అన్నప్పుడు next drag చేసుకుంటా వెళ్లి అక్కడ low volume nodes find చేసి అక్కడి నుంచి trades అనేవి తీసుకోండి okay.
+[0:12:31] so previous video లో మనం strat-- low vol-- అదే అసలు మన volume profile తో మన strategy ఏంటి అనేది discuss చేశాం.
+[0:12:37] ఈరోజు three scenarios మీకు చూపించేశాం okay. so next video లో ఏంటంటే మీకు footprint charts and volume delta.
+[0:12:44] ఈ volume profile లో delta ఉంది కదా మనం previous video లో మాట్లాడుకున్నాం కదా ఈ delta ని ఉపయోగించి మనం entries అనేవి ఎలా decide అవుతాం అనేసి మనం next video లో మాట్లాడుకుందాం.
+[0:12:53] okay guys so thank you practice చేయండి practice చేశాక you can go to next video okay thank you bye.
