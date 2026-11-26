@@ -1,0 +1,252 @@
+# Course part 14 transcript (ElevenLabs scribe_v2, Telugu+English), duration 2897s
+[0:00:28] Okay, so మనం previous దాంట్లో ఏం discuss చేసుకున్నాం, balance sheet గురించి discuss చేసుకున్నాం కదా, balance sheet అనేది ఎలా read చేయాలనేసి.
+[0:00:35] So, ఒకసారి మళ్ళీ recap చేసుకుందాం. Balance sheet లో major three ఉంటాయి. ఏంటి? Assets, liabilities, equity.
+[0:00:42] Assets లో ఏముంటాయి, current assets ఉంటాయి, non current assets ఉంటాయి. Liabilities లో ఏముంటాయి, current liabilities ఉంటాయి, non current liabilities ఉంటాయి.
+[0:00:50] Okay? So, మనం ఇది previous session లో discuss చేసుకున్నాం. So, ఇప్పుడు ఈరోజు ఏం చేసుకుంటాం అంటే, how to read a profit and loss statement.
+[0:00:58] So, మొన్న balance, నిన్న balance sheet ఎలా read చేసామో so, ఈరోజు profit and loss statement కూడా అలా read చేయడానికి try చేద్దాం, అక్కడ ఉన్న each term meaning తెలుసుకుందాం.
+[0:01:07] Okay, so basically మీకు P&L statement అంటే ఏంటంటే ఒక company యొక్క ఆ profit and loss statement.
+[0:01:15] For example, ఉమ్ ఒక company తీసుకోండి X అనే company ని so, అది at the end of the financial year అది profit లో ఉందా, loss లో ఉందా, వాటికి ఎంత revenue వచ్చింది, ఎంత expense అయ్యింది, okay, ఎక్కడెక్కడ ఎంత expenses వచ్చినయి, ఎక్కడి నుంచి ఎంత revenues వచ్చినయి, ఇదంతా detailed statement నే profit and loss statement
+[0:01:35] అంటారు. Okay, so basic net profit formula ఏంటి, total revenue minus అంటే వీళ్ళ pocket లోకి వచ్చిన money total expenses వీళ్ళకి expenses ఉంటాయి కదా, for example, ఒక product book అనుకుంటే, ఆ book ని prepare చేయడానికి ఒక expense ఉంటది కదా, papers కానీ, పైన cardboard material కానీ, so అలా ఆ expenses ఎంత అయ్యిని minus
+[0:01:56] వీళ్ళకి వచ్చిన profit కి ఒక tax కట్టాలి కదా, ఆ tax, minus taxes equal to net profit.
+[0:02:03] Okay, so, so and also ఇంకొక important thing ఏంటంటే, మీరు ఎప్పుడైనా ఆ annual reports read చేసేటప్పుడు రెండు ఉంటాయి, standalone financial statements అని ఉంటాయి, consolidated financial statements అని ఉంటాయి.
+[0:02:17] ఇంక standalone financial statements అంటే ఏంటంటే, for example, parent company ఉంటది కదా, వాటి direct operations అంటే for example, ఇక్కడ Mahindra and Mahindra అనే example తీసుకుంటున్నాం కాబట్టి, Mahindra and Mahindra standalone financial statement అంటే ఏంటి, ఆ parent company direct operations ఎందులో involve అయి ఉన్నాయి, automotive and
+[0:02:37] farm equipment operations, okay, అంటే cars, tractors and their equipment, okay. So, ఇది వీళ్ళు direct గా వీళ్ళ company involve అయి operations లో చేస్తున్న business, దాన్ని standalone financial statement అంటారు.
+[0:02:51] So, consolidated financial statement అంటే ఏంటంటే, for example, ఈ M&M అన్న company more than fifty percent stake ఏదన్నా company లో hold చేస్తుంటే, అవి consolidated financial statements లోకి వస్తాయి.
+[0:03:04] For example, ఇక్కడ read చేయని అర్థం అవుతుంది, "Shows the combined financial performance of the parent company plus all subsidiaries." subsidiaries అంటే ఏంటి, greater than fifty percent stake ఉంటే దాన్ని subsidiaries అంటారు.
+[0:03:17] Okay, plus the parents proportional share of profit from associates. Associates అంటే ఏంటి, twenty percent to fifty percent stake ఉంటే దాన్ని associates అంటారు.
+[0:03:27] అంటే joint ventures, joint ventures అంటే ఏంటి, ఇద్దరితో tie up tie చేసుకుంటారు కదా, ఒక చిన్న company తో joint venture అంటారు.
+[0:03:34] So, okay, for anything, ఏదో ఒక product prepare చేయడానికి లేదా ఒక patent కోసమో anything, okay. అది joint ventures లోకి వస్తుంది.
+[0:03:41] Okay, so ఇలా ఈ మూడు, ఇలా direct గా involve అయి చేసిన operations లోంచి operations plus ఈ subsidiaries plus associates and joint ventures, ఇవన్నీ కలిపి P&L statement అంటే, దాన్ని consolidated financial statement అంటారు.
+[0:03:59] For example, ఇక్కడ M&M example గాని తీసుకుని, ఇక్కడ ఏముంది, "combines M&M Limited with subsidiaries like Mahindra Finance, Mahindra Lifespaces, Mahindra Logistics, SML Mahindra plus like Tech Mahindra." Okay, so ఇలా, ఇలా different different companies ఉంటాయి కదా, వాటిల్లో ఇవి వీళ్ళకి share ఉన్నది కాబట్టి, ఆ,
+[0:04:19] ఆ యొక్క financials కూడా కలిపి ఒక P&L statement, ఆ యొక్క financials కూడా కలిపి ఏదైనా statement, ఇప్పుడు for example, ఈ consolidated financial statement, standalone financial statement అంటే P&L statement ఉంటది.
+[0:04:32] Okay, మీరిప్పుడు నిన్న మనం చూసిన balance sheet లో కూడా consolidated ఉంటది, standalone ఉంటది. Okay, standalone అంటే ఏంటంటే simple గా, ఆ company యొక్క direct involve అవుతాయి చూసారా operations లో, parent companies direct operations.
+[0:04:46] ఆ ఒక్క, ఆ ఒక్క, ఆ ఒక్క company కే సంబంధించిన financial statement ని దాన్ని standalone అంటారు. లేదు, ఈ యొక్క group, M&M అన్న group complete subsidies invest చేసిన amount మొత్తం ఇవన్నీ, వీళ్ళ sub companies ఉంటాయి చూసారా, child companies అవన్నీ, అవన్నీ కలిపి financial statements ఉంటే, దాన్ని consolidated reports అంటారు.
+[0:05:05] Okay, standalone కి, consolidated కి మీరు చూసుకోండి, ఎప్పుడు మనం చూసేటప్పుడు consolidated ఏ చూడాలి. ఎందుకంటే, మనం ఆ stock లో invest చేస్తున్నాం.
+[0:05:12] Okay, మనం ప్రత్యేకంగా M&M లో invest చేయట్లేదు. మన entire M&M group అంతటితోనే invest చేస్తున్నాం.
+[0:05:19] ఆ stock effect అవుతుంది అంటే, ఈ కింద ఇందులోని ఏది effect అయినా stock effect అవుతుంది. So, ఎప్పుడూ మనం standalone చూడకూడదు, consolidated financial statements ఏ చూడాలి.
+[0:05:28] If, ఎప్పుడు చూడాలి అంటే standalone financial statements, if ఎక్కడో తప్పు జరుగుతుంది అంటే ఎక్కడ జరుగుతుంది, ఏ company లో జరుగుతుంది, major company operations అంటే parent company direct operations ఉంటాయి చూసారా, ఆ financial statements లో అంతా correct గానే ఉందా, వీళ్ళ subsidiaries లో ఏమన్నా problem ఉందా అన్నది చూసుకోవడానికి అప్పుడు compare చేసుకుంటాం తప్ప, మనం general గా consolidated financial statement ఏ మనం చూస్తాం.
+[0:05:48] Okay done, clarity వచ్చిందా standalone కి, consolidated కి? Okay, so ఇది నేను మీకు share చేస్తాను నాకు DM చేయండి.
+[0:05:57] So, basic గా ఏంటంటే, నేను ఒక sheet prepare చేస్తున్నాను అనమాట, entire fundamentals కి ఒక cheat sheet లాంటిది. For example, మీరు ఇక్కడ revenues from operations అని ఉన్నది, ఇదొక term ఉంటది, term గురించి తెలియకపోతే మళ్ళీ అక్కడ ఇక్కడ చూసుకోవక్కర్లేకుండా మీకు ఒక sheet ఇచ్చేస్తాను.
+[0:06:09] అక్కడ universal meaning ఉంటది. అంటే దీని meaning ఏంటి మీరు for example M&M లోనే కాదు వేరే ఏ company లో చూసుకున్నా universal meaning దీన్ని ఎలా అర్థం చేసుకోవాలి.
+[0:06:18] ఇక్కడ M&M example తీసుకుని, ఇక్కడొక column ఉన్నది okay, మళ్ళీ ఇక్కడ how to read it as a investor tip అంటే దీన్ని ఎలా చూడాలి మనం అనేసి ఇక్కడ ఉంటది.
+[0:06:27] so ఇలా four columns తో ఉంటది మీకు cheat sheet కింద మీకు future లో బాగా ఉపయోగపడుతుంది okay. so ఇది నేను మీకు share చేస్తాను నాకు DM చేయండి.
+[0:06:36] okay, let's go. okay, మీకు చెప్-- మనం previous session లో చూశాం కదా మనం ఎక్కడి నుంచి annual reports తీసుకోవాలి అనేసి, screen 1 లోకి రండి.
+[0:06:47] అక్కడికి రండి annual reports download చేసుకోండి and మీరు ఎక్కడికి వెళ్లాలనుకుంటున్నారో అక్కడ control F నొక్కితే మీకు ఇక్కడ వస్తది.
+[0:06:54] దాన్ని బట్టి మీరు search చేసుకుంటారు okay. so ఇలా ఇక్కడ, ఇక్కడ చూడండి consolidated statement of profit and loss అంటే మనం entire company కి profit and loss చూస్తున్నాం.
+[0:07:04] for example నిన్న మనం balance sheet చూశాం. ఇక్కడ ఏముంది consolidated balance sheet okay. so ఇలా consolidated ఉందా లేదా standard ఉందా ఒకసారి చూసుకోండి.
+[0:07:12] check చేసేటప్పుడు లేదా మొత్తం miss అవుతారు. okay, so మనం నిన్న ఏం చేసాం balance sheet లో each and every time గురించి తెలుసుకున్నాం కదా, so ఇక్కడ కూడా అంతే each and every time గురించి నేర్చుకుందాం.
+[0:07:25] so first okay, so ఇక్కడ మీకు sheet ఇచ్చా కదా, ఆ sheet ఏ ఇది. so మీకు side by side పెట్టి each one explain చేస్తా.
+[0:07:32] okay, ఉమ్, yeah. okay, first one ఏంటి revenue from operations, revenue from operations అంటే ఏంటంటే for example వీళ్ళ main businesses ఉంటాయి చూసారా for example M&M తీసుకుంటే ఏంటి cars, tractor equipments
+[0:07:53] లేదా for example IT services, వీళ్ళ subsidiaries ఉన్నాయి కదా IT services so ఇలా, ఇవన్నీ కలిపి major operations ఉంటాయి చూసారా ఆ operations నుంచి వచ్చిన revenue ఎంత one lakh ninety seven thousand seven hundred and ninety two crores okay.
+[0:08:09] next, income from investments related to subsidiaries, associates and joint ventures. for example ఇది ఏంటంటే ఇక్కడ చూడండి operating gains or returns earned from treasury or holding arms directly from strategic investments in group subsidiaries, associates, joint ventures
+[0:08:30] such as stake divestment, stake dese-- sorry, stake disvestment, disinvestment అనుకో sorry ఇది ఏదో తప్పు type చేశా.
+[0:08:41] okay or operating investment returns okay. so basic గా ఇది ఏంటంటే income from investments related to subsidiaries, associates and joint ventures అంటే ఇది revenue from operations అంటే ఏంటి, వీళ్ళ main involve అవుతారు చూసారా, ఇందాక మనం ఆడుకున్నాం చూసారా consolidated statement చదివినప్పుడు so ఇలా వీళ్ళు involve అయ్యి direct operations లో, ఆ operations నుంచి వచ్చిన revenue
+[0:09:02] ఇక్కడ ఉంటది okay and వీళ్ళ, and వీళ్ళ involvement లేనిది ఉంటాయి చూసారా income from investments okay just invest చేసేసి just ఒక overview పై, overview look ఇస్తారు తప్ప direct operations involve అవ్వరు so అలాంటివన్నీ ఇక్కడికి వస్తాయి.
+[0:09:15] ఎంత eight forty five crores okay. next, income from operations okay, ఇది రెండూ combine చేసుకున్నారు okay.
+[0:09:23] ఈ main వీళ్ళు involve అయిన direct operations నుంచి next ఉమ్, subsidiaries నుంచి వచ్చిన income రెండాటిని combine చేశారు ఇక్కడ total income from operations.
+[0:09:34] next other income, other income అంటే ఏంటంటే for example ఇక్కడ చూడండి, ఇక్కడ form లో ఉన్నది చూడండి other income కి, income from, ఒక్క second sorry, other income.
+[0:09:47] ఏమైనా ఉన్నది for example వీళ్ళు FD చేస్తారు లేదా mutual funds లో invest చేస్తారు లేదా ఇందులోనే invest చేసుకుంటారు. ఆ, okay.
+[0:09:54] so ఎక్కడి నుంచో, ఉమ్, for example ఏదో ఒక company లో stake కొంటే అక్కడి నుంచి dividends వస్తాయి లేదా వచ్చే-- okay, so ఈ type of incomes ఉంటాయి చూసారా, ఈ type of incomes అన్నీ వచ్చినట్లయితే other incomes లో పెడతారన్నమాట.
+[0:10:06] వీళ్ళు, వీళ్ళు direct గా involve అవకుండా వీళ్ళ operations main business నుంచి వచ్చింది కాకుండా వేరే చిన్న చిన్న investments చేసి FD's లాంటివి, ఇక్కడ examples ఉన్నాయి చూసుకోండి such as interest on bank FD's, gain on liquid mutual funds, dividends from non group investments okay.
+[0:10:21] ఇవన్నీ other incomes లోకి వస్తాయి. మీకు ఈ incomes details ఎక్కడి నుంచి ఎంత ఎంత వచ్చినాయో తెలుసుకోవాలంటే మనం ఆడుకున్నాం కదా note numbers గురించి so ఈ note number twenty seven కి వెళ్తారు.
+[0:10:30] అక్కడ మీకు in detail explain చేసి ఉంటాది, ఎక్కడి నుంచి ఎన్ని డబ్బులు వచ్చినాయి అనేసి. so అక్కడి నుంచి ఎంత వచ్చింది వీళ్ళకి income, three thousand four hundred and forty five crores.
+[0:10:40] so total, total income ఎంత వచ్చింది వీళ్ళకి, మొత్తం ఇయన్నీ combine చేస్తే two lakh two thousand eighty four crores income వచ్చింది financial year twenty twenty six లో.
+[0:10:51] okay, so income అయిపోయింది next మనం ఏం ఆడుకున్నాం, expense. expense అంటే ఏంటి, వీళ్ళకి వచ్చిన ఖర్చులు okay.
+[0:10:59] so first దగ్గరికి వద్దాం. cost of materials consumed for example ఉమ్, ఇప్పుడు M&M దాంట్లో తీసుకుంటే for example ఒక car తయారు చేయాలంటే వాటి, ఇప్పుడు raw materials అంటాం కదా so for example ఆ, plastic, లోపల build చేయడానికి leather okay, seats, ఇవన్నీ ఉంటాయి కదా తయారు
+[0:11:19] చేయడానికి, ఒక car తయారు చేయడానికి వచ్చే ఖర్చు okay, దాన్ని cost of materials consumed okay.
+[0:11:27] ఈ products ఉన్నాయి చూసారా, ఈ products ని తయారు చేయడానికి వచ్చిన ఖర్చు ఎంత one lakh thirteen thousand five hundred and fifty three crores వీళ్ళకి expense వచ్చింది okay.
+[0:11:36] next, purchases of stock in trade. ఈ purchases of stock in trade అంటే ఏంటంటే cost of readymade finished goods bought from third party vendors purely for resale without manufacturing them in house.
+[0:11:50] for example ఉమ్, ఒక music system తీసుకోండి for example వీళ్ళు cars లో Sony system ఇచ్చాము, అది ఇచ్చాము, Harman Kardon ఇచ్చాం అనేసి అంటారు కదా, so అదేంటి బయట vendors నుంచి వీళ్ళు purchase చేసి అవి తీసుకొచ్చి వీళ్ళు cars లో fit చేస్తున్నారు.
+[0:12:05] so అలాంటి purchases అన్నీ ఏమస్తాయి అంటే purchases of stock in trade లోకి వస్తాయి. so అవి ఎంత amount అయింది eight thousand six hundred and seventy crores, అదొక expense.
+[0:12:15] next Changes in inventories of finished goods, stock in trade, work in progress.
+[0:12:21] ఇది చాలా జాగ్రత్తగా వినండి మీకు explain చేస్తా, ఇందులో చాలా మంది confuse అవుతారు, ఇది ఒక in detail explain-- ఒక example తీసుకొని నేను మీకు explain చేస్తా, okay.
+[0:12:31] So, let's go to Gemini, ఉమ్, let me explain in detail. ఉమ్, okay.
+[0:12:46] So, ఇక్కడ detail ఒక్కొక్కటి ఒక్కొక్క line by line చదువుతా మీకు explain చేస్తా. ఒకవేళ మీకు అర్థం కాలేదనుకోండి, నాకు DM చేయండి one-on-one session పెట్టుకుందాం, మళ్ళీ explain చేస్తా.
+[0:12:56] So, ఇది చాలా important, okay, ఇక్కడ చాలా మంది confuse అవుతారు ఇందులో. So, clear గా తెలుసుకోండి. So, ఇక్కడ ఏమున్నది, "Changes in inventories of finished goods, stock in trade, work in progress is the most misunderstood line on a P&L statement." So, అందుకే చెప్పా చాలా మంది confuse అవుతారని.
+[0:13:15] Because it can be either a positive number added to expense or a negative number in brackets subtracted from expense.
+[0:13:24] So, ఇక్కడ brackets అని ఉన్నది కదా, brackets అంటే ఏంటంటే, మీకు P&L statement లో brackets ఉన్నాయంటే negative అనేసి అర్థం అది, గుర్తించుకోండి.
+[0:13:32] అప్పుడు expenses లో నుండి subtract చేయాలి అనేసి అర్థం చేసుకోవాలి, okay. అదొకటి గుర్తుపెట్టుకోండి, bracket ఉంటే minus.
+[0:13:40] So, ఇక్కడ చాలా మంది confuse అవుతారు, ఎందుకు minus ఉన్నది, plus ఎందుకు ఉంటది ఒకసారి minus ఎందుకు ఉంటది అనేసి ఇక్కడ చాలా మంది confuse అవుతారు and also అక్కడ value ఎందుకు minus వస్తుంది negative వస్తుంది ఎందుకు positive ఉంటుంది అన్నది కూడా చాలా మంది confuse అవుతారు.
+[0:13:53] ఇక్కడ నేను మీకు ఈరోజు అది clear చేస్తా చూడండి. Okay, here is a step-by-step breakdown of why this line exists, how the math works and how to read it in P&L statement.
+[0:14:05] ఇక్కడ మనకి Mahindra & Mahindra example తీసుకున్నాం కాబట్టి Mahindra & Mahindra P&L statement ఎలా read చేయాలి అని. First, అక్కడ mention చేశారు చూసారా, okay, first అసలు ఇది-ఇది ఎందుకు ఉన్నది అన్నది మనం ఇక్కడ చూద్దాం, okay.
+[0:14:21] Why does this line exist? The golden rule of accounting, ఏముంటది accounting లో, in accounting there is a strict rule called the matching principle.
+[0:14:31] For example, in a financial year you are only allowed to deduct the manufacturing cost of the vehicles you actually sold in that year, not the cost of vehicles that are still sitting unsold in your factory yard.
+[0:14:46] For example, ఒక hundred cars manufacture చేసింది M&M ఈ financial year లో అనుకుందాం. ఆ hundred cars లో eighty cars ఏ sell చేసింది, ఇంకొక twenty cars వాళ్ళ yard లో ఉన్నాయి factory yard లో.
+[0:14:57] So, ఇక్కడ P&L statement, the golden rule of accounting లో ఏమున్నది rule ఏముంది, వీళ్ళు ఎంత అయితే అమ్మారో, ఎన్ని cars అయితే అమ్మారో దానికే account చూపించాలి.
+[0:15:07] మిగిలిన twenty cars ఉన్నాయి చూసారా, ఆ twenty cars కి అయిన ఖర్చు మొత్తం statement లో నుంచి minus చేయాలి.
+[0:15:16] For example, ఒక twenty lakhs అయ్యింద-- ఒక్కొక్క car one lakh అనుకుందాం మీకు example తెలుసుకోవడానికి, twenty అంటే twenty lakhs.
+[0:15:22] So, వీళ్ళకి వచ్చిన expenses అన్నట్లు twenty lakhs మిగిలిపోయింది కాబట్టి, వాళ్ళు yard లో కూర్చున్నాయి కాబట్టి ఆ twenty lakhs minus చేసి ఆ expense లో నుంచి, మిగిలిన expense లో నుంచి ఆ twenty lakhs minus చేసేయాలి.
+[0:15:36] వీళ్ళ దగ్గర ఏమన్నా inventory ఏమన్నా వీళ్ళ factory లో financial year లో ఉన్నది sell అవకుండా అంటే, అది ఖచ్చితంగా ఆ year expense లో నుంచి minus చేసి carry forward చేయాలి next year కి.
+[0:15:47] So, ఈ line అందుకు ఉన్నది, అర్థమైందా? So, why this exists, change in inventories of finished goods, stock in trade and work in progress ఇది ఎందుకు ఉన్నది అంటే అందుకు, okay.
+[0:15:57] ఏ financial year లో ఏ items sell అయిందో అది మాత్రమే expense లోకి రావాలి, okay. మిగిలినవన్నీ minus చేసి దాన్ని next year కి carry forward చేయాలి.
+[0:16:06] మీకు line by line చదువుతే మీకు clarity వస్తది చూడండి, okay. Cost of materials consumed, మనం ఇక్కడ ఎం చూసాం, cost of materials consumed లో one lakh thirteen thousand five hundred and fifty three crores వచ్చింది.
+[0:16:18] This records of all the steel, tyres, engines and paint used on the factory floor during financial year twenty-six, అర్థమైందా?
+[0:16:27] During financial year twenty-six లో వీళ్ళు use చేసిన entire steel, tyres, engine, paint మొత్తం అంతా cost ఇది, okay.
+[0:16:36] Next, purchases of stock in trade ఎంతున్నది, eight thousand six seventy crores, ఇది కూడా same. Same financial year లో వీళ్ళు కొంటారు చూసారా, వీళ్ళు factory లోకి enter అవుతాయి చూసారా ఆ financial year లో order పెట్టుకొని తెచ్చుకుంటారు చూసారా, ఆ entire amount ఇది, okay, purchases of stock in trade.
+[0:16:51] Stock in trade అంటే ఏమనుకున్నాం, speakers వీళ్ళు త-- in-house తయారు చేయకుండా బయట నుంచి purchase చేస్తారు చూసారా vendors నుంచి, so అలాంటి దాన్ని purchases of stock in trade అనేసి అంటారు.
+[0:17:00] So, ఇలా financial year twenty-six లో eight thousand six seventy crores purchase చేశారు. ఇక్కడ problem వస్తుంది చూ-- ఇక్కడ the problem, దీని కోసమే ఆ line ఉన్నది, clear గా చూడండి.
+[0:17:10] What if M&M manufactures one lakh-one lakh Scorpios this year, okay. ఈ twenty-twenty six లో one lakh Scorpios manufacture చేసింది.
+[0:17:21] Factory నుంచి one lakh Scorpios yard లోకి వచ్చినాయి. But only sold ninety thousand, అందులో ninety thousand cars మాత్రమే sell చేసింది.
+[0:17:30] Or what if M&M manufactured one lakh Scorpios this year and sold one lakh five thousand Scorpios, ఈ year manufacture చేసిన one lakh Scorpios కాకుండా ఆ yard లో ఉంటాయి చూసారా, ఆ extra five thousand Scorpios కూడా sell చేసేసింది ఇదే financial year లో.
+[0:17:46] So, అక్కడ మీకు లెక్క తేడా వస్తుందా లేదా, so అందుకు మనకి correct expense అనేది మనం అక్కడ చూపించలేకపోతున్నాం కదా, so దానికి to fix this mismatch between what was produced and what was actually sold, accountants use change in inventories, అర్థమైందా?
+[0:18:04] మీకు-మీకు-మీకు ఏమన్నా confusi-confusion గాని ఉంటే నాకు DM చేయండి, నేను మీకు one-on-one session పెట్టి clear గా explain చేస్తా. ఇది మాత్రం మీకు అర్థం కావాలి తప్పక, లేకపోతే అక్కడ మీరు financial statements read చేసేటప్పుడు అక్కడ minus ఎందుకుంది, positive ఎందుకుంది మీకు చాలా confuse అవుతారు, okay.
+[0:18:19] నాకు DM చేయండి మీకు అర్థం కాకపోతే. Next, so ఇక్కడ మూడు ఉన్నాయి కదా, ఏంటి?
+[0:18:30] ఇక్కడ ఏమన్నా ఉన్నది ఇక్కడ Changing Inventories of Finished Goods, Stock in Trade, Work in Progress ఇలా మూడు ఉన్నాయి కదా, సో ఆ మూడు ఏంటి?
+[0:18:38] Finished Goods అంటే ఏంటి? Completely build SUVs and Tractors sitting in M&M factory yard.
+[0:18:45] Okay, అర్థమైందా? Complete, for example ఒక Car తయారు చేసేసి అది Yard లో కూర్చుంటే దాన్ని Finished Goods అంటారు. ఏదో ఒక Product finish చేసేసి అది ready to sell condition లో ఉన్నది.
+[0:18:54] దాన్ని Finished Goods లోకి వస్తది. Next, Stock in Trade, Stock in Trade అంటే ఏమ్మా అడుగుతున్నా, vendors నుంచి వీళ్ళు purchase చేస్తారు కదా for example Speakers, Engine Oil, ఉమ్ లేకపోతే Genuine Spare Parts ఇవి కూడా purchase చేసి వీళ్ళు, వీళ్ళ దగ్గర Stock ఉంచుకుంటారు కదా, అది-- Okay, దాన్నే Stock in Trade అనేసి అంటారు.
+[0:19:10] Next, Work in Progress for example half build vehicles for example ఈ March 31st కి ఆ ఒక for example ఒక hundred cars అనేవి half build అయిపోయి ఉన్నాయి అలాగ factory లో, సో అవన్నీ Work in Progress లోకి వస్తాయి.
+[0:19:25] Okay, ఇక్కడ చూడండి formula వస్తది Change in Inventories కి, on the P&L Statement the formula for this line is always Change in Inventory equal to Opening Inventory అంటే start of year April 1st every financial year ఎప్పుడు start అవుతది, April 1st to March 31st కదా, so Opening Inven-- ఈ Opening Inventory ఎక్కడి నుంచి వస్తది అంటే మీకు
+[0:19:45] ఇందాక చెప్పా కదా, for example ఇక్కడ one lakh Scorpios తయారు చేస్తే ninety thousand Scorpios ఏ అమ్మింది, మిగిలిన ten thousand Scorpios ఏం చేస్తారు?
+[0:19:54] ఈ Opening Inventory లోకి వేసేస్తారు, అర్థమైందా? Next financial year కి, అలా Opening Inventory వస్తది. అలా Change in Inventory ఏంటంటే Opening Inventory minus Closing Inventory.
+[0:20:04] Closing Inventory అంటే ఏంటి? End of year March 31st, March 31st కల్లా వీళ్ళ దగ్గర ఎంత Inventory ఉన్నా అది ఇంకా balance.
+[0:20:11] Okay, అది formula first Change in Inventory కి. Because it is opening, so ఇది line వదిలేయండి confuse అవుతారు.
+[0:20:18] Scenario A తీసుకుందాం, negative ఉంటే ఏంటి, positive ఉంటే ఏంటి అనేది మీకు ఇక్కడ clearly explain చేస్తా చూడండి. Scenario ఏంటి ఇక్కడ, what the number is-- what if the number is negative?
+[0:20:29] Negative అంటే ఏంటి? Brackets లో ఉంటే negative అర్థం చేసుకోవాలి మీరు Financial Statements లో read చేస్తే కదా, ఇక్కడ ఏమున్నది twelve point one eight crores okay అది bracket లో ఉంది అంటే minus twelve crores.
+[0:20:39] ఏమైంది అసలు? మన formula ఏంటి Closing Stock, మన formula ఏంటి ఇక్కడ Opening Inventory mi-- Opening Inventory minus Closing Inventory, okay.
+[0:20:51] So, ఇక్కడ negative ఉన్నది అంటే దాని అర్థం ఏంటి Closing Sto-- Closing Inventory అనేది Opening, Opening Inventory కన్నా ఎక్కువ ఉన్నట్టు.
+[0:20:59] అంటే Inventory increased during this year. మీకు ఇక్కడ negative ఎందుకు వస్తది అంటే for example, ఆ ఇక్కడ కింద example చూద్దాం మీకు ఈ example బట్టి అర్థమవుతుంది.
+[0:21:11] Imagine you manufacture ten SUVs this year at ten lakhs each. Your raw material cost is one lakh, okay.
+[0:21:18] Raw Material cost చెప్తున్నాడు ఇక్కడ చూడండి Car cost కాదు Raw Material, ఆ Car తయారు చేయడానికి ఒక్కొక్క Car తయారు చేయడానికి ten lakhs అవుతుంది.
+[0:21:25] Okay, దానికి, దానికి మీకు వచ్చిన ఖర్చు one crore okay hundred lakhs అంటే one crore.
+[0:21:34] Okay but you only sell eight SUVs every financial year లో, two SUVs worth twenty lakhs are still sitting unsold in your showroom on March 31st.
+[0:21:45] March 31st తర్వాత March 31st లోపు ఇంకా రెండు SUV cars అనేవి మీ showroom లో అలాగే ఉన్నాయి అమ్ముడవ్వకుండా okay గుర్తుపెట్టుకోండి.
+[0:21:55] Worth twenty lakhs, ఆ worth ఎంత twenty lakhs, మీకు తయారు చేయడానికి అయిన ఖర్చు గుర్తుపెట్టుకోండి Car value కాదు. Your opening inventory on April 1st was zero and your closing inventory on March 31st is twenty lakhs.
+[0:22:08] సో ఇక్కడ ఏమైంది for example ఒక financial year తీసుకుంటే ఆ fin-- ముందరి financial year నుంచి ఏమీ రాలేదు zero అని తీసుకోండి దాన్ని okay, ముందరి financial year లో అన్నీ అమ్మేశారు ఉన్నవి ఉన్నట్టు ఏమీ లేవు zero, zero carry forward.
+[0:22:21] సో ఈ financial year లో ten, ten తయారు చేశారు అందులో ఎనిమిది అమ్మేశారు ఇంకా రెండు ఉండిపోయినాయి factory లో March 31st కి.
+[0:22:29] సో ఇక్కడ ఏముంటది, ఇక్కడ, ఇక్కడ అదే చేస్తున్నా చూడండి ఇక్కడ, your opening inventory on April 1st was zero.
+[0:22:36] చెప్పా-- అనుకున్నాం కదా carry forward ఏం లేదు last financial year నుంచి so zero and your closing inventory on March 31st is twenty lakh okay.
+[0:22:45] Twenty lakh అంటే two cars worth twenty lakh కదా twenty lakh. అప్పుడేంటి formula ఏంటి మన formula opening minus closing కదా opening ఎంత zero minus closing ఎంత twenty lakhs equal to minus twenty lakhs.
+[0:22:57] ఇక్కడ minus twenty lakhs అంటే అర్థం ఏంటంటే ఆ expenses లోంచి ఈ twenty lakhs అనేది తీసేయాలి financial year లో.
+[0:23:05] ఎందుకంటే ఈ twenty lakhs అనేది, ఈ twenty lakh యొక్క expense next year కి carry forward అవుతది. Okay, got it?
+[0:23:12] అది. మీకు ఎందుకు, ఎందుకు ఈ line పెట్టారు అంటే ఇక్కడ మీకు చెప్తా చూడండి for example ఇవన్నీ తయారు చేయడానికి ten SUVs తయారు చేయడానికి one crore అయింది okay.
+[0:23:22] One crore అయితే ఇందులో eight SUVs ఏ అమ్మారు, అంటే eighty lakhs తయారు చేయడానికి అయింది కదా eighty lakhs వీళ్ళు recover చేశారు మళ్ళీ అమ్ముకుని సో సగం profit తో.
+[0:23:32] ఇప్పుడు ఈ twenty lakhs కూడా వీళ్ళు ఇందులోకి add చేస్తే వీళ్ళకి అంటే profits తక్కువ వస్తది కదా ఈ financial year profit తక్కువ వస్తది profit తక్కువ వస్తది.
+[0:23:40] Okay, మీరు అలా carry-- ఈ formula వేయకుండా minus ఈ twenty lakhs అనేది minus చేయకుండా ఏమవుతది అంటే ఈ twenty lakhs అనేది extra expense ఏ కదా వీళ్ళకి Car అమ్ముడవ్వకుండా కూర్చుందంటే వీళ్ళకి twenty lakhs అనేది extra expense.
+[0:23:52] వీళ్ళ profit లో తగ్గుతది okay. తగ్గింది okay. ఈ రెండు Cars next financial year కి వెళ్ళిపోయినాయి, next financial year కి వెళ్ళిపోయాక అక్కడ ఏమవుతుంది మీకు extra profit కనిపిస్తది అక్కడ.
+[0:24:03] ఎందుకంటే ఈ two cars expenses అన్నీ last financial year లో పోయినాయి. ఈ financial year లో pure profit అటు రెండు Cars నికి ఎంత, అంటే ఎన్ని డబ్బులు వచ్చినా అంతా pure profit.
+[0:24:12] అక్కడ P&L Statement అనేది కొంచెం mismatch అవుతుందా లేదా, సో అందుకు ఆ క-- అది లే-- ఆ ఇది లేకుండా ఏ financial year కి ఆ financial year ఉండేలాగా expenses అంటే దానికి వచ్చిన income, expenses ఏ financial year కి ఆ financial year ఉండేలా చూడటానికే ఈ, ఈ line ని add చేశారన్నమాట.
+[0:24:29] అంటే opening stock minus closing stock. అది మైనస్ లో ఉన్నదంటే stock ఉండిపోయింది అనేసి అర్థం. ఇక్కడ twenty lakhs worth of inventory ఉండిపోయింది కాబట్టి అక్కడ మైనస్ అనేది వచ్చింది.
+[0:24:47] ఓకే, సో ఇక్కడ ఇదే నేను మీకు ఇది కూడా నేను మీకు simple గా నేను మీకు మన group లో పెట్టేస్తా ఓకే chart లో పెడతా మొత్తం ఇదంతా copy చేసి ఇది చదువుకోండి ఓకే ఎప్పుడంటే అక్కడ ఉంటది లేదా మీరు తర్వాత చూసుకోండి అంటే simple గా దాన్ని copy చేసుకుని మీ notepad లో ఎక్కడన్నా పెట్టుకుని ఒకసారి చదువుకోండి ఇదంతా ఏమన్నా ఒకసారి చదువుతే మీకు అర్థమైపోతుంది.
+[0:25:07] next scenario B scenario B ఏంటి positive ఉంటే ఏంటి అనేసి. ఓకే example కి రండి continuing into next year ఓకే ఆ next year కి వచ్చాం ఏంటి you start the year on April first with those two unsold SUVs so opening inventory ఎంత ఉంటది twenty lakhs మనం ఆడుకున్నట్టే carry forward అయింది కదా
+[0:25:27] twenty lakhs అనేది opening inventory ఉన్నది during the year you manufacture ten new SUVs ఓకే ఈ financial year మళ్ళీ ఇంకొక ten new SUVs manufacture చేసావ్ ఓకే దాని cost ఎంత one crore demand is booming ఓకే మంచి demand ఉన్నది ఈ ten new SUVs అమ్మేసావ్ next ఆ twenty
+[0:25:48] ఆ two old SUVs ఉన్నాయ్ చూసారా last financial year లో తయారు చేసి carry forward అయి వచ్చినయ్ అయి కూడా అమ్మేశారు total twelve SUVs అమ్మేసావ్, ఈ march thirty first కి zero inventory direct అప్పుడు ఎంత your closing inventory on march thirty first is now zero formula చూడండి opening ఎంతుంది twenty minus closing ఎంతున్నది zero అంటే
+[0:26:10] plus twenty lakhs ఓకే ఆ last financial year లో minus అయిన twenty lakhs అక్కడ minus చేసాం కదా twenty lakhs ఎక్కడికి వెళ్తాయి ఈ financial year లోకి వచ్చి add అయినయ్ ఓకే అప్పుడు expense సరిపోయింది కదా ఈ financial year లో sold అయిన car car యొక్క for example ఈ financial year లో two SUVs sold అయినయ్
+[0:26:30] so ఈ financial year లోన two SUVs తయారు చేయడానికి అయిన గల ఖర్చు twenty lakhs ఈ ఈ financial year expense లోనే add అవుతుంది so దీని యొక్క ఉద్దేశం అది ఏ financial year లో ఒక వస్తువు అమ్మితే దానికి తయారు చేసిన ఖర్చు ఆ financial year లో రావాలి అన్న ఉద్దేశం ఈ line యొక్క ఉద్దేశం.
+[0:26:51] అర్థమైందా so కొంచెం confusing గా ఉంటుంది నేను మీకు ఇదంతా share చేస్తా మీకు ఇదంతా share చేస్తా మీరు message లో చూడండి అర్థం కాకపోతే నాకు dm చేయండి one on one session పెడతా మళ్ళీ ఇదే చూపిచ్చి explain చేస్తా ఓకే మీకు అప్పుడు clear గా అర్థమవుతుంది.
+[0:27:08] so concept అది ఉమ్ ఓకే so మళ్ళీ మనం ఇక్కడికి వచ్చేద్దాం so ఇక్కడ మనం discuss చేసుకుంటే మీకు ఒక clarity వస్తది so ఇక్కడ ఏమున్నది change in changes in inventories of finished goods stock in trade and work in progress last financial year లో ఎన్ని ఉన్నాయి ఉమ్ twelve crore worth
+[0:27:29] cars అనేవి ఇంకా sale అవకుండా ఉండిపోయినయ్ వాళ్ళు తయారు చేసిన దాంట్లో ఈ twelve crore యొక్క worth అనేది ఇక్కడికి carry forward చేసేస్తారు next financial year కి so ఇక్కడ formula ఏంటి మనకి ఇక్కడ ఓకే opening ఎంతుంది balance twelve point one eight minus for example ఈ financial
+[0:27:50] year ఆ ఎంత తయారు చేశారు అనుకో ఇక్కడ minus ఉంటది కదా minus వేసుకోండి. minus ఒక్క నిమిషం ఉండండి.
+[0:28:26] ఒక్క నిమిషం మీకు ఇక్కడ example తో explain చేస్తా ఉమ్ ఓకే so ఇగ ఓకే ఇక్కడ చూడండి if a company sells more cars than it produced this year by clearing old stock, this number is positive అర్థమైందా adding old stock's
+[0:28:46] cost if it builds extra stock that remains unsold, the number is negative for example ఈ last financial year లో తయారు చేసిన వాటిలో twelve la- twelve crores worth stock అనేది ఉండిపోయింది వీళ్ళ yard లో so ఇక్కడ minus వచ్చింది so ఈ financial year ఏంటి వీళ్ళు తయారు చేసినయ్ అన్నీ అమ్మేశారు plus last financial year లో
+[0:29:06] ఉన్న stock కూడా అమ్మేశారు ఓకే so ఆ last financial year year లో ఉన్న అమ్మిన stock ఉంటది చూసారా ఆ stock యొక్క worth ఎంత six ninety eight crores మీకు clarity వచ్చిందా మీకు మీరు అనొచ్చు ఇక్కడ twelve ఏ ఉన్నది ఇక్కడ six ninety eight crores ఎలా వచ్చింది అంటే ఇక్కడ
+[0:29:27] only ఇవి ఇవి twelve-twelve point one eight crores అనేది last financial year చూపించారు so అందులో ఇంకా different different ఉంటాయి కదా for example last financial year లో ఇంకా ఏదన్నా ఉండిపోయింది అనుకుందాం ఉమ్ for example ఒక finished finished goods లో something ఒక vehicle ఉన్నది ఆ ఒక ఒక
+[0:29:47] for example ఇవి vehicles ఏ అనుకుందాం ఓకే ఇవి cars worth of twelve point one eight crores ఉన్నాయ్ అవి stock yard లో ఉండిపోయినయ్ so అవి మనకు formula ఏంటి twelve point one eight ఓకే ఈ twelve point one eight అనేది financial year లో అమ్మేశారు అమ్మేయటం కాకుండా ఈ financial year లో తయారు చేసినవన్నీ అమ్మేశారు
+[0:30:08] so అమ్మేస్తే net zero వచ్చింది కాబట్టి ఆ last financial year లో కొన్ని మిగిలిపోతాయి చూసారా అవన్నీ తీసుకొచ్చి ఆ expense అంతా తీసుకొచ్చి ఇక్కడ add చేస్తారు ఓకే six ninety eight crores ఇక్కడ add చేశారు ఓకే so మీరు ఇలా compare చేసుకోకుండే ఓకే so ఇలా compare చేసుకుంటే మీరు అంటే confuse అవుతారు మీరు simple గా
+[0:30:28] ఏ financial year కి ఆ financial year మీరు దీన్ని తీసుకొచ్చి ఇక్కడ పెట్టారు అంటే ఇంకా చాలా ఉంటాయి చాలా కలుపుతారు వీళ్ళు ఓకే కొన్ని కొన్ని చూపిస్తారు కొన్ని కొన్ని చూపించరు ఓకే అవి techniques at the end of the day ఓకే ప్రతి కంపెనీ చేసేదే, సో మీరు అంత డీప్ గా వెళ్ళిపోతే ఏంటంటే కన్ఫ్యూస్ అయిపోతారు.
+[0:30:44] సో ఇక్కడ సింపుల్ గా ఇక్కడ twenty twenty five లో మీకు ఈ ఉండిపోయిన inventory అంతా twelve crores worth of inventory వీళ్ళ దగ్గర ఉండిపోయింది. సో ఈ financial year లో, ఉమ్ last, ఈ financial year లో ఎటువంటి inventory లేదు.
+[0:30:56] మొత్తం ప్రతి, ప్రతి last financial year లో మిగిలిపోయిన inventory అంతా ఈ financial year లో అమ్మేశారు. ఎంత worth అమ్మారు six ninety eight crores worth inventory last finance twenty twenty five లో ఉన్న inventory ని ఈ financial year లో అమ్మేశారు.
+[0:31:10] done. అయిపోయింది. సో ఇక్కడ మీరు ఇక్కడ చూడాల్సింది ఏంటంటే change in inventories positive లో ఉంటే company growth అనేది చాలా బాగున్నట్టు, negative లో ఉంటే వీళ్ళ దగ్గర inventories ఉండిపోతున్నాయి sales అవ్వట్లేదు అని మీరు అర్థం చేసుకోవాలి.
+[0:31:25] మీకు ఈ part ఏమన్నా అర్థం కాకపోతే నాకు DM చేయండి. నేను మీకు మళ్ళీ clear గా explain చేస్తాను. okay, just leave it. మీరు simple లో, నాకు అంత confusion నాకు వద్దు, నాకు simple గా తెలియాలి అంటే negative ఉంటే company లో sales growth అనేది తగ్గుతుంది చూసుకోవాలి మీరు.
+[0:31:39] positive ఉంటే మంచి growth, మంచి demand ఉన్నది, మంచి growth ఉన్నది company products కి మంచి demand ఉన్నది market లో అన్నది మీరు అర్థం చేసుకోవాలి.
+[0:31:46] next దానికి రండి employee benefit expense. ఒక్క నిమిషం మళ్ళీ మనకి ఇక్కడికి వచ్చి చెప్తాం. okay, employee benefit expense అంటే ఏంటి?
+[0:31:55] total salaries, wages, bonus సో ఇంకా staff welfare సో ఇలా ఎన్నెన్ని ఉంటాయో చూసారా workforce సంబంధించినవి.
+[0:32:02] ఆ అంతా expense ఎంత అయ్యింది financial year లో twelve thousand seven hundred and thirty crores అయ్యింది. okay, next ఏంటి finance cost.
+[0:32:09] finance cost అంటే మనం ఏం discuss చేసుకుందాం. interest paid on bank loan, bank loans, debentures, bonds, commercial papers for example వీళ్ళు బయట నుంచి అప్పు తెచ్చుకుంటారు కదా, సో వాటిలకి interest అన్నా లేకపోతే అసలు తీర్చేసినా అవన్నీ ఈ finance cost లోకి వస్తాయి.
+[0:32:26] okay, అదెంత nine thousand five hundred and ninety crores interest లేదా మొత్తం ఈ సంబంధించిన finance అని తెచ్చుకుంటారు చూసారా బయట నుంచి డబ్బులు అన్న వాటిలకి pay చేసిన amount.
+[0:32:36] అసలు తీర్చేసి ఉండొచ్చు లేదా interest కట్టి ఉండొచ్చు అన్నీ కలిపి ఈ financial year లో ఇంత డబ్బులు బయటకి finance తీర్చుకున్నారు వీళ్ళు.
+[0:32:44] next depreciation, amortization, impairment expense. సో ఒక్కొక్క దాని దగ్గరికి వద్దాం. so first of all depreciation అంటే ఏంటి?
+[0:32:52] for example మీరు ఒక laptop కొనుక్కున్నారు. ఆ laptop ఒక one lakh పెట్టి purchase చేశారు.
+[0:32:59] సో మీకు, మీరు దాన్ని వెంటనే అమ్మేయాలంటే మీకు depreciation వస్తదా లేదా? next అమ్మాలంటే మీకేం seventy five thousand కో seventy thousand కో మీరు బయట వాళ్ళకి మీరు seconds లో sell చేస్తారు.
+[0:33:10] సో అక్కడ depreciate అయ్యిందా లేదా? సో అలా వీళ్ళ equipment ఉంటాది చూసారా machinery cost కానీ physical, physical machinery గాని లేకపోతే plants లేదా ఒక godown ఉన్నది లేదా అందులో ఒక equipment something ఏదో కొన్నారు.
+[0:33:24] okay, సో వాటికి depreciation అవుతది చూసారా, ఆ depreciation కూడా వీళ్ళు expenses లో చూపించుకోవచ్చు. physical product depreciate అవుతుంటే physical machinery or plants ఇలాంటివి depreciate అవుతుంటే దాన్ని depreciation లోకి వస్తాయి.
+[0:33:37] next amortization, amortization అంటే ఏంటంటే ఇది physical కాదు for example software, patents ఇలాంటివన్నీ amortization లోకి వస్తాయి.
+[0:33:48] for example software అంటే ఉమ్ ఒక software తయారు చేశారు. okay, అది for example దాన్ని upgrade చేయాలి.
+[0:33:55] దానికి ఒక depreciation ఉంటది కదా. okay, patent ఉన్నది so ఈ year అంటే for example ten years patent తీసుకున్నారు.
+[0:34:03] ఆ ten years తర్వాత ప్రతి every year ఇంతింత depreciate అవుతుంది కదా ఆ patent కి కట్టిన, ఖర్చు పెట్టిన డబ్బులు గాని, అవి గాని, ఇవి గాని ఒకటి expense.
+[0:34:12] సో ఇలా patents, software, digital okay, physical కాకుండా depreciation లోకి వస్తాయి చూసారా వాడుతున్నవి అవి amortization అంటారు దాన్ని okay ఆ word ని.
+[0:34:22] ఈ మూడు ఏంటంటే depreciation లోకే వస్తాయి simple గా మీరు అర్థం చేసుకోవాలంటే కాకపోతే depreciation అంటే physical things, amortization అంటే digital things.
+[0:34:30] next impairment expense అంటే ఏంటంటే for example మీరు ఒక software తయారు చేశారు. okay, అది ఎందుకు పనికిరాకుండా పోయింది.
+[0:34:37] okay, సో అలాంటివన్నీ miscellaneous expenses అంటారు చూసారా అంటే ఏదో ఖర్చు పెడతారు for example ఏదో machinery కొన్నారు.
+[0:34:46] అది పని చేయట్లేదు, మొత్తం పక్కకు తీసుకెళ్లి పెట్టారు godown లో. వాడట్లేదు, ఏం చేయట్లేదు. సో అలాంటి ఖర్చులన్నీ, అలాంటి expenses అన్నీ impairment expenses లోకి వస్తాయి.
+[0:34:55] okay, అలాంటి, అలా ఎంత డబ్బులు ఖర్చయినాయి వీళ్ళకి seven thousand three hundred and twenty two crores. సో ఇక్కడ ఎక్కువ ఉన్నది అనుకోండి ఇక్కడ depreciation, amortization, impairment లో సో మీరప్పుడు note లోకి వెళ్ళండి.
+[0:35:05] సో వీళ్ళకి ఎక్కడ, సో for example depreciation, amortization లో ఎక్కువుంది అంటే okay no problems. ఇక్కడ impairment expenses లో గాని ఎక్కువున్నది అంటే ఈ company కొంచెం neglect చేస్తుంది expenses దగ్గర ఎక్కువ ఖర్చు పెడుతుంది.
+[0:35:18] products అనేవి decision making లో కొంచెం తప్పు చేస్తున్నారు వీళ్ళు. okay, సో అందులో మీరు ఇంకా in depth వెళ్ళాలి.
+[0:35:25] ఇక్కడ చాలా ఎక్కువున్నది. okay major expense ఇదే అయిపోయింది అలాంటప్పుడు మీరు ఒకసారి in depth note numbers లోకి వెళ్ళి అక్కడ in depth చూడొచ్చు impairment expense ఏమున్నాయి అనేసి.
+[0:35:35] next one, సో ఈ మూడు ఏంటంటే depreciation simple మీరు ఒక universal గా గుర్తు పెట్టుకోవాలి okay అంటే depreciation.
+[0:35:42] loss from depreciation అంటే ఏంటి? physical. amortization అంటే ఏంటి? digital. impairment అంటే useless. పక్కన పడి ఉన్నాయి.
+[0:35:50] loss from investments related to subsidiaries, associates and joint ventures. వీళ్ళు invest చేస్తారు చూసారా for example ఆ ఏదో ఒక company లో invest చేశారు.
+[0:35:59] చిన్న part, car లో ఒక equipment తయారు చేసే part, దాని company లో invest చేశారు. వాళ్ళతో tie up అయ్యారు, associate అయ్యారు.
+[0:36:06] ఏ, ఏ word అన్నా use అయింది. సో అక్కడి నుంచి కొంచెం loss వచ్చింది. okay, ఆ loss ఎంత five hundred and eighty one crores.
+[0:36:14] ఇది కూడా మీరు గమనించాలి. వీళ్ళు ఎక్కువ risk చేస్తున్నారా బయట వాటిల్లో invest చేసి, అవన్నీ చేసి. సో తక్కువే ఉంది.
+[0:36:21] ఇంత, ఇంత సంపాదించేదానికి five hundred and eighty one crores అంటే పెద్ద లెక్క కాదు కదా. okay, peanuts, peanuts కింద.
+[0:36:28] సో ఇలా తక్కువే ఉంది కాబట్టి it's okay they are experimenting on new things అనేసి మనం అర్థం చేసుకోవచ్చు. కానీ ఇది ఎక్కువున్నది అంటే మళ్ళీ మీరు note number లోకి వెళ్లి ఏంటి ఎక్కడ ఖర్చు పెడుతున్నారు అన్నది కూడా మీరు చూసుకోవాలి.
+[0:36:38] next other expenses, other expenses అంటే మీకు చిన్న చిన్నవి ఉంటాయి కదా miscellaneous. Advertising కానీ launches కానీ rent repairs R&D legal IT costs ఇవన్నీ చిన్న చిన్న costs ఉంటాయి చూసారా, అవన్నీ అంటే employees కాకుండా ఇలా contract basis కానీ ఇలా ఉంటాయి కదా fixed expenses కాకుండా మీకు అప్పుడప్పుడు వచ్చి
+[0:36:59] వెళ్తా ఉంటాయి for example ఉమ్ ఒక యాడ్ లో కొన్ని cars ఉన్నాయి ఆ cars ని తీసుకెళ్లి ఇంకో యాడ్ లోకి మార్చాలి అది one time expense.
+[0:37:08] సో అలాంటివి expenses ఆ type expenses అన్నీ other expenses లోకి వస్తాయి అదే day to day operational overheads అంటారు.
+[0:37:15] ఓకే got it. అంటే అయ్యే వాటిల్లో కన్నా మీకు ఒకసారి extra ఖర్చు వస్తాయి చూసారా అవన్నీ other expenses. సో ఎంత వచ్చినాయి twenty five thousand four hundred and twenty four crores.
+[0:37:24] ఓకే సో ఇప్పుడు ఈ total expenses అంటే ఇవన్నీ expenses అన్నీ total expenses మనం ఇక్కడ plus చేసుకుంటాం. మీకు total expenses ఎంత వచ్చినాయి one lakh seventy eight thousand five hundred and seventy one crores.
+[0:37:33] వీళ్ళ total income ఎంత generate చేసింది two lakh two thousand eighty four crores అంటే ఎంత profit లో ఉన్నట్టు వీళ్ళు twenty three thousand five hundred and twelve crores profit లో ఉన్నారు.
+[0:37:44] ఆ profit ని ఏమంటారు అంటే profit before except-exceptional items share of profit of associates and joint ventures and tax.
+[0:37:54] మీకు ఇక్కడ simple గా తెలుసుకోవాలంటే ఒక్క నిమిషం ఇక్కడ చూ-చూపిస్తా చూడండి. ఈ cheat sheet తయారు చేయడానికి అదే reason మీకు ఎప్పుడైనా doubt వచ్చినయంటే ఇక్కడికి రండి neat గా చూసుకోండి.
+[0:38:05] ఓకే. ఇక్కడ ఏమున్నది total income minus total expense simple వీళ్ళ core, core company operations sorry core company income minus core company expenses minus చేస్తే profit అనేది అక్కడ వస్తుంది.
+[0:38:21] దాన్ని profit before exceptional items share of profit of associates, joint ventures and tax అనేసి అంటారు.
+[0:38:27] ఇక్కడ చూడండి core sorry core pre-tax profit generated by the parent and its consolidated subsidiaries before one time items and associate profits.
+[0:38:37] ఈ associates joint ventures అని ఇది వీళ్ళిద్దరి చిన్న చిన్నయి కదా వాళ్ళవి తీసేశారు subsidiaries add చేసి ఉంచారు చూడండి మీరు ఇక్కడ. సో ఇలా major వీళ్ళ major investments అన్న వాటిల నుంచి వీళ్ళకి వచ్చిన expense, వీళ్ళకి వచ్చిన income minus చేస్తే main వీళ్ళు చేసే operations లో profit ఎంత వచ్చిందని మీకు తెలుస్తుంది.
+[0:38:55] ఓకే ఇక్కడ ఎంత profit వచ్చింది twenty three thousand five hundred and twelve crores. next exceptional items అంటే ఏంటంటే ఇక్కడ చూడండి one time non-recurring gains or losses that are not part of the nor-normal annual operations.
+[0:39:09] for example ఇక్కడ ఇచ్చేసి చూడండి restructuring costs, sale of discontinued business సో ఇవన్నీ ఉంటాయి చూసారా, ఏదో చిన్న చిన్న for example impairment of goodwill.
+[0:39:19] ఓకే ఆ goodwill కి ఏవో డబ్బులు పెట్టారు సో అవి పోయింది ఆ goodwill ఎందుకు పనికి రాదు. సో అలాంటి ఇలాంటివన్నీ exceptional items లోకి వస్తాయి.
+[0:39:27] ఎంత two ninety two crores ఇక్కడ bracket ఎందుకుంది minus అంటే దేనిలో నుంచి minus చేయాలి? వీళ్ళకి వచ్చిన profit లో నుంచి ఈ exceptional costs అనేవి minus చేయాలి.
+[0:39:36] minus చేస్తే ఎంత వచ్చింది twenty three thousand two hundred and nineteen crores profit లో ఉన్నాం. సో ఆ profit ని ఏమంటారు profit before ఇక్కడ exceptional items తీసేశాడు చూడండి profit before share of profit of associates, joint ventures and tax.
+[0:39:52] ఓకే. సో ఇంకా వీళ్ళు main ఇంకా ఏ profit తీయాలి. ఈ share of profit of associates and joint ventures నుంచి వచ్చేది ఉంటది చూసారా, ఆ profit ఎంత వస్తుందో చూద్దాం.
+[0:40:05] సో share of profit of associates and joint ventures net nineteen hundred crores అనేది profit వచ్చింది చిన్న చిన్నవి వీళ్ళ investments అవి ఇవి ఆటిల్లో నుంచి ఓకే.
+[0:40:16] సో ఇక్కడ ఎంత nineteen hundred crores వచ్చింది కాబట్టి సో total profit ఎంత twenty five thousand one hundred and eighty four crores. ఓకే సో ఇదేంటి profit before tax.
+[0:40:25] సో profit before tax ఎంత అంత వచ్చింది. next tax expense. సో మీకు tax expense లో ఏముంటాయి అంటే current tax, current tax అంటే basic గా ఏంటంటే ఈ financial year లో వీళ్ళు government కి pay చేయాల్సిన tax.
+[0:40:35] deferred, deferred tax అంటే ఏంటంటే వీళ్ళకి incentives వస్తాయి కదా government నుంచి అలా incentives కానీ లేదా ఏమన్నా ఎక్కడి నుంచైనా benefits వస్తాయి చూసారా tax లో government నుంచి, అవన్నీ deferred tax అంటే వీళ్ళకి incentives అని గుర్తుపెట్టుకోండి deferred tax అంటే.
+[0:40:50] ఓకే. సో వీళ్ళు ఎంత tax కట్టారు వీళ్ళు government కి six thousand seven hundred and sixty nine crores tax కట్టారు. అప్పుడేంటి twenty five thousand crores profit లోంచి six thousand seven hundred and sixty nine crores ని minus చేయాలి అందుకే ఇది brackets లో ఉంది.
+[0:41:02] brackets అంటే ఏంటి minus. సో వీళ్ళకి incentives ఎన్ని వచ్చినాయి two naught six crores వచ్చినాయి. సో అవి plus చేయాలి profit లో. సో అలా చేయగా వీళ్ళకి వచ్చిన net profit ఎంత eighteen thousand six hundred and twenty one crores.
+[0:41:15] got it. profit for the year వీళ్ళకి ఎంత? అన్నీ expenses పోను eighteen thousand six hundred and twenty one crores. for ఎంత income కి?
+[0:41:24] income, ఎంత income వచ్చింది ఈ financial year లో two lakh two thousand eighty four crores కి. ఎంత profit వచ్చింది?
+[0:41:33] ఒక్క నిమిషం. sorry. eighteen thousand అంటే almost ఉమ్ almost ఒక ten nine, ten percent వేసుకోండి ఓకే after tax.
+[0:41:49] before tax అయితే మీకు ఎంత వచ్చిందో చూసుకోండి twenty five thousand అంటే almost eleven percent, twelve percent వచ్చింది. ఓకే after tax వీళ్ళకి nine percent something around ఆ percentage లో వచ్చింది.
+[0:41:59] ఓకే. got it. మీరు ఇలా financial sta-P&L statement అనేది ఇలా చదవాలి ఓకే line by line చదువుకుంటా వెళ్ళండి.
+[0:42:07] మీకు అర్థమవుతుంది first ఇదంతా చూసి చాలా confuse అవుతారు. ఓకే. సో ఇక్కడ మీకు చదువుతున్నారు కదా ప్రతిదీ చదవండి.
+[0:42:14] నేను మీకు ఈ sheet అనేది share చేస్తా. ఇక్కడ చదువుకోండి మీకు వెంటనే అర్థమైపోతుంది. అందుకే ఇది పక్కన పెట్టి ఇది explain చేస్తా మీకు చెప్తున్నా ప్రతిదీ.
+[0:42:21] అండ్ also ఈ కింద ఉన్నయి చూసారా, ఇవి నన్ను అడిగితే అసలు అంత అవసరం లేదు. లేదు నేను అవి కూడా, ఒక్క నిమిషం ఇక్కడ add చేశా, ఆ అవి కూడా నేను తెలుసుకుంటానంటే మీరు ఇందులో చూసి చూడండి.
+[0:42:34] ఇవి పెద్ద అసలా ఏం ఉండవు. ఓకే. సో పెద్ద పట్టించుకోవాల్సిన అవసరం లేదు వీటిల్లనైతే.
+[0:42:44] సో మనం మై మనం ఓకే సో ఈరోజుతో ఏమైంది? ఒక్క నిమిషం ఈరోజుతో మనం balance sheet ఎలా read చేయాలని తెలుసుకున్నాం, P&L statement అనేది ఎలా read చేయాలనేసి తెలుసుకున్నాం.
+[0:42:57] Okay. So, ఇప్పుడు, ఇప్పుడు మనమేం చేస్తామంటే ఒకటి గుర్తుపెట్టుకోండి, ఎలా read చేయాలన్నది తెలుసుకుంటున్నాం.
+[0:43:05] అంటే ఎలా read చేయాలంటే for example cost of material ఇక్కడ, ఇక్కడ ఒకటి ఉన్నది. ఇక్కడ డబ్బు-- just ఇది వచ్చి ఇలా డబ్బులు చూసేసి ఇలా వెళ్ళిపోవడం కాదు.
+[0:43:13] previous financial year లో ఎంతున్నది, ఇక్కడ ఎంతున్నది. so, అలా ప్రతి దాన్ని previous financial year తో compare చేసుకోవాలి.
+[0:43:19] for example, ఇక్కడ చూడండి previous financial year లో stock ఉండిపోయింది. ఇక్కడ ఆ previous financial year లో మిగిలిన stock అంతా అమ్మేశారు and ఈ financial year లో మొత్తం zero stock లో కూర్చున్నారు.
+[0:43:29] అంటే ఏంటి, demand ఉందా లేదా product లో? so, ఇలా మీకంటూ మీరు compare చేసుకోవాలి. so, for example అని balance sheet లో కూడా అంతేనండి మనం మాటుకున్నప్పుడు.
+[0:43:38] balance sheet లో కూడా అంతే, ఇక్కడ property, plants and equipments ఉన్నాయి. investments పెరుగుతున్నాయా లేదా? Okay. next equity, equity అంటే వీళ్ళ pocket లో ఉన్న money పెరుగుతుందా లేదా?
+[0:43:49] ఒకవేళ తగ్గుతుందంటే వీళ్ళకి liabilities లోకి వెళ్తుందా లేదా ఈ assets లోకి వస్తుందా?
+[0:43:57] got it? so, అవన్నీ మీరు clear గా compare చేసుకోవాలి. compare చేసుకుని మీకంటూ ఒక, for example, ఈ business మీదే అనుకుని simple ఇలా open చేసి పెద్ద, పెద్ద two sixty seven pages ఉన్నాయి.
+[0:44:09] ఆ ప్రతి page చదవాల్సిన అవసరం లేదు. balance sheet ఉంది, ఈ page కి వస్తారు. ఇది clear గా చదువుకుంటే ఒక, ఎంత, ఎంత time పడుద్ది, ఒక half an hour time పడతది.
+[0:44:17] next P&L, అంటే comparison చేసేదానికి చెప్తున్నా. next profit and loss కి వస్తారు. ఒక fifteen minutes ఓ, twenty minutes ఓ time పడతది.
+[0:44:25] Okay, time పట్టనివ్వండి. Okay. మీరు invest చేసే money కి ఈ మాత్రం time ఇవ్వలేరా? ఇవ్వాలి కదా.
+[0:44:32] so, ఇలా fundamentals అనేవి మీరు, ఇప్పుడుకొచ్చి ఎంత, ఏమేం, ఏమేం చూసుకుందాం మనం, balance sheet ఎలా చదవాలో చూసుకున్నాం, profit and loss, profit and loss statement ఎలా చదవాలో చూసుకున్నాం.
+[0:44:42] Okay. so, okay.
+[0:44:54] so, ఇప్పుడు మనకి ఏమేం అయినాయి అంటే so quarterly results P, P, ఇదంతా same. మీకు quarterly వస్తే yearly, same terms ఉంటాయి ప్రతిదీ ఉంటాది.
+[0:45:03] Okay. next, balance sheet అయిపోయింది, P&Ls అయిపోయినాయి. so, quarterly results, profit and loss, balance sheet అయిపోయింది.
+[0:45:11] so, next ఇంకా మనకి remaining ఏమున్నాయి? cash flows, ratios. Okay. ఈ రెండూ complete అయినాయంటే మీకు entire ఒక company యొక్క financials ఎలా చూడాలన్నది in depth, in depth చెప్తున్నా.
+[0:45:23] in depth మీకు వస్తాది. Okay. so, అప్పుడు ఏం చేద్దాం ఆ తర్వాత, screener లో ఇవన్నీ ఏంటి, మనం screener కి వచ్చేసి ఎలా చూసుకోవాలి simple గా.
+[0:45:34] మరి, మీరంతా పెద్ద PDF తీసుకుని అందులో అలా చూసేకన్నా మీకు మొత్తం starting of the company start చేసినప్పటి నుంచి మొత్తం entire ఉంటది.
+[0:45:41] ఇది ఎలా compare చేసుకోవాలి, ఎలా చూడాలనేసి కొన్ని, కొన్ని tips మనం నేర్చుకుంటాం. ఆ తర్వాత, ఆ తర్వాత for example peer comparison అని చూసారా, ఈ peer compe-comparison అంటే వీళ్ళ competitors.
+[0:45:56] ఎలా compare చేసుకోవాలి వాటితో అన్నది నేర్చుకుంటాం. Okay. ఆ తర్వాత, మీకది bonus లో చెప్తా.
+[0:46:03] ఏంటంటే, ఈ fundamental analysis ని automate ఎలా చేయాలి AI తో, Okay. మీరిలా manual గా కూర్చుని ప్రతిదీ చదివేదానికన్నా నేను మీకు కొన్ని, కొన్ని prompts ఇస్తాను.
+[0:46:11] ఆ prompts PDF కూడా నేను మీకు provide చేస్తా. అవి bonus లో పెడతా last. Okay. so, మీరు ఇవన్నీ చూసేటప్పటికి ఏమవుతుంది మీకు fundamental analysis అని ఇవన్నీ నేర్చుకున్నారు Okay.
+[0:46:21] అప్పుడలా automate చేసేటప్పుడు ఇయన్నీని manual గా నేర్చుకోవడం ఎందుకు, ఎందుకు నేర్చుకోవాలి ఇవన్నీ అంటే మీకు తెలియాలి కదా ఏమవుతుందన్నది ఆ company లో.
+[0:46:28] Okay. AI ఏదో చెప్పేసిందంటే మీరు blind గా వెళ్ళిపోకూడదు. AI for example కొన్ని, కొన్ని flags మీకు చూపించింది, inventory ఉండిపోతుంది, ఇంత ఉండిపోతుంది, చాలా తక్కువుంది అంటే అప్పుడు మీరు open చేసి ఎందుకుంటుంది inventory, అప్పుడు note, notes లోకెళ్తారు, note numbers ఉన్నాయి కదా, అక్కడికెళ్ళి ఏంటి, ఏమన్నా తప్పు జరుగుతుందా?
+[0:46:44] simple. మీరు, ఆహ్, twen-- thirty minutes పట్టే time మీకు ten minutes పడతది. మీకు time తగ్గుతది. Okay.
+[0:46:51] blind గా AI మీద depend అవ్వద్దు అనేసి నేను చెప్తా. AI అనేది మీకు time తగ్గిస్తది, మీకు bullet points ఇస్తది ఎక్కడెక్కడ ఏం చూడాలో, simple గా మీరు direct అక్కడికెళ్ళిపోయి అవి చూస్తారు, compare చేసుకుంటారు, అప్పుడు మీరు decide అవుతారు.
+[0:47:03] Okay. Okay, so, Okay. మీరు మాత్రం ఇవి చూసి వదిలేయటం కాదు, చూసి వదిలేస్తే ఏమీ అర్థం కాదు. ఇది కూడా ఇంకొక course కింద అయిపోతది అంతే.
+[0:47:12] దాని మించి ఏం ఉండదు. మళ్ళీ ఇంకో course వెతుక్కుంటారు, ఎవరో చెప్తున్నారు, ఆ, Telegram join అవుతారు, మళ్ళీ అక్కడ ఇంకో course, ఇలాగే అయిపోతది ఇంక.
+[0:47:19] Okay. మీరు complete అయిన వెంటనే, వెంటనే మీరు open చేసుకోండి, screener open చేయండి. screener open చేసి మీరు కిందకి రండి, annual reports ఉంటాయి, open చేసి చూడండి.
+[0:47:28] ప్రతిదీ చదవండి నేను చెప్పిందల్లా. ఇక మీకేమైనా doubt ఉన్నదనుకోండి, ఏం పర్లేదు, నాకు message చేయండి Telegram లో ఇది ఏంటి అనేసి.
+[0:47:34] చిన్నదైతే అక్కడే నేను మీకు message తో explain చేసేస్తా. లేదు ఇంకా పెద్దదొక meet కావాలంటే, ఒక meet పెట్టుకుందాం one on one weekends లో.
+[0:47:42] అయిపోయింది, యొక్క doubt దాంతో clear ఆ రోజుతో. మళ్ళీ, మళ్ళీ మీరు మొదలుపెడతారు మీ preparation. Okay. అలా జాగ్రత్త, కష్టపడి prepare అవ్వండి.
+[0:47:49] మీకు ప్రతిదీ strategy తో పాటు everything నేను మీకు చెప్తా. మీరు చేయకపోతే నేనేం చేయలేను. నేను మీకు everything నేను మీ ముందర పెడుతున్నా, మీరు చేసుకోవాలి.
+[0:48:02] Okay. Okay guys. so, bye. so, next session లో కలుద్దాం.
+[0:48:09] ఇది మాత్రం మీరు practice చేయండి, ఏమన్నా doubts ఉంటే నాకు DM చేయండి. Okay. Thank you.
