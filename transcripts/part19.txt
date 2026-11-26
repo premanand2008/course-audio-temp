@@ -1,0 +1,156 @@
+# Course part 19 transcript (ElevenLabs scribe_v2, Telugu+English), duration 2159s
+[0:00:11] Hi guys, so ఈరోజుతో, ఈరోజు నుంచి మనం complete options గురించి అయితే మనం discuss చేస్తాం.
+[0:00:18] okay so wait a second. one minute okay so ఇప్పుడు మనం option selling లో first
+[0:00:39] option selling and buying కూడా maximum మీకు రెండు equal okay concepts ఉంటాయి but ఏంటంటే మీకిక్కడ option selling గురించి మనం తెలుసుకున్నట్లయితే buying లో ఇంకొక two extra add చేయాలి మనం, అవి add చేసుకుంటే buying strategy కూడా వస్తది కాకపోతే మన main concentration ఇందులో selling okay buying అనేది ఒక bonus లాగా మీరు చూడాలి.
+[0:00:58] okay so now మనం options course లో ఎలా వెళ్తాం అంటే first వచ్చేసి ఈరోజు volume profile and delta మనం నేర్చుకుంటాం and ఆ తర్వాత footprint charts ఆ తర్వాత direct option selling strategy okay ఆ తర్వాత ఈ volume profile and delta footprint charts కి vega and CPR add చేస్తే అది buying strategy ki work out అవుతుంది okay
+[0:01:18] so ఈరోజు మనం volume profile and delta గురించి, అసలు volume profile and delta అంటే ఏంటి? ఎలా use చేయొచ్చు? ఈ video లో మనం discuss చేసుకుందాం okay so basic complete నేను మీకు basics ఏమి చెప్పట్లేదు if మీకు basics ఏమన్నా కావాలి అంటే, ఉమ్, నేను pre course material అనేసి నేను మీకు share చేస్తాను, నాకు message చేయండి okay
+[0:01:39] so direct మీరు volume profile ఎక్కడినుంచి draw చేసుకోవాలంటే, మనం ఇక్కడ fixed range volume profile మీద work చేస్తాం okay so మీకు trading view కనిపిస్తుంది కదా, trading view లో one, one, two, three, four, five, ఇక్కడ sixth ఉన్నది చూసారా sixth click చేస్తే ఇక్కడ కిందకు వస్తే మీకు fixed range volume profile అనేసి ఉంటది, so దాన్ని click చేయండి okay click చేసి
+[0:01:59] ఏం చేయాలంటే, ఈ day starting for example previous day తీసుకున్నాం, previous day starting ఎక్కడ? nine fifteen candle five minutes charts మనం చూసేది okay so అక్కడ first one click చేస్తాం, అక్కడినుంచి ఇలా drag చేసుకుంటా వచ్చి last closing candle ఎంత?
+[0:02:19] okay three ten okay ఇలా draw చేసుకుంటే మీకొకటి volume profile అనేది వచ్చింది so ఈ volume profile ఏమి represent చేస్తుందంటే entire twenty third అనే date nine fifteen నుంచి market close అయ్యేవరకు ఎక్కడ ఎక్కువ trades జరిగింది, ఎక్కడ ఎక్కువ volumes అంటే number of trades either buy అన్నా sell అన్నా ఎక్కడ ఎక్కువ
+[0:02:39] జరిగినయి అనేది ఇది మనకి represent చేస్తుంది okay మీరు general for example ఒకసారి దాన్ని reach చేయడానికి try చేద్దాం okay okay so మీరు ఇక్కడ గమనించినట్లయితే, so ఇక్కడ
+[0:03:00] ఈ candles ఉన్నాయి చూసారా, ఇవి అనేది volumes okay ఇక్కడ చూడండి ఇక్కడ initially ఇక్కడ volumes తక్కువున్నాయి, తర్వాత పెరిగినయి, మళ్ళీ slow గా తగ్గింది, ఇక్కడ అసలు volumes లేవు ఈ point లో, మళ్ళీ పెరిగినయి, మళ్ళీ ఇక్కడ కూడా అసలు volumes లేవు, so next ఇక్కడికి వచ్చాక volumes అనేవి చాలా ఎక్కువ ఎక్కువ పెరిగినయి okay so ఈ day లో మనకి
+[0:03:20] ఎక్కువ volumes ఎక్కడ వచ్చినట్లు? ఇక్కడే కదా, so ఇలా volume profile use చేసి ఎక్కడ ఎక్కువ ఎక్కడ, అంటే for example ఇక్కడ ఇది ఉన్నది చూసారా, ఇది మీరు చూసినట్లయితే, ఈ point తీసుకోండి, ఈ point తీసుకుంటే మనకి ఏ price twenty two thousand four eighty three ఈ point around ten rupees అటు ఇటులో around ఈ range లో మీకు heavy buying
+[0:03:41] or selling అనేది ఆ రోజు జరిగినంతటిలో ఇక్కడ heavy ga selling or buying అనేది జరిగింది so దాన్ని ఏమంటారు, ఎక్కడైతే ఆరోజు heavy buying or selling ఎక్కువ volumes ఏ point లో జరుగుతాయో దాన్ని point of control అంటారు, దాన్ని POC okay POC అనేది ఇది black color లో ఉంటది okay ఇది మీకు settings తర్వాత చూపిస్తాను
+[0:04:02] okay black color లో ఉంటది next ఎక్కడైతే market అనేది అక్కడ దాని పైన ఎక్కువ ఉండడానికి ఇష్టపడలేదు అని మనం తెలుసు, దాన్ని ఏమంటారంటే value area high అంటారు okay అంటే ఈరోజు, ఈ time period లో ఈ value area high అంటే ఇక్కడ market అనేది
+[0:04:22] ఈ, ఈ point of price ని ఎక్కువ value అని కింద చూస్తున్నది, అంటే ఇక్కడ market ఇక్కడికి వచ్చిందంటే ఏంటి premium అంటే దాని value కన్నా ఎక్కువ ఉన్నది అనేసి మనం అర్థం చేసుకోవాలి okay same similar కిందకొచ్చింది, దీన్ని ఏమంటారు?
+[0:04:38] value area low అంటారు okay value area low అంటే ఏంటంటే, ఆరోజు, ఈ time period లో దీని దగ్గరికి వచ్చిందంటే market అనేది చాలా మంచి point of point లో ఉన్నది అనేసి మనం అర్థం చేసుకోవాలి got it?
+[0:04:51] so ఇక్కడ మీరు నేర్చుకున్నది ఏంటి? ఈ, ఈ side diagram వచ్చేసి, ఈ histogram వచ్చేసి volumes okay each price point okay ఈ price point లో for example twenty two thousand three seventy ఉంది కదా, ఈ price point లో ఎంత volumes trade అయినయి, ఈ price point లో ఎంత volumes trade అయినయి, ఈ price point లో ఎంత volumes trade అయినయి, అలా each histogram మీకు అలా represent
+[0:05:11] చేస్తుంది so చూసుకున్నారు కదా, so ఒక్కొక్కచోట ఎక్కువ volumes ఉంటాయి, ఒక్కొక్క point లో తక్కువ volumes ఉంటాయి so అలా highest volume ఎక్కడైతే జరిగిందో దాన్ని point of control అంటారు, so point of control పైన value area high ఉంటుంది, కిందొచ్చేసి value area low ఉంటుంది, value area high దగ్గరికి వచ్చిందంటే market అనేది expensive గా ఉన్నది
+[0:05:31] అనేసి మనం decide అవ్వాలి okay value area low దగ్గరికి వచ్చిందంటే market అనేది మంచి attractive price లో ఉన్నది అనేసి మనం decide అవ్వాలి got it?
+[0:05:40] so ఇది settings చూపిస్తా చూడండి, so మీకు by default ఒక number ఉంటాది, so మీరు change చేసుకోవాల్సింది ఏంటంటే row size hundred లో పెట్టుకోండి, value area volume వచ్చేసి seventy లో పెట్టుకోండి and style వచ్చేసి మిగిలినవి ఏమన్నా, ఏమన్నా ఉంటే మీరు untick చేయొచ్చు, మీరు
+[0:06:00] only POC value area low value area high నే tick చేసుకొని, ఇది colors పెట్టుకోండి okay red ఇది support as green, ఒక POC ని black color లో పెట్టుకోండి got it?
+[0:06:12] ok so volume profile గురించి మనం నేర్చుకున్నాం కదా, so ఇప్పుడు మీకు అంతా basic మీకు direct concept లోకి వెళ్తున్నా, మీకు ఇంకా in depth కావాలంటే you can see and message me, నేను మీకు videos పంపిస్తా, direct మన strategy లోకే వెళ్తున్నాం మన options అల్లి, ok ఇప్పుడు మనం ఏం నేర్చుకున్నాం vol-- volume profile గురించి నేర్చుకున్నాం కదా, volume profile ఎలా draw చేయాలో తెలిసింది, volume profile అంటే
+[0:06:33] ఏంటో కూడా మనకు తెలిసింది ok. so ఇప్పుడు chart అనేది మళ్ళీ వచ్చింది so ఇక్కడ చూడండి, ok morning అనేది ఇక్కడ మొదలైంది, ఇక్కడ నుంచి చాలా fast గా కిందకి పడింది, ఆ తర్వాత ఇక్కడ consolidate అయింది ok, మీరు ఇక్కడ గమనించినట్లయితే volume profile లో market ఎక్కడైతే అలా continuous ఒక single direction లో fast గా move అవుతుందో
+[0:06:53] అక్కడ volumes అనేవి తక్కువ ఉంటున్నాయి, ఎక్కడైతే market అనేది consolidate అవుతుందో అక్కడ volumes అనేవి ఎక్కువ ఉంటున్నాయి ok.
+[0:07:01] మన strategy ఏంటి? ఇలా తక్కువ ఉన్న చోట మనం entry తీసుకుని ఆ direction గాని మనం కనుక్కోగలిగితే మనకి fast movement quick movement అనేది మనం capture చేసుకోవచ్చు ok మన entire strategy volume profile మీదే depend అయి ఉంటుంది ok, దానికి ఇంకా confirmations కోసం మనం add ons add చేసుకుంటా ఉంటాము got it?
+[0:07:19] so ఇప్పుడు volume profile గురించి తెలిసింది, ఈ, ఈ histogram ఏంటో తెలిసింది, point of control అంటే ఏంటో తెలిసింది, value area high అంటే ఏంటో తెలిసింది, value area low అంటే ఏంటో తెలిసింది, and market ఎందుకు ఇంత fast గా move అవుతుంది అన్నది కూడా మనకు తెలిసింది, అక్కడ ఏముంటాది volumes అనేవి తక్కువ ఉంటాయి got it?
+[0:07:37] మన strategy ఏంటంటే ఈ volumes తక్కువ ఉన్న points ని మనం capture చేసి అక్కడ, అక్కడ direction మనం decide crack చేయగలిగితే అదే మన strategy, మనం ఈ fall ని capture చేయొచ్చు ok.
+[0:07:47] so volume profile గురించి మీకు తెలిసింది కదా, so next వచ్చేసి delta, so delta అంటే ఏంటంటే, చెప్తా చూడండి, ok so volume profile గురించి తెలిసింది కదా and also, one minute మీకు
+[0:08:10] ఈ platform గురించి కూడా చెప్తా, ఒకసారి delta అంటే ఏంటో చెప్పేస్తా ok next ఈ platform గురించి చెప్తా, మనకి ఈ platform లో delta తెలుస్తది అనమాట delta మనం పెట్టుకోవచ్చు and also ఈ settings కావాలంటే నాకు DM చేయండి, నేను మీకు entire settings అన్ని నేను మీకు పంపిస్తా ok.
+[0:08:26] so ఇక్కడ మీరు చూసినట్లయితే same volume, ఇది futures chart ok, మనమంతా vol-volume profile and delta, footprint chart మొత్తం అంతా futures లోనే చూస్తాం ok, LVM కోసం మనం spot లో mark చేసుకుంటాం got it?
+[0:08:43] so ఇక్కడ మీరు చూసినట్లయితే ఇక్కడ left side right side ఏమున్నది volume profile ఉందంటే volumes, ఆ point of time లో ఎంత volumes trade అయినాయి either అది buy or sell, మీరు delta దగ్గరికి వస్తే ఇక్కడ red ఉన్నది అంటే, ఈ point of time లో ఇంతమంది sellers dominate చేశారు net delta అంత ఉన్నది అని అర్థం for example, ఈ
+[0:09:03] point లోకి వస్తే ఇక్కడ ఇంతమంది sellers net de-- delta అంటే ఏం కాదు buyers minus sellers, sellers ఎక్కువుంటే negative ఉంటది delta, buyers ఎక్కువుంటే positive ఉంటది delta ok, ఈ point of time లో negative వచ్చింది buy-- sellers అనేవాళ్ళు ఎక్కువ ఉన్నారు so red candle, so its side delta అనేది ఇలా form చేస్తాది got it?
+[0:09:23] so మీకు volume profile గురించి తెలిసింది, delta గురించి తెలిసింది so ఇప్పుడు, so ఇప్పుడు ఏం చేద్దాం అంటే, so first of all ఈ platform గురించి మీకు explain చేస్తా, so basic గా మనకి footprint chart అనేది ఏమంటారంటే second le-second level data అనేసి అంటారు so first level data అంటే
+[0:09:44] ఏంటి? మన order book ఉంటది చూసారా first five strikes కి ఇస్తది మనకు order book చూసుకున్నట్లయితే so దాన్ని first order first, first order అంటారు ఇదేమో second అనేసి అంటారు so ఇది ఏంటంటే second level data అంటే ఏంటంటే మీకు footprint charts వస్తాయి ok అవి order, order flow లో ఇంకా, ఇంకా ఏమేమి ఉన్నాయి అని తెలుస్తది ok
+[0:10:04] and also మీకు ఈ trade and order book కూడా ఉంటాది so ఇవన్నీ దొరికే platform ఏంటంటే మీకు తక్కువకి అంటే కొంచెం negligible amount కి మిగతా platforms తో compare చేసుకుంటే Go charting లో మీకు చాలా మంచి price కి available ఉంటుంది ok Go charting around మీకు fourteen hundred, fifteen hundred rupees పడుతుంది, ఇవంతా
+[0:10:25] కావాలంటే మీకు monthly, మీరు yearly తీసుకుంటే అది ఇంకా తక్కువ పడుతుంది but initially monthly తీసుకోండి ok monthly తీసుకున్నాక ఏం చేస్తారంటే, ఈ settings అయిన్నీ మీకు చెప్పను ok నాకు DM చేయండి నేను మీకు settings అన్నీ చెప్తా so దీన్ని footprint chart అనేసి అంటారు got it?
+[0:10:45] ఇది ఎలా పెట్టుకోవాలో ఏంటో నాకు DM చేయండి నేను మీకు explain చేస్తా ok ఇప్పుడు చెప్తున్నా maybe ఏమన్నా future లో ఏమన్నా మార్చారంటే అప్పుడు మీకు ఇబ్బంది పడతారు కదా, so నాకు DM చేయండి అప్పుడు updated ఏముంటాదో options అన్నీ మీకు send చేస్తా ఉంటా ok దీన్ని footprint chart అనేసి అంటారు ok దాన్ని నేను ఎప్పుడూ left side పెట్టుకుంటా and right side లో ఏం పెట్టుకుంటా అంటే నేను,
+[0:11:09] right side వచ్చేసి నేను volume profile delta అనేది నేను mark చేసుకుంటా so నేను చూసే setup ఏంటంటే నా daily trade setup ఇలా ఉంటాది, ok so ఇటు పక్కన spot chart ఉంటాది, ఈ spot chart లో నేను volume profile mark చేసుకుంటా ok and right
+[0:11:29] side వచ్చేసి నా Go charting platform ఉంటాది, ఇక్కడ footprint charts చూస్తా volume profile and delta mark చేసుకుని చూస్తా so ఇది నా screen setup ok.
+[0:11:39] so ఇప్పుడు మీరు ఏం నేర్చుకున్నారు volume profile అయింది కదా, తర్వాత volume profile అంటే ఏంటో చూశారు next delta అంటే ఏంటో కూడా తెలుసుకున్నారు got it?
+[0:11:47] ఇప్పుడు footprint chart లోకి వెళదాం so footprint chart లోకి వెళ్లే ముందు ఏంటంటే నేను మీకు మన strategy చెప్తా ok ఆ strategy చెప్పాక, ఆ strategy entry point వచ్చిన ద-- ఆ strategy entry point వచ్చేసరికి మనకి confirmation కోసం మనం footprint charts చూస్తాం ok first మనం strategy మాట్లాడుకుందాం,
+[0:12:07] strategy మాట్లాడుకున్నాక next footprint charts లోకి వెళ్దాం అక్కడ additional confirmation కోసం ok so మన strategy నేను మీకు explain చేస్తున్నా చూడండి.
+[0:12:21] ఓకే, సో నిన్న, నిన్న entry, ఓకే, ఈ entry discuss చేసుకుందాం. సో initial మీరు morning వచ్చిన వెంటనే మీరు ఏం చేయాలంటే fixed range volume profile ఉంటది కదా previous day అంటే for example మన twenty third market మనం ఏ direction వెళ్తుందో మనం predict చేయాలనుకుంటున్నాం.
+[0:12:41] దాని previous day ఏంటి? twenty second, twenty second nine fifteen AM నుంచి ఈరోజు first candle కి fixed range volume profile మార్క్ చేసుకుంటారు.
+[0:12:53] ఓకే. మార్క్ చేసుకున్నాక, so ఇక్కడ మీకు low volume, low volume ఉన్న for example మీకు తక్కువ volumes ఉంటాయి అని చెప్పా కదా, so అలా తక్కువ volumes ఉన్న దాట్లనే low volume nodes అనేసి అంటారు low volume nodes.
+[0:13:09] so అది మీరు ఇక్కడ identify చేయండి. అంటే ఈ price ఎక్కడ ఉన్నదో for example తర్వాత రోజు ఏంటి nine fifteen అంటే first candle వచ్చింది మిగిలిన candles ఏమి రాలేదు, ఇవన్నీ రాలేదనేసి అనుకోండి.
+[0:13:19] okay first candle లో పెట్టారు, పెట్టిన తర్వాత మీకు ఇక్కడ కనిపించే low volume nodes ఏమున్నాయి? ఇక్కడ ఒకటి ఉన్నది, okay దాన్ని మార్క్ చేసుకుంటారు.
+[0:13:27] got it? ఆ zone మార్క్ చేసుకుంటారు, మీకు ఇంకెక్కడైనా కనిపిస్తున్నాయా? ఈ opening దగ్గర ఇక్కడ ఈ range లో, ఇంకేం కనిపించట్లేదు కదా highest ఎక్కడ ఉన్నది?
+[0:13:34] ఇక్కడే ఉన్నది. okay price అనేది దాన్ని touch చేసింది, okay but మళ్ళీ retest అయితే మళ్ళీ దాన్ని, మళ్ళీ మనం దాన్ని consider చేస్తాం కానీ లేదంటే consider చేయం.
+[0:13:45] so next ఈ candle close అయింది next candle కూడా close అయింది next candle close అయ్యాక ఏం చేస్తామంటే మళ్ళీ దీన్ని next candle కి dra-drag చేసుకుంటాం volume, volume profile ని.
+[0:13:57] so మీకు ఇక్కడ మళ్ళీ ఏమన్నా కనిపిస్తున్నాయా ఎక్కడన్నా మీకు low volume nodes? ఎక్కడా కనిపించట్లే.
+[0:14:03] okay so next మళ్ళీ drag చేసుకుంటాం next candle five minutes candle close అయ్యాక మళ్ళీ drag చేసుకుంటాం.
+[0:14:10] మీకు ఇక్కడ ఎక్కడైనా కనిపించిందా low volume? ఇంకా పైది వదిలేయండి. okay పైది మనం miss అయిపోయాం. అక్కడ price అనేది రాలేదు miss అయిపోయాం.
+[0:14:18] so మీకు ఇక్కడ ఇంకా ఎక్కడన్నా కనిపిస్తుందా? లేదు, మీకు ఇక్కడ ఒకటి ఉ-- okay ఇక్కడ ఒకటి ఉన్నది, ఇక్కడ ఈ area లో ఒకటి ఉన్నది.
+[0:14:27] okay so ఈ area ని చూసుకోండి. so ఇంకా వెళదాం, ఇంకా ఏమన్నా మంచి low volume nodes కనిపిస్తాయేమో చూద్దాం.
+[0:14:35] okay so ఇంకా వచ్చాం, so ఇంకా వచ్చేసరికి మీకు ఇక్కడ ఏం కనిపిస్తుంది? ఇక్కడ ఈ ఒక్కటే low volume node అనేది ఉన్నది.
+[0:14:42] got it? so ఆ low volume node ని mark చేసుకుంటారు, కొత్తగా వచ్చిన low volume node ని. mark చేసుకున్నారు కదా, so mark చేసుకున్నాక అక్కడ first candle touch చేసింది కదా, అంటే ఏ candle?
+[0:14:57] nine thirty AM candle touch చేసింది, touch చేసిన వెంటనే మీరు ఏం చేస్తారంటే మళ్ళీ, మళ్ళీ fixed range volume profile draw చేసుకోలి, ఎక్కడి నుంచి?
+[0:15:07] ఆ రోజు nine fifteen AM candle నుంచి ఏదైతే volume profile touch చేసిందో, అదే low volume node zone ని touch చేసిందో ఆ candle వరకు మీరు volume profile ని draw చేసుకుంటారు.
+[0:15:20] got it? అప్పుడు ఏం చేస్తారు? ఇందులో మళ్ళీ low volume node ఎక్కడ ఉన్నాదనేసి మనం identify చేయాలి.
+[0:15:28] okay so నేను మీకు clarity కోసం నేను మీకు hide చేస్తా one minute. okay so ఇక్కడ మీకు low volume node ఎక్కడ ఉన్నది?
+[0:15:37] ఇక్కడే కదా ఉంటా, ఉమ్, ఇక్కడ ఉన్నది. ఈ zone, got it?
+[0:15:45] మీకు ఇక్కడ చూసుకున్నట్లయితే ఎక్కడ ఎక్కువ తక్కువ volumes ఉన్నాయి ఇక్కడ మీకు? ఇక్కడ, కాకపోతే ఇది దీనికన్నా ఎక్కడ తక్కువ ఉన్నది? ఇక్కడ ఉన్నది, ఈ zone ని మనం mark చేసుకుందాం.
+[0:15:53] ఈ zone కన్నా ఎక్కడ తక్కువ ఉన్నది? ఈ point లో ఉన్నది. okay ఆ point ని మనం mark చేసుకుందాం. got it? ఆ point ని మనం mark చేసుకుందాం.
+[0:16:06] okay మళ్ళీ candles వచ్చినాయి. got it? so ఇప్పుడు మనకి previous దాంతో మనకి పని అయిపోయింది ఇంకా.
+[0:16:14] okay previous day ని delete చేసేయండి, delete. next ఆ low volume node previous day నుంచి చేసుకున్నాం కదా, దాన్ని కూడా delete చెయ్యండి, delete అయిపోయింది కదా.
+[0:16:23] so ఇప్పుడు ఏం చేస్తారంటే, ఇక్కడి నుంచి market అనేది ఎటువైపు వెళ్తుందనేసి మనం decide అవ్వాలి.
+[0:16:30] got it? దానికి, అది decide అవ్వడానికి మనం footprint charts అనేవి use చేస్తాం. footprint charts అంటే ఏంటంటే, x-ray of the, of a candle.
+[0:16:40] for example, మీకు ఇక్కడ green candle కనిపిస్తుంది అనుకోండి, మీకు green candle కనిపిస్తే ఏంటి? buying అనేసి మీరు decide అవుతారు.
+[0:16:46] కానీ back end లో ఆ x-ray లో selling వస్తది ఒక్కొక్కసారి. for example, ఇక్కడ చూడండి, ఇక్కడ ఇంత పైకి వెళ్లి మళ్ళీ కిందకి వచ్చింది, మీరు green లో close, ఇంత పైకి green వెళ్ళింది కదా, ఇదంతా మనకి capture చేసే sellers అంతా విరుక్కున్నారా అనేసి అనుకుంటారు.
+[0:17:00] కాకపోతే మీకు footprint chart లో ఇంకొక story చెప్తాది. so అసలు ఆ candle లో ఏమవుతుంది? buyers aggressive గా ఉన్నారా?
+[0:17:07] sellers aggressive గా ఉన్నారా? అని తెలుసుకోవడానికి మీరు footprint charts ని మీరు use చేస్తారు. okay so ఇప్పుడు ఈ video లో మళ్ళీ ఒకసారి మొత్తం recap చేసుకుందాం, ఏమేం చెప్పుకున్నామనేసి.
+[0:17:21] చూడండి, ఏమన్నా doubt ఉంటే నాకు చెప్పండి. okay ఇ-ఇది direct sta-strategy మీకు explain చేసేస్తున్నా. మీకేమన్నా, మీ, మాకు అసలు options గురించి ఏమీ తెలీదంటే, నాకు ఒకసారి ме-message చేయండి, నేను మీకు pre course material నేను మీకు send చేస్తా.
+[0:17:33] okay so next video లో footprint charts గురించి తెలుసుకుందాం. తెలుసుకున్నాక, ఈ, ఈ point కి వచ్చాక, so ఇక్కడికి వచ్చింది, okay ఇక్కడి నుంచి market అనేది కిందకి పడుతుందని ఎలా decide అయ్యాం?
+[0:17:45] అన్నది footprint charts చూసి decide అవుతాం. okay so రేపు next video లో footprint charts గురించి discuss చేసుకుందాం, discuss చేసుకున్నాక ఈ strategy ని complete చేద్దాం option selling strategy ని, got it?
+[0:17:56] next video తో option selling strategy అనేది complete అవుతది. and మీకు satisfaction కోసం ఒక, okay so one minute ఉండండి, నేను మీకు ఒక five days, six days draw చేసి చూపిస్తాను, okay
+[0:18:17] నేను మీ-మీకు clarity వస్తుంది. okay ఈ thirteenth నుంచి draw చేద్దాం. ఉమ్ ఓకే! సో, ఏం చేయాలి?
+[0:18:29] thirteen నుంచి మనం చూస్తున్నాం. ఓకే! సో, ఏం చేస్తాం మనం first market open అయిన first five minutes candle close అయ్యాక previous day opening అంటే nine fifteen నుంచి ఈరోజు closing nine first five minutes candle close అయ్యాక అక్కడిదాకా volume profile అనేది మనం draw చేసుకుంటాం draw చేశాక మీకు
+[0:18:50] ఇక్కడ మీకు initially గా తెలియట్లేదు అనుకోండి simply ఇక్కడ వచ్చి hide చేసుకోండి hide చేసుకున్నాక మీకు ఇక్కడ low volume nodes ఎక్కడెక్కడ కనిపిస్తున్నాయో చెప్పండి low volume nodes ఎక్కడ కనిపిస్తున్నాయి?
+[0:19:03] ఇక్కడ ఒకటి ఉన్నది. ఉమ్! ఇక్కడ ఒకటి ఉన్నది, మళ్ళీ same అలాగే ఇక్కడ ఒకటి ఉన్నది ఈ range లో.
+[0:19:19] ఓకే! draw చేసుకున్నారు కదా, మళ్ళీ chart ని తీసుకురండి. తీసుకొచ్చారు.
+[0:19:28] సో, ఇవి drag చేసుకుందాం drag, drag got it.
+[0:19:36] ఓకే! సో, మీకు draw చేసుకున్నారు కదా, సో, ఈ candle close అయింది. ఈ candle close అయిన తర్వాత next day మనకి low volume node అనేది ఉన్నది.
+[0:19:44] ఓకే! మనకి చెప్పా కదా first candle touch అవడం కాకుండా next candle కూడా ఒకసారి touch అయితే అప్పుడు మనం దాన్ని consider చేస్తాం entry కి అనేసి.
+[0:19:51] ఇక్కడ ఏమైంది? ఇందాకటి example కి ఏంటి first candle touch అయిన తర్వాత అక్కడికి రాలేదు price. సో, మనం drag చేసుకుంటా వచ్చాము volume, volume profile మనకు కొత్త LVN దొరికే, దొరికే వరకు.
+[0:20:02] ఇక్కడ ఏంటి second candle touch చేసింది. సో, ఏం చేస్తాం మన strategy ప్రకారం? దీన్ని తీసుకుంటాం, మళ్ళీ ఇంకొక volume profile draw చేస్తాం.
+[0:20:10] దేనికి? ఆ candle కి next candle కి. ఓకే! సో, మనకి previous దాంతో మనకి ఇంకా అయిపోయింది.
+[0:20:16] ఓకే! delete చేసేయండి దాన్ని. ఓకే! delete చేశారు కదా. సో, ఇప్పుడు ఇక్కడ low volume node ఎక్కడ ఉన్నదో ఈ, ఈ candle లో మనం find out చేయాలి.
+[0:20:31] ఓకే! సో, మీకు మళ్ళీ ఇగ chart off చేస్తున్నా. ఓకే! సో, ఇక్కడ low volume nodes ఎక్కడ ఉన్నాయో find చేయండి.
+[0:20:39] ఎక్కడ ఉన్నది low volume node? ఇక్కడ ఉన్నది కదా. ఓకే! సో, ఇవి low volume nodes ఉన్నాయి కదా ఈ zone, got it?
+[0:20:49] ఈ zone ని mark చేసుకోండి. సో, ఈ zone mark చేసుకున్నారు కదా.
+[0:21:16] సో, ఇక్కడ మీకు market అనేది ఏమైంది? ఇక్కడ touch చేసింది. ఓకే! మళ్ళీ కిందకి రాలేదు, రాకపోవడానికి ఏంటి కారణం?
+[0:21:23] మనకి next candle పైన form అయింది కదా, ఇక్కడ దాకా wait చేయాలా లేదా ఇదే candle లో entry తీసుకోవాలా అన్నది మన footprint chart ని చూసి discuss చేసుకుందాం.
+[0:21:31] అది next video లో చూసుకుందాం. ప్రస్తుతం ఏమైంది? అదంతా వదిలేయండి, ఇక్కడ support తీసుకుంది next candle పైన close అయింది entry వచ్చింది.
+[0:21:39] చూడండి entry మనకు దొరికిందా లేదా? one is to two వచ్చిందా లేదా?
+[0:21:53] వచ్చింది కదా. ఓకే! ఈరోజు అయిపోయింది. సో, మీకు ఇలా ఒక ten days draw చేసి చూస్తే మీకు ఒక clarity వస్తది, ఏమిటి అనేసి.
+[0:22:01] మీకు అర్థం కాకపోతే నాకు DM చేయండి. మనం ఒక meet పెట్టుకొని నేను మీకు draw చేసి చూపిస్తా. ఓకే! next తీసుకోండి.
+[0:22:11] ఎక్కడి నుంచి draw చేయాలి? అక్కడి నుంచి first candle next day first candle close చేశాం.
+[0:22:19] సో, మీకు ఇక్కడ దగ్గర్లో low volume nodes ఎక్కడ కనిపిస్తున్నాయి, మీకు ఇక్కడ దగ్గర్లో? price అనేది ఇక్కడ open అయింది.
+[0:22:26] ఓకే! మీకు ఇక్కడ దగ్గర్లో ఎక్కడ కనిపిస్తున్నాయి? ఇక్కడే కదా, ఇదే కదా. సో, ఆ zone mark చేసుకుంటారు.
+[0:22:37] సో, video ఇలా raw ఉంటది lengthy ఉంటది చూడండి. ఓకే! చూసి ఏమన్నా explain, అర్థం కాకపోతే practice చేయండి continuous ఒక one month తీసుకుని complete first date నుంచి thirty వరకు చేసుకొని ఎంత probability వస్తుందనేది మీరు చూడండి video అయ్యాక.
+[0:22:51] మీకు ఒక confidence వస్తది. ఓకే! సో, ఇక్కడ draw చేసుకుందాం మనకి దొరికింది. ఓకే! మనకి ఇక్కడ కూడా ఉన్నది కాకపోతే market అనేది కిందకి రాలేదు కదా, ప్రస్తుతం ఇక్కడే ఉంది కదా.
+[0:23:01] సో, ఇక్కడే ఈ zone గురించి మనం చూస్తున్నాం. ఏమైంది ఇక్కడ? ఈ zone దగ్గరికి వచ్చి reversal వచ్చి ఇక్కడి నుంచి కింద పడిందా లేదా market?
+[0:23:08] ఓకే! ఇక్కడ కూడా one is to two వచ్చింది. మీరు ఇలా direct తీసుకోవచ్చు లేదు అంటే మన second confirmation ఉంది కదా.
+[0:23:19] సో, nine fifteen నుంచి touch చేసింది ఏంటి? ఇది కదా.
+[0:23:25] ఓకే! అది closing పెట్టుకుందాం. సో, previous day delete చేయండి.
+[0:23:36] ఉమ్! ఓకే! మీరు ఇక్కడ చూసినట్లు ఈ candle closing పెట్టుకున్నాం కదా, మీరు ఇక్కడ చూసినట్లయితే low volume node ఎక్కడ ఉన్నది, మీకు ఎక్కడ దొరికింది?
+[0:23:49] ఇది low volume node ఉన్నది. అవునా కాదా? market ఏమైంది?
+[0:24:04] అక్కడ rejection తీసుకుంది కదా, సో, మీకు one is to two వచ్చిందా లేదా? ఓకే! one is to two వచ్చింది. సో, next day మళ్ళీ same previous day nine fifteen నుంచి present day nine fifteen వరకు draw చేసుకుందాం.
+[0:24:22] ఇక్కడ low volume nodes ఎక్కడ కనిపిస్తుంది? ఇక్కడ ఉన్నది. ఓకే! ఇక్కడ draw చేసుకుంటారు.
+[0:24:30] Got it? డ్రా చేసుకున్నాక first candle touch చేసిన వెంటనే మళ్ళీ ఇంకో కొత్త volume profile డ్రా చేస్తారు ఆ రోజు nine fifteen నుంచి first touch చేసిన candle డ్రా చేశారు.
+[0:24:41] okay మీకు ఇక్కడ low volume node ఏం కనిపిస్తుంది? మీకు ఇక్కడ low volume node అనేది ఇక్కడ ఉన్నది okay.
+[0:25:04] so ఇక్కడ ఏమైంది market? ఇక్కడ support తీసుకుని market అనేది one is to two target మనకి వచ్చింది okay next day మీరు ఇలా practice చేస్తేనే confidence వస్తది, మీరు ఇలా చూస్తే రాదు okay నేను చెప్పాక ఈరోజు ఈ video అయిపోయాక
+[0:25:24] foot print charts పక్కన పెట్టేయండి foot print chart నేర్చుకున్నాక ఎటు side వెళ్ళాలి అన్నది మనకి clarity వస్తది ప్రస్తుతం draw చేసి okay అక్కడి నుంచి movement ఉంటుందా లేదా market అక్కడి నుంచి pin point అన్నది మీరు గమనించాలి.
+[0:25:38] okay so next day draw చేసుకుందాం ఇక్కడ మీకు low volume nodes ఎక్కడెక్కడ ఉన్నాయి? first ఇక్కడ ఉన్నది okay but price అనేది అక్కడికి రావట్లేదు ఉమ్ ఈ candle మరీ heavy rejection ఇచ్చింది so మనం ఏం చేస్తాం next ఈ candle close అయ్యాక next
+[0:25:59] move చేసుకుంటా ఉంటాం volume profile low volume node దొరికాక ప్రస్తుతం ఎక్కడ ఉన్నది? ఇక్కడ ఉన్నది కదా so ఇది గుర్తుపెట్టుకోండి మరీ దూరం ఉంది కదా so మరీ దూరం ఉంది కాబట్టి మళ్ళీ next candle close అయ్యాక next candle కి తీసుకొచ్చాం ఇంకా దూరమే ఉన్నది so next candle కి తీసుకొచ్చాం so
+[0:26:19] next candle so మీరు అలా మీకు price ఉన్న price దగ్గరలో మీకు low volume node దొరికేంతవరకు మీరు దీన్ని move చేస్తానే ఉండాలి next candle కి తీసుకొచ్చాం దొరకలే next candle కి తీసుకొచ్చాం దొరకలే మీకు ఇక్కడ volume node ఇక్కడ ఇలాగే ఉన్నది ఇదొకటి గుర్తుపెట్టుకోండి మీకు ఇంకా కొత్తది ఏమన్నా దొరుకుతదా అనేది మనం చూస్తున్నాం అనమాట ఈ chart లో so next తీసుకొచ్చాం
+[0:26:40] దొరకలే next తీసుకొచ్చాం దొరకలే ఇంతకీ ఈ లోగా ఇవాళ ఈ ఇక్కడికి వచ్చేసింది price అనేది మన previous low volume node ఉంది చూసారా initial గా starting లో అక్కడికి వచ్చింది so అక్కడికి వచ్చింది కాబట్టి first touch చేసింది కదా so మన next మనం confirmation కి ఏం చేయాలి nine fifteen ఆరోజు nine fifteen నుంచి ఏదైతే ఏ candle అయితే first touch చేసిందో అక్కడి వరకు
+[0:27:00] volume profile మనం draw చేసుకుంటాం so ఇందులో low volume node ఎక్కడ ఉన్నదో మనం చూడాలి low volume node చూడండి మీకు low volume node చూసినట్లయితే around ఇక్కడ ఉందా లేదా?
+[0:27:14] ఉమ్ ఇక్కడ ఉంది, ఇక్కడ ఉంది మన price ఇక్కడ ఉంది కాబట్టి ఇక్కడ draw చేసుకుంటాం okay next ఇక్కడ కూడా draw చేసుకుంటాం ఈ point లో sorry ఇది low volume node అను కాదు అనుకుంటా ఒక్కసారి ఉండండి ఉమ్ ఇదే low volume node okay ఇది ఇక్కడే తక్కువ volumes ఉన్నాయి కదా so low volume node
+[0:27:34] draw చేసుకుందాం so previous అవన్నీ delete చేసేస్తాం only ఇదే చూస్తాం మనం ఇప్పుడు okay so market ఏమైంది?
+[0:27:47] ఈ point నుంచి పైకి వెళ్ళాక మళ్ళీ దాటిందా కిందకి? రాలేదు కదా so selling చేస్తాం కాబట్టి మనకి ఆరోజు slow decay అనేది మనకు వచ్చింది okay got it మళ్ళీ ఇది last day okay so ఇది last day చూశాక ఇంకా stop చేద్దాం.
+[0:28:09] so మీకిక్కడ volume low volume node opening price దగ్గర మీకు దగ్గరలో ఎక్కడ దొరికింది? ఇక్కడ draw చేసుకున్నారు and also price అనేది బాగా కిందకు వచ్చింది and also చాలా heavy movement ఉన్నది so ఇలాంటప్పుడు మనం trade చేయడం పక్కకు ఉంటాం okay so next అలా draw చేసుకుంటా ఉండండి మీకు కొత్త low volume node ఏమన్నా కనిపిస్తుందా
+[0:28:30] లేదా అనేసి so ఇప్పుడు మళ్ళీ పైకి వచ్చేసింది కాబట్టి మనకు తెలిసింది కానీ లేదా market అనేది కింద పడతది అనేసి అనుకుంటారు కదా ఇంతలా fall ఉంటే so ఇక్కడ low volume node అనేది ఇంకా draw చేసుకుంటా ఉంటారు okay next next candle తీసుకుంటారు okay మీరు ఇక్కడ గమనించినట్లయితే next candle తీసుకున్నాక మీకు కొత్త low volume node
+[0:28:50] ఇక్కడ చిన్నది form అయింది. అవునా కాదా ఇక్కడ? ఉమ్ ఇక్కడ mark చేసి mark చేసుకొని ఉంచుకోండి okay ఈ type of volatile market లో మనం entry తీసుకుంటాం okay so అదొక low volume node కనిపించింది కదా అది కూడా mark చేసి ఉంచుకున్నాం next ఇంక draw చేసుకోండి draw చేసుకోండి ఈ లోగా ఈ పైకి వచ్చే touch అయింది మనకి అప్పుడు
+[0:29:10] ఏం చేస్తాం? మనం starting nine fifteen నుంచి first touch అయింది volume profile draw చేసుకుంటాం previous day delete చేసేస్తాం ఇంక మనం okay previous day delete అన్నీ delete చేస్తాం so ఇందులో ఇప్పుడు low volume node ఎక్కడ ఉన్నదో మనం mark చేయడానికి try చేస్తాం.
+[0:29:33] మీకు low volume node ఎక్కడ ఉన్నది? ఇక్కడ exact ఈ point దగ్గర okay exact ఈ point దగ్గర.
+[0:29:57] sorry ఒక్కసారి ఉండండి మనకి సరిగ్గా draw చేయలేదు అనుకుంటా. okay exact ఈ point and ఈ point ఈ zone మొత్తం ఉన్నది okay ఏమైంది
+[0:30:19] ఇక్కడ ఈ zone తర్వాత? ఉమ్ market అనేది heavy fall అనేది అయింది got it so ఇలా ఇది మన strategy okay previous day nine fifteen నుంచి ఈరోజు nine fifteen candle five minutes candle close అయ్యాక volume profile మనం draw చేసుకుంటాం draw చేసుకున్నాక price దగ్గర low volume nodes find
+[0:30:39] out చేస్తాం అక్కడ zones draw చేసుకుంటాం అండ్ ఆ జోన్ నుంచి దూరంగా వెళ్తుంటే మనం continuous every five minutes candle close అయ్యాక అక్కడి నుంచి మనం డ్రా చేసుకుంటా ఉంటాం low volume profile ని every five minutes కి.
+[0:30:51] so ఎక్కడన్నా కొత్తగా low volume node form అవుతుంటే అక్కడ మనం ఇంకొకటి డ్రా చేసుకుంటాం, okay, అక్కడికి వచ్చి touch చేసింది దాన్ని, touch చేసిన వెంటనే ఏం చేస్తాం, ఈరోజు nine fifteen candle నుంచి touch చేసిన candle వరకు volume profile మళ్ళీ డ్రా చేస్తాం.
+[0:31:05] previous day ఇంక మనకు సంబంధం లేదు అది, తీసేసాం మొత్తం previous day volume profiles తీసేసాం, zones తీసేసాం, అన్నీ తీసేసాం. ఇప్పుడు, ఇప్పుడు కొత్తగా డ్రా చేసుకున్న దాంట్లో ఆ low volume node ని మళ్ళీ find out చేస్తాం, ఆ zone చూసుకుంటాం, so ఆ zone నుంచి ఎటువైపు వెళ్తుంది అని మనం predict చేయగలిగితే market అనేది అక్కడి నుంచి heavy movement ఉంటది లేదా
+[0:31:25] sideways ఉంటది, okay. so మనకి selling లో ఏంటి sideways ఉన్నా profit వస్తది, మనం అనుకున్న direction లో heavy movement వచ్చినా profit వస్తది, okay.
+[0:31:36] so ఇది ఏ direction లో ఉన్నదని additional confirmation అంటే మనం for example fifty percent predict చేయగలుగుతున్నాం అనుకోండి ఈ direction ని, ఇంకొక additional twenty five percent లేదా thirty percent add చేసేదే footprint charts.
+[0:31:48] so మనం ఇలా ఈ points దగ్గరికి వచ్చాక footprint charts లోకి వచ్చి అక్కడ మనం candles ని reach చేయడానికి try చేస్తాం, try చేసి మనం ఒక direction ని అనుకుని ఆ direction లో entry తీసుకుంటాం, okay, ఇది మన strategy.
+[0:32:01] so ఈరోజు video లో volume, మన strategy చెప్పా కదా, volume profiles ఎలా డ్రా చేయాలి, delta అంటే ఏంటి, so delta మనకి footprint charts చూసినప్పుడు మీకు explain చేస్తా, just ఒక overview ఇచ్చా delta అంటే ఏంటనేసి.
+[0:32:12] so ప్రస్తుతానికి ఇప్పుడు మీరు ఏం చేస్తారంటే ఈ video అయిపోయాక practice చేయండి, ఒక one month లేదా January కి వెళ్ళిపోండి, okay, twenty twenty six January కి వెళ్ళండి.
+[0:32:21] మొదలుపెట్టండి first date నుంచి, volume profile తీసుకుంటారు nine fifteen to తర్వాత రోజు nine fifteen కి low volume node డ్రా చేసుకుంటారు, find out చేస్తారు, touch చేసిన వెంటనే previous data delete చేసి, ఈ, ఆరోజు nine fifteen నుంచి touch చేసిన candle వరకు డ్రా చేసుకుంటారు, అక్కడ low volume node find out చేస్తారు, అక్కడి నుంచి market ఎలా react అవుతుంది, okay, direction predict చేయడానికి వదిలేయండి,
+[0:32:41] market అక్కడి నుంచి ఒక direction లో heavy గా వెళ్తుందా లేదా, okay, అందర్నీ trap చేయకుండా heavy గా simple గా ఒకవైపు fall అవుతుందా లేదా ఒకవైపు raise అవుతుందా అన్నది చూడండి, లేదు raise అవ్వట్లేదు అంటే అక్కడే మీకు consolidate అవుతుందా లేదా చూడండి, okay.
+[0:32:55] ఇది మీ homework, మీరు చాలా practice చేయాలి, practice చేస్తే గాని అది ఆ confidence రాదన్నమాట మీకు, okay.
+[0:33:02] so మీరు ఖచ్చితంగా practice చేయండి, practice చేస్తూనే ఉండండి, మీకు తర్వాత footprint charts and delta గురించి చెప్తా, అప్పుడు మీకు entries, exits easy అవుతాయి.
+[0:33:13] ఆ price ని మనం, ఈ price చూసారా ఎంతవరకు fall అవుతుందన్నది కూడా మనం predict చేయొచ్చు footprint charts తో, మనం travel చేయొచ్చు ఆ price తో one is to two fixed తీసుకోకుండా ఆ price తోను travel చేసి ఎంత అయితే అంత మనం money అనేది squeeze చేయొచ్చు, ఎన్ని points అయితే అన్ని points market లో నుంచి.
+[0:33:28] so అది రేపొద్దున్న footprint charts చెప్పాకా ఎలా చూడాలి, ఎలా entry అవ్వాలి, exits ఎక్కడ, sells ఎక్కడ పెట్టుకోవాలి, targets అనేవి మనం ఎలా పెంచుకుంటాం ఎలా, అది footprint charts చూసుకుంటా అనేసి మనం discuss చేసుకుందాం, okay.
+[0:33:41] so ఈరోజు మీకు చెప్పా కదా ఇది practice చేయండి, ఏమైనా doubt ఉంటే నాకు message చేయండి. నేను మీకు చెప్పా కదా direct strategy చెప్పేసా, అంటే strategy లో ఏమేం use చేస్తామో అవి explain చేశా next strategy లోకి వచ్చేసా.
+[0:33:52] మీకు అసలు options అంటే ఏంటో తెలీదు, ఏది అంటే ఏంటో తెలీదు అంటే నాకు dm చేయండి, నేను మీకు pre course material అనేది నేను మీకు send చేస్తా, అదంతా చూస్తే మీకు అసలు options అంటే ఏంటి, ఈ options and futures అంటే ఏంటి, buying అంటే ఏంటి, selling అంటే ఏంటి ఒక clarity వస్తది, అప్పుడు ఇక్కడికి వచ్చి మీరు ఈ strategy అనేది నేర్చుకోవచ్చు.
+[0:34:10] okay guys so practice చేయండి strategy అనేది చాలా dead easy ఉంటది but accuracy కూడా అలాగే ఉంటది.
+[0:34:17] మనకి ఆ accuracy ఎప్పుడు పెరుగుతది అంటే footprint charts, volume profile అదే simple మా words లో చెప్పాలంటే order flow use చేసినప్పుడు, okay.
+[0:34:26] okay guys so మొత్తం అందరూ practice చేయండి, practice చేయకపోతే ఏమీ గుర్తు-గుర్తుండదు, మీకు ఆ confidence కూడా రాదు, okay.
+[0:34:33] so practice చేయండి, practice చేశాక మీకేమైనా doubts ఉంటే నాకు message చేయండి and also group లో మీరు డ్రా చేసిన LVNs అన్నీ డ్రా చేసి అవి pictures, screenshots తీసి అవి group లో share చేయండి, okay.
+[0:34:46] so share చేయండి, నేర్చుకోండి, discuss చేయండి అక్కడ community మీకు ఒక group create చేశా కదా అక్కడ discuss చేయండి, ఒకరినొకరు పరిచయం పెంచుకోండి, discuss చేసుకోండి, అందరూ కలిసి grow అవ్వండి.
+[0:34:57] okay guys so at the end of the day practice చేయకపోతే ఏమీ రాదని నేను మీకు ముందరే చెప్తున్నా, practice, practice, practice, మీకు వచ్చే వరకు practice చేయండి, okay, you will be profitable.
+[0:35:06] ఈ strategy అనేది hundred percent work out అవుతది, మీరు ఎన్ని years back అన్నా వెళ్లి చూసుకోండి, ఈ strategy పనిచేస్తది. మీరు చేయాల్సిందల్లా మీకు ఆ confidence రావాలంటే practice, practice చేయండి confidence వస్తది అప్పుడు real capital తో అందరం కలిసి చేద్దాం, okay.
+[0:35:22] okay guys see you in the next video, next video లో footprint charts గురించి చెప్తా, next-next మనం entries, exits ఎలా తీసుకుందాం అనేది కూడా మనం discuss చేసుకుందాం.
+[0:35:30] so రేపటితో options selling అనేది అయిపోయింది. so మీకు చెప్పా కదా మీకు market అనేది మీరు crack చేసేంతవరకు చాలా hard గా ఉంటది, crack చేశాక, ఏంటి నేను ఇంత stupid ఆ, market ఇంత easy ఆ, అని మీకు అనిపిస్తది, okay.
+[0:35:44] so that's the reality, so ఈ strategy చాలా simple గా ఉంటది but అలాగే work చేస్తాది, okay.
+[0:35:51] okay guys so practice చేయండి, practice చేయకపోతే ఏమీ గుర్తుండదని నేను మీకు ముందరే చెప్తున్నా, okay see you in the next video.
