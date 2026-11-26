@@ -1,0 +1,201 @@
+# Course part 10 transcript (ElevenLabs scribe_v2, Telugu+English), duration 2020s
+[0:00:22] ఓకే, సో, మనం previously ఏం నేర్చుకున్నాం, P&L statements గురించి నేర్చుకున్నాం. Balance, let me share it.
+[0:00:32] సో, మనం ఇక్కడ ఒక్కొక్క tab గురించి నేర్చుకుంటా వస్తున్నాం కదా, so quarterly results and P&L నేర్చుకున్నాం. ఓకే, balance sheets ఎలా చదవాలో నేర్చుకున్నాం.
+[0:00:39] సో, ఈరోజు cash flows ఎలా చదవాలో నేర్చుకుందాం. సో, the most important thing మీరు ఒక company దగ్గరకొచ్చి దాని fundamental research, fundamental analysis మొదలుపెట్టాలంటే, మీరు cash flowsతో మొదలుపెట్టాలి.
+[0:00:50] సో, ఓకే. సో, ఇది ఎందుకు అంత important అనేది, cash flow అనేది ఎందుకు అంత important అనేది నేను మీకు ఈ videoలో explain చేస్తాను.
+[0:00:58] ఓకే, సో, basically cash flow అంటే ఏంటి? For example, cash flow అంటే ఏంటంటే, మీకు physicalగా ఆ money ఒక company యొక్క pocketలోకి వస్తే లేదా అక్కడి నుంచి physicalగా బయటకు వెళితే అది cash flow statementsలో record అవుతుంది.
+[0:01:14] For example, P&L statement తీసుకోండి. For example, ఒక A అనే company ఈ financial yearలో thousand rupees sales చేసింది.
+[0:01:22] ఓకే, but ఆ thousand rupees creditలో ఇచ్చిందనుకోండి, వీళ్ళు sales అయితే చేసేశారు. అవి P&L statementలో మీకు కనిపిస్తాయి.
+[0:01:29] కాకపోతే, ఇక్కడ ఏమవుతుంది, ఆ thousand rupees అనేది pocketలోకి రాలేదు, company pocketలోకి ఇంకా రాలేదు. సో, అది అసలైన, ఓకే, ఒక money అనేది లేదా ఒక sale అనేది అయ్యాక, for example thousand rupees sale చేశారని చెప్పుకున్నాం కదా, అది company pocketలోకి వస్తే అది cash flow statementలో కనిపిస్తాది.
+[0:01:47] ఓకే, for example, ఒక expense ఉంటది companyకి, ఆ, మనం ఏమనుకున్నాం expensesలో, for example, ఒక machinery కొన్నది, అది credit basisలో కొన్నది.
+[0:01:56] ఓకే, company pocketలో నుంచి బయటకు వెళ్ళలేదు డబ్బులు. సో, అది P&Lలో కనిపిస్తాది expense కింద, కానీ ఇక్కడ cash flow statementలో అది కనిపించదు.
+[0:02:03] ఎందుకంటే, company pocketలో నుంచి ఇంకా వెళ్ళలేదు కాబట్టి. ఓకే, సో, అలా cash flow statement ఏంటంటే, company pocketలో నుంచి బయటకు వచ్చినవి, ఓకే, అంటే ఏవన్నా expenses ఖర్చు పెడితే and also మన profits, అంటే for example మహీంద్రా మహీంద్రా example తీసుకున్నాం అనుకోండి, వాళ్ళు cars అనేవి dealersకి ఇస్తారు.
+[0:02:21] సో, ఆ dealer అనేవాడు one-- ten thousand crores ఎంతో credit మీద ఇస్తారు. సో, ఆ ten thousand crores ఎప్పుడైతే company bank accountలో పడతాయో, M&Mకి వస్తాయో, అప్పుడు cash flow statementలో మీకు కనిపిస్తాయి.
+[0:02:32] ఓకే, సో, P&L statements, ఆ balance sheets, అవన్నీ ఓకే, అవి చూపిస్తాయి ప్రస్తుతానికి ఎంత ఉన్నదని, కాకపోతే the real cash company దగ్గర ఎంత ఉన్నదన్నది మనకి cash flow statementలో కనిపిస్తాది.
+[0:02:41] Company అనేది ఎంత healthyగా growing అవుతుందనేసి మనకి cash flow statementsలో కనిపిస్తాది. సో, ఓకే. సో, మీకు వెళ్లేకొద్ది అర్థమవుతుంది.
+[0:02:48] మీకు clearగా explain చేస్తా చూడండి. సో, ఇక్కడ ఇది చూడండి, while the balance sheet is a snapshot of company's assets and liabilities on a single date, for example, మనం ఒక financial yearలో చూస్తే, ఆ financial yearలో ఎన్ని liabilities ఉన్నాయి, ఎన్ని assets ఉన్నాయి అని balance sheetలో తెలుస్తాయి.
+[0:03:03] And profit and loss statementsలో చూసుకుంటే, మనకి ఎన్ని expenses వచ్చింది, ఎంత revenue వచ్చింది అనేసి profit and loss statementలో తెలుస్తాది.
+[0:03:09] కాకపోతే, ఇక్కడ issue ఏంటంటే, profit and loss statementలో, for example, మీకు ఇందాక చెప్పాను కదా, మహీంద్రా మహీంద్రా exampleతోటి, dealer ten thousand crores cars worth మహీంద్రా మహీంద్రా నుంచి తీసుకున్నాడు, కాకపోతే అది credit basis మీద తీసుకున్నాడు, ఇంకా డబ్బులు రాలేదు.
+[0:03:22] అది P&L statementలో కనిపిస్తాది, ఓకే, మేము ఈ financial yearలో ten thousand crores worth of carsని dealersకి sell చేశామనేసి. కాకపోతే, in reality cash అనేది ఇంకా మహీంద్రా మహీంద్రాకి రాలేదు.
+[0:03:32] ఓకే, సో, అలా మీకు real cash వస్తుందా, వెళ్తుందా, company accountsలోకి అసలు వస్తుందా లేదా credit basis మీద వెళ్తుందా అవన్నీ మనకి clearly in depth ఎక్కడ తెలుస్తది అంటే cash flow statementలో తెలుస్తాది.
+[0:03:43] ఓకే, సో, ఇక్కడ అదే చెప్తాది చూడండి, and the profit and loss statement records accounting revenue and expenses over a period.
+[0:03:49] ఓకే, అంటే ఒక financial year. The cash flow statement tracks the actual movement of real cash entering or leaving the company's bank account.
+[0:03:57] ఓకే, అర్థమవుతుందా cash flow statement ఎందుకు importanto? సో, ఇక్కడ చూడండి, why professional investors read it first, accounting profits on a P&L statements include-include credit sales, మనం మాట్లాడుకున్నట్టు, money not yet collected and noncash write-offs like depreciation.
+[0:04:12] For example, depreciation చూపిస్తాది expenseగా, కాకపోతే అదేంటి, మళ్ళీ అది కొనేసే లేదా ఒక M&M విషయంలో తీసుకుని, M&M exampleగానే తీసుకుంటే, ఒక machinery purchase చేశారు.
+[0:04:20] ఓకే, అది depreciationలో రాస్తున్నారు, అక్కడ expenseగాని చూపిస్తున్నారు P&L statementలో, కాకపోతే అక్కడ product అయితే ఉన్నది కదా, అది depreciate అయింది, అది అన్ని పక్కనబెట్టండి, product అనేది ఉన్నది కదా.
+[0:04:31] సో, but అది P&L statementలో వీళ్ళు చూపిస్తున్నారు ఒక depreciation కింద, అదొక expense కింద, కాకపోతే in reality అది expense కాదు, company pocketలో నుంచి ఏమీ బయటకు వెళ్ళట్లేదు money.
+[0:04:39] ఓకే, got it? సో, ఇలా in depth మీకు అసలైన cash flow తెలియాలంటే, అసలైన money ఎంత pocketలోకి వస్తుంది, ఎంత నుంచి pocket నుంచి బయటకు వెళ్తుందంటే మనకి cash flow statements అనేది చాలా important.
+[0:04:50] ఓకే, అక్కడే చూడండి, and noncash write-offs like depreciation. ఓకే, real cash cannot be faked.
+[0:04:57] The cash flow statement proves whether a company's paper profits are actually turning into hard cash. For example, P&Lలో ten thousand crores profit వచ్చిందని చూపిస్తే, ఆ ten thousand crores అసలు వీళ్ళ pocketలోకి వచ్చాయా, ఎన్ని creditsలో ఉన్నాయి, ఓకే.
+[0:05:10] For example, expenses రాశారు. సో, expenses రాశారు, కాకపోతే వీళ్ళు వీళ్ళ pocket నుంచి pay చేశారా లేదా చేయలేదా, ఇంకా వీళ్ళు creditలో పెట్టుకున్నారా, ఇవంతా the real cash.
+[0:05:20] ఓకే, whether a company's paper profits, అంటే P&L statements are actually turning into hard cash. సో, అవన్నీ company bank accountsలోకి వస్తున్నాయా లేదా అన్నది cash flow statementsలో మనకి తెలుస్తాది.
+[0:05:32] ఓకే, simpleగా చెప్పాలంటే cash flow statementsలో ఏంటంటే, ఇది ఒక్క statement చూడండి మీకు అర్థమవుతది. The cash flow statement proves whether a company's paper profits are actually turning into hard cash.
+[0:05:42] Got it? వాళ్ళ pocketsలోకి వస్తున్నాయా లేదా, లేదా వాళ్ళ pocketsలో నుంచి actuallyగా బయటకు వెళ్ళినయా లేదా, expensesలో చూసుకుంటే. సో, ఇది cash flow statement ద్వారా మనకి తెలుస్తుంది.
+[0:05:52] సో, ఈ cash flow statement అనేది three partsగా divide అయి ఉంటుంది. సో, మనం each దాంట్లో మనం parts, partsగా చేసుకుంటున్నాం కదా, అలాగే ఇందులో కూడా ఈ activity అంతా payments inflow, outflow ఇదంతా three act-- three partsగా divide అయి ఉంటుంది.
+[0:06:05] ఆ three parts కింద ఏంటంటే... Operating activities, operating activities, investing activities, financial activities, okay.
+[0:06:13] So, మనం ఇప్పుడు each and every thing మనం discuss చేసుకుందాం. So, for example, మనం ఇక్కడ చూసుకున్నట్లయితే, మనం balance sheet చూసుకున్నప్పుడు ఇక్కడ ఎలా ఉన్నది, liabilities, assets, equity అలా ఎలా divide అయి ఉన్నదో so ఇక్కడ కూడా అలా three parts లో divide అయి ఉంది.
+[0:06:30] ఏంటది, operating activities, investing activities, financial activities, okay. So, first operating activities దగ్గరికి వద్దాం.
+[0:06:38] So, operating activities అంటే ఏం కాదు, మీది core business ఉంటది కదా, for example మహేంద్ర అండ్ మహేంద్ర చూసుకుంటే, for example వీళ్ళు ఒక space కొన్నారు, okay లేదా raw materials purchase చేశారు.
+[0:06:47] అది వీళ్ళు pocket నుంచి actual గా బయటకి pay చేశారు amount ని, okay. అది, okay, వీళ్ళు pocket నుంచి pay చేశారు and next వీళ్ళు goods అమ్మారు, చెప్పా కదా ten thousand tolls ఎవరో cash pay చేసి వీళ్ళు goods తీసుకున్నారు, okay.
+[0:07:01] So, అది వీళ్ళ pocket లోకి వస్తుంది. So, ఇవంతా operating activities లో వస్తాయి. The main core business ఉంటది చూశారా, వీళ్ళు చేసే business, ఆ business లో expenses and revenues, వీళ్ళ pocket లోకి వచ్చినవి, okay.
+[0:07:19] paper మీద ఉన్నాయ్ కాదు, అవన్నీ cash flow from operating activities వస్తాయి. So, ఇక్కడ universal meaning ఉంది, cash generated or consumed strictly by a company’s core day-to-day business operations, bracket లో మనం మాట్లాడుకున్నాం కదా selling goods and services and collecting payments from customers minus cash paid to suppliers, employees, tax authorities, okay.
+[0:07:39] Actually గా వీళ్ళ pocket లో నుంచి వెళ్ళిన operational activities అన్నీ వీళ్ళ pocket లో నుంచి బయటికి వెళితే money minus పెడతారు, pocket లోకి వస్తే plus పెడతారు.
+[0:07:47] Okay, got it. అలాగే ఇందులో cash flow from operating activities లో ఇవన్నీటినీ మనకు జరిపేస్తాయి. Next, next ఏముంది cash flow from investing activities.
+[0:07:56] So, investing activities అంటే ఏంటంటే for example ఒక factory కొన్నారు, ఒక factory అమ్మేశారు లేదా ఒక machinery కొన్నారు, machinery అమ్మేశారు, ఒక R&D లో పెట్టారు, ఒక land కొన్నారు, land అమ్మేశారు.
+[0:08:06] So, ఇవన్నీ investing activities లో వస్తాయి. ఇంకో example చూడండి universal example ఏముంది, cash spent on capital expenditure అంటే CapEx అంటారు కదా, to expand future capacity by buying land, factories, machinery, R&D platforms, or acquiring companies are cash.
+[0:08:23] Got it? So, అలా cash flow from investing activities లో, ఇవి, ఈ categories అన్నీ cash flow from investing activities లోకి వెళతాయి.
+[0:08:35] Next, third one ఏంటి, cash flow from financing activities. So, financing activities అంటే ఏంటి, వీళ్ళు bank loan తీసుకున్నారు లేదా bank loan repay చేశారు లేదా ఆ, dividends ఇస్తారు కదా, so dividends ఇచ్చారు లేదా money ఎక్కడైనా borrow- borrowing చేసుకున్నారు లేదా interest pay చేశారు లేదా shares issue
+[0:08:55] చేశారు లేదా buy back చేశారు. ఇవంతా ఏంటంటే financing activities లో వస్తాయి. Cash flow from fi-financing activities.
+[0:09:02] Got it. ఇక్కడ meaning చూడండి, cash transactions between the company and its lenders, అంటే banks, bond holders and owners, shareholders including taking or repaying loans, issuing shares, paying interest and paying dividends.
+[0:09:18] Okay, got it. so, మీకు positive, negative numbers అని next మనం sheets, balance sheet చూసినప్పుడు మాట్లాడుకున్నాం మనం, అదే, sorry, cash flow statement మనం చూసినప్పుడు మాట్లాడుకున్నాం ఇది.
+[0:09:29] so, minus, ఎప్పుడు minus ఉంటే best, plus, positive ఎప్పుడు ఉంటే best అనేసి company కి అక్కడ మాట్లాడుకున్నాం, okay.
+[0:09:36] So, ఇప్పుడు మీకు మూడు అర్థమయ్యాయి కదా, so ఇక్కడ మూడు ఏంటి, operating activities అంటే expense, revenue. Investing activities అంటే ఏంటి, buying lands, factories, selling lands, selling factories, acquiring companies, okay.
+[0:09:51] ఇవన్నీ investing activities లోకి వస్తాయి for their future development, company యొక్క future development. So, next వచ్చేసి ఏమున్నది, cash flow from financing activities.
+[0:09:58] Financing activities అంటే ఏంటి, bank loan తీసుకోవటం, bank loan repay చేయటం, shareholders కి dividends ఇవ్వటం, shares buyback ఇవ్వటం, okay.
+[0:10:08] So, interest pay చేయటం. So, ఇవన్నీ financing activities లోకి వస్తాయి. చూడండి three categories లో the real money flow, cash flow ని ఈ three categories లో divide చేసి divide చేస్తారు, okay.
+[0:10:22] So, ఇక్కడ positive, negative అనుకున్నాం కదా, simple positive, negative అంటే ఏం కాదు, positive అంటే వీళ్ళు company pocket లోకి వచ్చినయి, negative అంటే company pocket నుంచి బయటికి వెళ్ళినయి, okay.
+[0:10:30] But each category లో positive ఉంటే company కి healthy ఆ, negative ఉంటే company కి healthy ఆ, అదొక్కటే మనం discuss చేసుకుందాం, okay.
+[0:10:38] So, first, first ఉన్న category ఏంటి, operating cash flow. ఇక్కడ ఈ column వచ్చేసి positive cash flow ఉంటే దానికి healthy sign ఆ లేదా అనేసి, negative cash flow ఉంటే అది healthy sign ఆ లేదా అనేసి first operating cash flow లో చూద్దాం.
+[0:10:51] ఇక్కడ మీరు simple ఇక్కడ అర్థం చేసుకోవాల్సింది ఏంటి operating cash flow అంటే మన operating days, okay. For example, మనం కొనే goods కన్నా మనం అమ్మే goods positive లో ఉంటే company కి plus ఆ లేదా.
+[0:11:01] So, ఇది positive లో ఉండాలి, operating cash flow అనేది ఎప్పుడూ positive లో ఉండాలి. So, ఇక్కడ అదే చెప్తున్నారు చూడండి, what a positive, okay.
+[0:11:08] అంటే ఈ-ఈ-ఈ column ఏంటంటే positive, ఈ column ఏంటంటే negative, okay. so, ఇక్కడ చూడండి, positive ఉంటే ఏంటి ఇక్కడ healthy sign, core business is profitable and successfully collecting real cash from customers, okay.
+[0:11:21] Negative ఉంటే ఏంటి, red flag అది, core operations are burning cash or money is stuck in unsold inventories and unpaid customer bills, okay.
+[0:11:29] వాళ్ళు P&L లో చూపిస్తారు but ఇక్కడ ఇంకా bills అనేవి company pockets లోకి రాలేదు. So, ఇక్కడ ఏంటి ideal sign for the strong growing company అంటే ఏంటి strongly positive ఉంటే and growing steadily over time అయితే it’s a positive note for a company.
+[0:11:45] Operating cash flow అనేది ఎంత positive ఉంటే ఆ positive అనేది అలా grow అవుతా ఉంటే every financial year, it’s a positive sign. Got it?
+[0:11:52] Next, investing cash flow. So, ఇక్కడ investing cash flow, investing అంటే ఏం మాట్లాడుకున్నాం, okay. అది assets buy చేయటం, అమ్మటం, okay, ఇవన్నీ ఇందులోకి వస్తాయి.
+[0:12:04] So, ఇక్కడ positive ఉంటే మనకేంటంటే, positive అంటే ఏంటి, company is selling off factories, land, subsidiaries or financial investments to bring in cash.
+[0:12:13] మనం positive అంటే ఏమనుకుంటున్నాం company యొక్క profit లోకి వస్తే money దాన్ని positive రాస్తాం అక్కడ అనుకుంటున్నాం. సో ఇక్కడ for example అన్నీ అమ్మేస్తున్నారు వీళ్ళు, factories అమ్మేస్తున్నారు, lands అమ్ముతున్నారు, subsidiaries sell చేస్తున్నారు, ఇవన్నీ sell చేస్తుంటే, okay, వీళ్ళు ఏమీ invest చేయట్లేదు వీళ్ళు future లో, ఇవన్నీ sell చేసుకుంటా వస్తున్నారు, అది negative sign ఆ లేదా company కి?
+[0:12:34] okay, for example ఆ value అనేది negative లో ఉంది, negative లో ఉండటం healthy sign, ఎందుకు? Companies reinvesting cash into new factories, machinery, R&D and technology for future growth.
+[0:12:45] For example, వీళ్ళు for example మరీందొ మరీందో తీసుకుందాం production కి ఆ factory సరిపోవట్లేదు ఇంకో కొత్త factory కొనాలి, so వీళ్ళు profit లోంచి డబ్బులు తీసి ఆ కొత్త factory కి funding ఇస్తున్నారు, so అది positive sign ఏ కదా, so అలా operating cash flow positive ఉంటే numbers అది company కి positive, investing cash flow negative ఉంటే అది company కి positive,
+[0:13:06] ఆ company కి positive. ఇక్కడ చూడండి negative ఉంటే funded comfortably out of operating cash flow, okay, so వీళ్ళకి వచ్చిన డబ్బులు నుంచే, వీళ్ళ pocket లో నుంచి వచ్చిన డబ్బులు నుంచే మళ్ళీ వీళ్ళు future కోసం reinvest చేస్తున్నారు.
+[0:13:18] next, third category ఏంటి? Financing cash flow. సో ఇక్కడ positive ఉంటే ఏంటంటే companies borrowing fresh loans or issuing new shares to fund its operations or expansions, okay.
+[0:13:31] సో for example ఒక company కి డబ్బులు కావాలి, వీళ్ళకి వచ్చేవేవీ సరిపోవట్లేదు, company ఒక bank దగ్గరికి వెళ్లి loan తీసుకుంది, అది company pocket లోకి వచ్చింది, pocket లోకి వచ్చిందంటే ఏంటి మనం అనుకున్నట్టు positive.
+[0:13:42] సో ఇక్కడ positive ఉంటే ఏంటి? Negative company కి, ఎందుకంటే వీళ్ళకి వచ్చేవి అన్నీ సరిపోవట్లేదు వీళ్ళు additional గా loans అనేవి తీసుకుంటా ఉంటున్నారు, okay, got it?
+[0:13:50] అది negative sign. For example వీళ్ళు pocket లోంచి తీసి debts pay చేస్తున్నారు, dividends ఇస్తున్నారు, interest pay చేస్తున్నారు అంటే అంటా healthy sign, company is repaying debt, paying interest and rewarding shareholders with cash dividends.
+[0:14:04] Okay, dividends ఇచ్చినా వీళ్ళ company నుంచే బయటికి వెళ్తున్నాయి కదా, అది కూడా healthy sign ఏ కదా, so అలా ఈ financing లో negative ఉంటే అది healthy sign.
+[0:14:12] Negative for mature, cash rich market lenders that self-fund growth and pay dividends, okay. మనం అనుకున్నది.
+[0:14:20] సో ఇప్పుడు వరకు మనం ఏం discuss చేసుకున్నాం, cash flow అనేసి three categories ఉంటాయి operating, investing, financing.
+[0:14:27] Operating అంటే వీళ్ళ day-to-day activities, వీళ్ళ pocket లో వచ్చే expenses, sorry, operating activities అని simple గా చెప్పాలంటే వీళ్ళ day-to-day activities లో expenses and revenue, got it?
+[0:14:36] Next, investing activity, investing activity అంటే వీళ్ళు ఒక factory కొనాలి, వీళ్ళు company యొక్క future growth కి invest చేస్తున్నారా లేదా అమ్ముకుంటా వస్తున్నారా అన్నది investing activity లో వస్తది.
+[0:14:45] next financing activities అంటే loans తీసుకున్నా, మళ్ళీ loans pay చేసినా, dividends ఇచ్చినా, కొత్త shares issue చేసినా, ఇవన్నీ financing activities లో వస్తాయి, got it?
+[0:14:56] సో next ఏంటి మనం తెలుసుకున్నాం three అంటే ఏంటో, ఇప్పుడు ఏదేది operating cash flow positive ఉంటే మంచిది company కి, investing cash flow negative ఉంటే మంచిది company కి, financing cash flow negative ఉంటే company కి మంచిది, okay.
+[0:15:09] సో ఇక్కడ positive, ఇప్పుడు ఈ రెండు categories positive ఉంటే అది correct కాదు, అదే, అంటే overall positive ఉంటే అది company అనేది bad way లో వెళ్తుందన్నదంటే కాదు.
+[0:15:21] ఒక్కొక్కసారి positive ఉంటది, సో positive ఎక్కడి నుంచి వస్తుంది, ఏం sell చేస్తున్నారు, okay, వీళ్ళు ఎక్కువ factories అయిపోతే వాళ్ళ అవి sell చేస్తున్నారా లేదా వీళ్ళు investments లో మంచి profits వచ్చాక profits ని మళ్ళీ వెనక్కి తీసుకుంటున్నారా అది కూడా in-depth గా వెళ్ళాలి, got it?
+[0:15:37] సో for example ఇక్కడే చూడండి company అంటే చాలా మంచి profits వస్తున్నాయి, వీళ్ళకి వచ్చిన profits, వీళ్ళకి వచ్చిన profits సరిపోవట్లేదు, ఇంకా additional గా తీసుకోవాలి వీళ్ళు, for example ఏదైనా కొత్త land ఏమైనా develop చేయాలంటే, సో అప్పుడు extra loan అనేది తీసుకోవాలి కదా company, సో అప్పుడు ఏమవుతుంది వీళ్ళ pocket లోకి extra money వస్తాయి, సో okay.
+[0:15:55] సో major ఏంటంటే ఇదొక, ఒక funda, okay, maybe ఈ three points ఒక okay ఇలా ఉంటే ఇలా ఉంటాయని ఒక overview వస్తుంది.
+[0:16:03] ఒకవేళ ఇది positive ఉందంటే next breakdown చేసుకుంటాం, okay, balance sheets లోకి వెళ్తాం ఎట్లా ఏమవుతుందనేసి, సో ఇవన్నీ మనం next మాట్లాడుకుందాం, okay.
+[0:16:10] ఇవి three, ఇప్పుడు మనం నేర్చుకున్నవాటిని కలిపి ఎలా use చేయాలన్నది, ఇదంతా మనం నేర్చుకున్నామని చెప్పుకుంటాం, అక్కడ మాట్లాడుకుందాం వాటిని.
+[0:16:17] ప్రస్తుతానికి three ఇలా గుర్తుపెట్టుకోండి. Okay, so అయిది, next step four.
+[0:16:25] సో ఇది ఏంటంటే basic గా, ఉమ్, let me show you one thing, ఒక్క నిమిషం ఉండండి, got it, okay.
+[0:16:35] సో ఇప్పుడు మనం screener లోకి వద్దాం, okay. సో మనం screener తర్వాత మాట్లాడుకుందాం. సో same మళ్ళీ MNM తీసుకుందాం మనం, సో ఇక్కడ ఏమున్నాయని చెప్పాం కదా consolidated statements of cash flow, consolidated statements మాత్రమే చూడాలి, standalone చూడకూడదు, consolidated statements of cash flow.
+[0:16:52] మీరు search చేయండి simple, మనం మాట్లాడుకున్నాం కదా previous videos లో, సో ఇలా వస్తుంది. One minute, okay.
+[0:17:07] సో simple మనం మాట్లాడుకున్నాం ఏంటి మూడు categories, first ఏముంది cash flow from operating activities, same మనం previous P&L balance sheets లో ఏం చేశామో ఇది కూడా అంతే, just ప్రతి line చదువుకోండి, okay.
+[0:17:22] For example ఇదొకటి explain చేస్తా చూడండి, profit before exceptional items, share of profit of associates, joint ventures, tax.
+[0:17:29] మనం P&L లో చేసి తెలుసుకున్నాం కదా ఇదంటే ఏంటో, అది ఎంత వచ్చింది వీళ్ళ pocket లోకి వచ్చిన డబ్బులు ఇవి గుర్తుపెట్టుకోండి, twenty three thousand five hundred and twelve crores, got it?
+[0:17:40] Next, adjustments for depreciation, amortization and impairment expenses. మనం ఇందాకేం మాట్లాడుకున్నాం P&L లో depreciation, amortization, impairment expense అంటే అది real గా వీళ్ళ pocket నుంచి బయటకు వెళ్ళలేదు, అదొక tax benefit కింద వాళ్ళు use చేసుకుంటున్నారు ఆ loophole ని, సో అది real గా వీళ్ళ pocket నుంచి బయటకు వెళ్ళలేదు కదా, అక్కడ ఎంత చూపించింది negative, seven thousand three hundred and twenty two crores negative
+[0:18:00] చూపించింది కాకపోతే real గా వీళ్ళ pocket లోంచి వెళ్ళలేదు, అది కూడా positive, okay, అది కూడా add చేసుకుంటాం operating activities లో. next, loss or gain on foreign exchange fluctuations and other adjustments, for example వీళ్ళు బయట నుంచి ఏవన్నా import చేసుకున్నారు అనుకోండి వాటికి dollars లో pay చేయరు కదా, సో foreign exchange fluctuation ఉంటది కదా, అందులో loss అయింది P&L లో చూపిస్తున్నాం, కాకపోతే ఏంటి వీళ్ళ
+[0:18:20] pocket లోంచి వెళ్ళలేదు కదా. ఆ adjustments fluctuation చూపించుకుంటున్నారు వీళ్ళు but వీళ్ళు pay చేసిన real money వీళ్ళకి expense లోకి వస్తది.
+[0:18:29] ఇది additional గా వీళ్ళు చూపించుకుంటున్నారు. అది కూడా add చేసుకుంటాం. వీళ్ళు real గా వీళ్ళ pocket లోంచి అయితే వెళ్ళింది కాదు కదా. for example, మీకు example చెప్పాలంటే, ఆ, అంటే ఇది అవ్వదు but నేను చెప్తున్నా, for example మీకు dollar లో వాళ్ళకి డబ్బులున్నాయి.
+[0:18:45] okay. ఒక hundred dollars ఎంతో ఉన్నాయి వాళ్ళ other overseas bank accounts లో వాళ్ళకి pay చెయ్యడానికి. so అక్కడ ఉన్నప్పుడు మీకిక్కడ rupee value అనేది బాగా భిన్నంగా పడిపోయింది.
+[0:18:57] for example, అంటే ఏందంటే, అవ్వదు but example చెప్తున్నా, seventy rupees కి వచ్చేసింది. seventy rupees కి వస్తే వీళ్ళు ఏం చూపిస్తారు foreign exchange fluctuation అనేది వల్ల ఈనాటికి ten rupees, twenty rupees loss వచ్చింది.
+[0:19:07] అనగా అది expense గా చూపిస్తారు కాకపోతే అది real గా expense కాదు. got it. అలా ఇవన్నీ positive అయిడవుతుంది.
+[0:19:15] so next ఏంటంటే gain or loss on fair valuation of compulsory convertible preference shares. so ఇది కూడా అంతే, ఇది చూపించారు.
+[0:19:24] అక్కడే చూపించారు కాకపోతే ఇది వీళ్ళకి negative. వీళ్ళ pocket లోంచి బయటికి వెళ్ళింది. so అందరికీ ఇక్కడ negative చూపించారు.
+[0:19:32] next, income from investments related to subsidiaries, associates and joint ventures. so ఇక్కడ మనం ఏం మాట్లాడుకున్నాం income from investments related to subsidiaries, associates and joint ventures.
+[0:19:44] let me share P&L. so P&L report దగ్గరకి వెళ్దాం. so ఇక్కడ ఏం వచ్చింది, okay, ఎంత ఇక్కడ ఉంది eight forty five crores ఉంది కదా ఇక్కడ వీళ్ళు చూపించుకున్నది.
+[0:19:55] ఇక్కడ near three, నిజంగా వీళ్ళ pocket లోకి వచ్చినయా అంటే, రాలేదు. so అందుకు negative. got it?
+[0:20:01] so P&L కి cash flow కి మీకు difference తెలిసింది కదా. అక్కడ చాలా చూపిస్తారు కాకపోతే real గా వీళ్ళ pocket లోకి వచ్చినయా లేదా అన్నది cash flow లో తెలుస్తుంది.
+[0:20:10] pocket లోకి రాలేదు so negative వేశారు eight forty five crores. loans from investments related to subsidiaries, associates and joint ventures.
+[0:20:18] okay. loss from, sorry, loss from investments related to subsidiaries, associates and joint ventures. so ఇది real గా జరిగింది.
+[0:20:25] so ఇక్కడ add చేశారు. got it. ఇలా మీకు అర్థమైంది కదా. so ఇలా ప్రతిదీ చదవండి.
+[0:20:32] మీకేమన్నా doubt ఉంటే ఇందులో నాకు message చెయ్యండి, DM చెయ్యండి, నేను మీకు explain చేస్తా detail గా. ఏమన్నా for example, ఇది అర్థం కాలేదు, ఇది ఎందుకు positive ఉన్నది, loss అని చూపిస్తుంది కదా ఎందుకు positive అని, ఇవన్నీ నాకు ఒకసారి message చెయ్యండి ఏమన్నా అర్థం కాకపోతే, నేను మీకు detail గా explain చేస్తా.
+[0:20:45] got it. so ఇలా మీకు real గా మీ pocket లోకి వచ్చినయి, real గా మీ pocket లోంచి బయటికి వెళ్లినయి cash flow లో తెలుస్తుంది simple గుర్తుపెట్టుకోండి.
+[0:20:52] got it. so ఇలా చదవండి simple. next, net cash flow from operating activities మొత్తం అన్నీ పోగా ఎంత వచ్చింది real money వీళ్ళ pocket లోకి, eleven thousand six hundred fifty seven crores.
+[0:21:05] got it. అంటే ఇది ఏంటంటే మీకు ఆ difference అన్నమాట. నేను మీకు next video లో చెప్తా, అది కొంచెం పొద్దిగా మళ్ళీ ఇక్కడే చెప్తే మీకు అర్థం కాదు.
+[0:21:16] so next video లో నేను మీకు explain చేస్తా. so ప్రస్తుతానికి net cash flow from operating activities ఎంత వచ్చింది eleven thousand six hundred fifty seven crores different వీళ్ళ pocket లోకి వచ్చింది.
+[0:21:25] got it. cash flow from investing activities same. ప్రతిదీ చదవండి. okay. negative అయితే ఏంటి, positive అయితే ఏంటి, ఇవన్నీ.
+[0:21:33] negative అంటే అయితే మీ pocket లోంచి బయటికి వెళ్ళినట్టు, positive అంటే మీ pocket లోకి వచ్చిందన్నట్టు. got it. అవన్నీ చూడండి. ఇక్కడ net cash flow to investing activities ఎంత minus seventeen thousand.
+[0:21:44] so investing activities లో seventeen thousand crores మీరు పెట్టుబడి పెట్టారు. అంటే మంచి సైనే కదా అది. so next, cash flow from financing activities.
+[0:21:56] so same, ప్రతిదీ. got it. negative ఉంటే మీ pocket లోంచి బయటికి వెళ్ళింది, positive ఉంటే మీ pocket లోకి వచ్చింది. got it.
+[0:22:02] ఇక్కడ ఏముంది, మనకి net cash flow from financing activities ఎంత, positive ఉన్నది. so positive ఉంటే ఏమనుకున్నాం, one minute, okay, positive ఉంటే ఏమనుకున్నాం, maybe company అనేది ఎక్కువ loans తీసుకుంటుంది, కొంచెం అది ఒకసారి చూడాలి.
+[0:22:21] అనగా ఏమనుకున్నాం in-depth అసలు ఎందుకు వాళ్ళకి positive వచ్చిందనేసి. మనం ఇక్కడ చూసుకుందాం. ఎక్కడ వీళ్ళకి heavy గా డబ్బులు, ఎక్కడి నుంచి వచ్చినాయి అంటే, అంతా negative, negative, వీళ్ళకి heavy వీళ్ళ pocket లోకి వచ్చిన డబ్బులు ఎక్కడ proceeds from borrowings.
+[0:22:35] వీళ్ళు loan తీసుకుంటున్నారు. loan తీసుకుంటున్నారంటే company P&L statements లోకి వెళ్తాం, balance sheets లోకి వెళ్తాం. అక్కడ assets పెరుగుతున్నాయా లేదా, లేదా వీళ్ళు loan తీసుకుని మళ్ళీ loans repay చేయడానికి కొత్త loans తీసుకున్నారంటే అది bad sign.
+[0:22:47] లేదు ఎక్కువ loans తీసుకుంటున్నారు, అది assets లోకి factories అన్నీ build చేయడానిలోకి వెళ్తున్నాయంటే balance sheet లో తెలుస్తుంది కదా మనకి. so balance sheet లోకి వెళ్ళి, okay ఇక్కడ assets లో ఈ factories అన్నీ build చేయడానికి ఎక్కువ invest చేస్తున్నారు.
+[0:22:58] okay, it's a good sign. company అనేది revenue పెరుగుతుంది. బయటది చూస్తున్నాం Mahindra and Mahindra ఎంత growth ఉందో, cars అవి sales ఎలా అవుతున్నాయో.
+[0:23:05] so it's a positive sign. so అలా company company బట్టి మీరు ఇవన్నీ కలుపుకొని analysis చేసుకోవాలి. got it.
+[0:23:13] so net cash flow positive ఉన్నది. ఇక్కడ చూడండి ఎంత తగ్గిందో, previous fifteen thousand crores ఉండేది.
+[0:23:20] so ఇక్కడ తగ్గింది. so తగ్గింది అంటే వీళ్ళు కొంచెం తగ్గించుకుంటున్నారు అనే కదా, repayment ఎక్కువ ఎక్కువ జరుగుతుంది అనే కదా. ఇక్కడ చూడండి repayments of borrowings.
+[0:23:28] last financial year sixty four thousand కొడితే, ఈ financial year కొంచెం seventy two thousand pay చేశారు. so మంచి సైనే కదా అది. so ఇలా ఇవన్నీ కలపాలి.
+[0:23:36] ఈ cash flow చూశారు positive. okay, వీళ్ళు loans ఎక్కువ తీసుకుంటున్నారు కదా, అవి ఎక్కడికి వెళ్తున్నాయి అసలు. కొత్త loans pay చేయడానికే, అదే పాత loans pay చేయడానికి కొత్త loans తీసుకుంటున్నారా, లేదా అదంతా investments లోకి వెళ్తుందాయా.
+[0:23:49] got it. అది ఎక్కడ తెలుస్తది మనకి, balance sheets లో తెలుస్తుంది assets లో. got it. okay. so మీకు, ఆ, నేను మీకు ఇక్కడ చూపిస్తాను ఒక overview ఇవ్వడానికి.
+[0:24:02] for example M&M నే తీసుకుందాం. M&M. okay.
+[0:24:10] so first first ఒక investor అనేవాడు ఎక్కడికి వస్తాడు, cash flow లోకి వస్తాడు. cash flow అనేది, so ఇక్కడ net cash flow అనేసి ఉంటది.
+[0:24:17] net cash flow అంటే ఏంటంటే ఇవన్నీ plus చేస్తారు. ఆ plus చేసినప్పుడు positive ఉంటే వీళ్ళు growth అనేది మంచిగా ఉన్నట్టు మనం అర్థం చేసుకోవాలి.
+[0:24:25] ఒకవేళ positive లేదంటే ఎక్కడ ఎక్కువ డబ్బులు పోతున్నాయి, so అవి మంచిదానికే వెళ్తున్నాయా లేదా waste గా మనీ అనేది...
+[0:24:33] పోగొడుతున్నారా వేస్ట్ గా మనీ పోగొడుతుంటే ఈ company నుంచి దూరంగా ఉండాలి. లేదు మంచి వాటిలోకి investments వెళ్తున్నాయి factories build చేస్తున్నారు sales growth అవుతున్నాయి అంటే అంటే కొంచెం మంచిది.
+[0:24:42] For example Mahindra and Mahindra చూడండి. Okay, twenty-- 2015 నుంచి చూడండి. సో, ఇక్కడ ఒక formula ఉంటది.
+[0:24:49] ఏం చేయాలి అంటే, ఇప్పుడు ఇవన్నీ ఉన్నాయి కదా so far, ఇవన్నీ add చేస్తాం. ఇవన్నీ plus చేస్తాం.
+[0:24:56] అలా ఇవన్నీ plus చేస్తాం. Plus చేశాం ఒక values వస్తాయి కదా, ఆ values అన్నీ plus చేశాక మీకు net cash flow అనేది positive రావాలి.
+[0:25:04] Positive వచ్చిందంటే company అనేది company చాలా మంచిది. ఆ అసలు negative వస్తే company మంచిది కాదా అంటే అది కూడా మంచిదే.
+[0:25:11] వీళ్ళు investing activity ఎక్కడికి వెళ్తుంది, ఈ company యొక్క journey ఎలా start అయింది, ఇప్పుడు ఎలా ఉంది.
+[0:25:18] Mahindra and Mahindra journey చూసుకోండి. Initial గా ఎవరైనా buy చేసేవారా? లేదు. తర్వాత, తర్వాత buy చేస్తున్నారా లేదా?
+[0:25:24] అది మీకు ఎక్కడ తెలుస్తుంది? P&L statement లో. Shares ఎంత, ఎంతలా పెరిగినయో. పెరిగినయా లేదా? సో, shares పెరుగుతున్నాయి okay.
+[0:25:31] మరి cash flow ఎందుకు అలాగే ఉన్నది. Okay. ఇక్కడ March 20, 2016 negative ఎందుకు వచ్చింది, ఇక్కడ negative ఎందుకు వచ్చింది అంటే ఇక్కడ ఏముంది cash from investing లో negative ఎక్కువ ఉన్నది.
+[0:25:41] సో, వీళ్ళు ఎక్కడ, ఎక్కడ బాగా negative అయింది అండి చూడండి. ఇక్కడ ఏంటి investments purchased, ఇంత investments sold.
+[0:25:49] సో, ఇక్కడ net net కలిసిపోయండి. Okay. సో next, ఇక్కడ ఇంకా additional input వచ్చింది చూడండి fixed assets purchased.
+[0:25:56] సో, fixed assets purchased ఎంత nine thousand crores ఉన్నది. But ఇక్కడ చూడండి, ఇక్కడ ఎంత మీకు మిగిలింది three thousand crores మిగిలింది కదా.
+[0:26:03] సో, okay. ఇక్కడ ఆ three thousand post చేస్తే ఇంకా additional ga five thousand crores అనేది వీళ్ళు additional గా డబ్బులు add చేసి ఎక్కడో buy చేశారు.
+[0:26:12] వీళ్ళకి interest వచ్చింది fifteen hundred crores. Next dividends, dividend received, dividends for one hundred వచ్చింది.
+[0:26:20] Okay. Next వీళ్ళకి minus-- positives ఎక్కడెక్కడ వచ్చినాయి. Okay, redemption of shares two thousand two hundred వచ్చింది.
+[0:26:27] Next acquisition of companies, companies acquire, acquire చేస్తున్నారు. ఎంత? చాలా heavy invest చేశారు ఇప్పుడు వచ్చి. Okay.
+[0:26:34] Eight hundred and eighty five crores invest చేశారు. Okay, it's a good sign. Next, other investing, other investing items.
+[0:26:40] సో, previously అన్ని years లో చూసుకున్నట్లయితే, ఈ year లో fifteen thousand crores invest చేశారు. సో, సో, మీకు ఇది తెలియాలి.
+[0:26:48] Other investing items అంటే ఏంటి? ఎందులో invest చేశారు వీళ్ళు అసలు. Simple, cash flow statement కి వస్తారు. ఇక్కడ ఏమున్నది.
+[0:26:58] One minute. సో, ఎక్కడ ఇది? Investment దాంట్లో కదా. సో, financing activity, investing activity.
+[0:27:09] సో, ఇక్కడ heavily బయటికి ఎక్కడ వెళ్ళలేదు. One minute.
+[0:27:24] Okay, here it comes. Purchase of investments in joint ventures and associates seven eighty four crores. Got it.
+[0:27:31] Next purchase considered- consideration paid for acquisition of subs-subsidiaries net of cash acquired eight eighty five crores.
+[0:27:39] Okay, ఇదంతా మంచి సైన్ నే కదా. Okay. సో, ఇలా మీరు ఒక్కొదాన్ని ఒక్కొటి compare చేసుకుంటా వెళితేనే మీకు ఒక knowledge అనేది వస్తది.
+[0:27:49] లేదు, ఇక్కడ negative ఉన్నది, negative ఉంటే మంచిది కాదు అంటే అసలు ఎందులో invest చేశారో చూడండి. For example, ఉమ్, ఏదో ఒక factories ఏవో purchase చేశారు, ఏదో చేశారు.
+[0:28:01] అది other, other investing items లో పెట్టారు అనుకోండి. ఏదో land కొన్నారు future ఒక ten years తర్వాత, five years తర్వాత అక్కడ factory కట్టాలనుకున్నట్టు.
+[0:28:08] సో, ఇలా ఎందులో invest చేశారు, ఎందుకు fifteen thou- ఇప్పుడుకొచ్చి ఎప్పుడూ అంతలా invest చేయలేదు, ఎందుకు ఇంత investments అయినాయి అది మీరు చూసుకోవాలి.
+[0:28:15] చూసుకోండి. అది ఒక good sign అంటే okay, good sign. Company అనేది వీళ్ళ future కి future planning బాగున్నది.
+[0:28:22] సో, ఈ company కి revenue, P&L కూడా పెరుగుతుంది. సో, balance sheet చూడండి ఇక్కడ. ఇలా ఒక్కటి ఒక్కటి compare చేసుకోవాలి.
+[0:28:28] Balance sheet చూడండి ఇక్కడ. first మనం ఏం చూస్తాం? Assets చూస్తాం. Assets ఏంటి? పెరుగుతున్నాయా లేదా?
+[0:28:35] పెరుగుతున్నాయి కదా. Next liabilities ఏంటి, liabilities కూడా పెరుగుతున్నాయా లేదా వీళ్ళతో పాటు. అది చూస్తాం.
+[0:28:43] Next. ఉమ్, liabilities లో ఏదేం liabilities ఉన్నాయి. Okay? అది కూడా చూస్తాం వెళ్లి.
+[0:28:51] Got it. సో, ఇలా మీరు general ఒక formula అంటూ ఉండదు, okay, fundamental analysis చేయడానికి. మీరు general first, first మీకు కావాల్సింది ఏంటంటే cash flow లోకి వస్తాం.
+[0:29:00] Cash flow లో చూసుకుంటారు. చూసుకుంటే ఎక్కడెక్కడ, ఎక్కడ మనకి negative signs కనిపిస్తున్నాయి, okay, వెంటనే P&L కి వెళ్తారు.
+[0:29:08] P&L కి వెళ్లి okay, అంతా బానే ఉన్నదా, profits అన్నీ బానే వస్తున్నాయా, growth ఉన్నదా company లో. Okay. సో, ఇప్పుడు అసలా డబ్బులు రా, వీళ్ళ pocket లోకి రావట్లేదు కదా.
+[0:29:17] సో, ఎందుకు ఇంత investing లోకి ఎందుకు ఇంత negative వెళ్తుంది. వీళ్ళకొచ్చిన operating revenue మీద ఇంకెందుకు ఇంకా additional గా invest చేస్తున్నారు, ఎక్కడ invest చేస్తున్నారు.
+[0:29:26] అదెక్కడ invest చేస్తున్నారో తెలియాలంటే balance sheetస్ కొస్తారు, assets లో చూస్తారు, liabilities లో చూస్తారు. Got it.
+[0:29:34] సో, ఇలా ఒక్కటి ఒక్కటి compare చేసుకుంటా మీరు build చేసుకోవాలి fundamentals ఎలా చేయాలనేసి. అది మనం next videos లో discuss చేసుకుందాం.
+[0:29:41] సో, మనకి మిగిలింది ఏంటి? Ratios. Ratios చదువుకున్నాక, sorry, ratios నేర్చుకున్నాక మనకి మొత్తం ratios అయిపోతాయి, cash flow అవుతుంది, balance sheet అవుతుంది, P&L అవుతుంది, quarterly results అవుతుంది.
+[0:29:54] మొత్తం అంతా అయిపోయింది మనకంతే. That's it. అయిపోయాక మనమేం చేస్తామంటే, ఇప్పుడు ఈ video అయిపోయింది కదా, ఈ video తర్వాత మనం ratios వస్తాయి.
+[0:30:02] Ratios video అయిపోయిన తర్వాత its cleaner గా మొత్తం ఇవన్నీ ఎలా combine చేసి చదవాలి. Okay, and also మీరు ఎలా అర్థం చేసుకోవాలి company ని.
+[0:30:10] ఒక్కొటి negative ఉంటాయి. Negative ఉన్నా మీ company తో ఒక future మీకొక ఉన్నది. ఒక ఇది ఉన్నది. Okay, ఈ company ఇలా ఇలా చేస్తే ఉంటది, ఇలా ఉంటది అని మీకొక point of view ఉన్నది.
+[0:30:19] అప్పుడు కూడా invest చేస్తారు. Got it. జియో ఫైనాన్స్ ఉంది. జియో ఫైనాన్స్ తీసుకోండి. జియో ఫైనాన్స్ అనేది మీరు financials చూస్తే completely ఇదికొచ్చి money అంతా Reliance నుంచి డబ్బులు తెచ్చిపెట్టుకుంటున్నారు ఇందులో.
+[0:30:30] Okay. మీకు for example cash flow చూపిస్తా చూడండి. Cash flow చూడండి ఎంత దారుణంగా ఉన్నదో. ఫైవ్టీన్ తౌసండ్ కోర్స్ నెగిటివ్ లోకి వెళ్తున్నారు వీళ్ళు ఫ్రీ-ఫ్రీ క్యాష్ ఫ్లో లో.
+[0:30:41] నెట్ క్యాష్ ఫ్లో లో ఎంత ఉన్నారు ത്രീ లాక్ త్రీ. సో, ఇక్కడ ఎక్కడ, ఎక్కడ మీకు ఇక్కడ ఎక్కడ తప్పు జరుగుతుంది? ఆపరేటింగ్ యాక్టివిటీస్ లో నుంచి అసలు ఏమీ రావట్లేదు డబ్బులు వీళ్ళ పాకెట్ లోకి.
+[0:30:50] లోన్స్ అడ్వాన్సెస్ ఉన్నాయి. బట్, ఓకే. సో, ఇంత ఉన్నప్పుడు మీకు ఏమిటి?
+[0:30:58] ఉమ్, సో, మీకు ఇందులో positive ఏం చూశాను అంటే నేను, వీళ్ళు BlackRock తో tie-up అయ్యారు.
+[0:31:05] ఓకే. వీళ్ళు broking firm లోకి రావాలనుకుంటున్నారు. అండ్ వీళ్ళది customer base అంటారు చాలా ఎక్కువ ఉంది Jio నుంచి. అంటే customer base ఉంది వీళ్ళ దగ్గర.
+[0:31:14] ఓకే. well reputed companies BlackRock ఈ వీళ్ళు combine అవుతున్నారు. ఈ broking, financing activities లో మొత్తం, mutual funds దాంట్లో.
+[0:31:20] సో, it's a positive sign కదా. సో, if everything works out ప్రతిదీ బాగుందంటే it will be next Bajaj Finance. ఉమ్.
+[0:31:27] నేను ఆ opportunity ని చూసి invest చేశా. ఇప్పుడు valuations ఎక్కువ వీళ్ళవి eighty three PE ఉన్నది. ఓకే, అండ్ also P&L చూసుకోండి.
+[0:31:35] P&L ఎంత పెరుగుతున్నాయి అంటే super పెరుగుతున్నాయి. But కానీ balances చూసుకుంటుంటే, cash flow చూసుకుంటుంటే వీళ్ళ pockets లోకి రావట్లేదు ఇంకా.
+[0:31:43] ఏదైతే వీళ్ళు-- మీరు మహీంద్రా & మహీంద్రా లో మాట్లాడుకున్నాం కదా. వీళ్ళు pocket లోకి రాకుండా ఇంకా sales అయినాయి but వీళ్ళ pocket లోకి ఇంకా money రాలేదు.
+[0:31:51] సో, ఇవన్నీ. got it. సో, లేదు వీళ్ళు financing ఎక్కువ బయటకి ఇచ్చేస్తున్నారు.
+[0:31:58] ఇంకా వీళ్ళ దగ్గరికి రాలేదు. అవన్నీ బయట ఉన్నట్టే కదా. ఆ analysis చేయాలి. మీకు each company కి, each sector కి మీకు మారుతా ఉంటాది.
+[0:32:06] negative ఉంటే positive. ఇక్కడ ప్రతి దాంట్లో మీకు sector ఏంటంటే sector to sector మీకు మారుతా ఉంటుందన్నమాట.
+[0:32:14] మీకు negative ఉంటాయి ఏంటి, positive ఉంటాయి ఏంటి. ఓకే. సో, ఇది మీకు practice చేస్తే వస్తాది.
+[0:32:20] ఓకే, ఇప్పుడు చూశారు. కొంచెం confuse ఉంటాది. తప్పేం లేదు. first time చూసినప్పుడు అలాగే ఉంటాది. సో, చూడండి.
+[0:32:27] నాకు DM చేయండి. మీకు కావాలంటే sheet నేను మీకు పంపిస్తాను. next మీకు general గా ఏదో ఒకటి open చేయండి. మనం M&M discuss చేసుకుందాం కదా M&M open చేయండి balance sheet.
+[0:32:35] చదవండి. ఇదంతా చూడండి. మీకేమైనా doubt వస్తే నన్ను అడగండి. ఇక్కడ ఏంటి? ఇక్కడ negative ఎందుకు వచ్చింది? positive ఉండాలి కదా అని. అడగండి. నేను మీకు explain చేస్తా in detail.
+[0:32:44] ఓకే. next Screen up లోకి వస్తారు. కానీ, అన్నీ కలపడానికి నేర్చుకోండి. free గా ఉన్నారు కదా ఈరోజు Sunday కదా.
+[0:32:50] for example మీరు weekdays లో చూడండి next వేరే, వేరే ఎప్పుడో చూస్తుంటే video. compare చేయడం చూడండి cash flow ని, balance sheet ని, P&L ని కలిపి చూట్టానికి try చేయండి.
+[0:33:00] ఓకే. practice. మీరు practice చేస్తేనే profitable అవుతాది. అది మాత్రం గుర్తుపెట్టుకోండి. ఓకే. సో, ఇప్పుడు ఇది అయింది కదా ba-cash flow.
+[0:33:08] cash flow తర్వాత మనం ratios చూస్తాం. ratios అయితే ఇక అయిపోయినట్టే fundamental analysis మొత్తం. ఓకే. next ఒక video లో Screen up నుంచి ఎలా compare చేయాలి, మొత్తం అన్నీ కలిపి ఎలా చూడాలి అనేసి అంటే మన view ఎలా ఉండాలి ఒక company కి అనేసి next మనం discuss చేసుకుందాం.
+[0:33:22] ఓకే. ఓకే guys. సో, మీరు practice చేయండి. practice చేసి మీకేమైనా doubts ఉంటే నన్ను అడగండి. నేను మీకు clear గా explain చేస్తా.
+[0:33:30] ఓకే. సో, మీరు practice చేస్తేనే profitable అవుతారు. అది మాత్రం గుర్తుపెట్టుకోండి. ఓకే guys. Thank you, bye.
+[0:33:36] next video లో కలుద్దాం మళ్ళీ.
