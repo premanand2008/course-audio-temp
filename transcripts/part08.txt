@@ -1,0 +1,74 @@
+# Course part 8 transcript (ElevenLabs scribe_v2, Telugu+English), duration 933s
+[0:00:11] ఓకే సో ఈరోజు ఏంటంటే మనం బేసిక్ గా entire swing trading course తర్వాత options selling strategies entire ఆ topic by topic ఏ topic discuss చేస్తామో నేను ఈరోజు చెప్తా, రేపటి నుంచి start చేద్దాం అని.
+[0:00:26] సో బేసిక్ గా మనం దీన్ని complete swing trading గాని options గాని రెండు three parts into divide చేసుకుందాం. technical analysis, fundamental
+[0:00:46] analysis, strategy. so technical analysis ఏం చేస్తామంటే first ఒక brief issue, ఒక brief discuss చేసుకుందాం,
+[0:01:07] basics అనేవి మొత్తం what is technical analysis అనేసి. different different indicators అవన్నీ ఒకసారి basics అనేవి discuss చేసుకుంటాం.
+[0:01:16] ఆ తర్వాత complete scratch నుంచి how to draw support resistance, trend lines.
+[0:01:31] okay. so ఈ three from basics scratch నుంచి మనం ఈ three supports, resistance, trend lines discuss చేసుకుంటాం.
+[0:01:39] and ఇది రెండు topics అయిపోయిన తర్వాత main candlestick patterns. సో కొన్ని set of patterns ఉంటాయి, అవి ఆ candlesticks patterns గురించి మనం deep గా discuss చేసుకుంటాం.
+[0:01:53] దాని తర్వాత price journey. stock యొక్క price journey ని మనం ఎలా predict చేయాలి, and previously అయిన journey ని మనం ఎలా చూడాలి, అది కూడా into ఒకసారి తెలుసుకుం-తెలుసుకుంటాం.
+[0:02:05] so technical analysis ఈ three, three అయ్యేటప్పటికి ఏంటంటే మీకు entire overview వస్తదన్నమాట how, how we should do technical analysis అనేసి ఒక stock కి.
+[0:02:14] so technical analysis చేస్తాం but ఆ stock fundamentally strong ఉందా లేదా company revenues అన్నీ బాగున్నాయా లేదా అన్నది తెలుసుకోవడానికి fundamental analysis కూడా చేయాలి.
+[0:02:24] so swing trading లో మనం fundamental, fundamental analysis ఎలా చేయాలనేసి basic discuss చేసుకుంటాం first.
+[0:02:36] అంటే ఎలా చేయాలనేసి, okay. so ఒక్కొక్క దానికి ఒక్కొక్క type of fundamental analysis ఉంటది for example long term investment కి ఒక type of fundamental analysis ఉంటది short terms కి ఒకటి ఉంటది swing trading కి ఒకటి ఉంటది so okay.
+[0:02:49] so అలా మనం చేసే trading strategy కి ఏ type of things చూడాలి fundamental analysis లో, అవన్నీ మనం discuss చేసుకుంటాం ఇక్కడ.
+[0:03:04] next వచ్చేసి complete fundamental terms. కొన్ని terms ఉంటాయి కదా PE ratio గాని revenues గాని ఆ terms అన్నీ one by one discuss deep గా discuss చేసుకుంటాం.
+[0:03:15] so next వచ్చేసి, so ఈ entire ఒక fundamental list ఉంటది కదా ప్రతిదీ, so అందులో మనం ఏమేం చూడాలి, ఏమేం neglect చేయొచ్చు, so అవి ఇక్కడ చూసుకుంటాం.
+[0:03:33] okay so ఈ three topics అనేవి, అంటే first ఏంటి swing trading లో మనం fundamental analysis, fundamental analysis ఎంత importance ఇవ్వాలి, మనం ఏమేం చేయాలన్నది ఇక్కడ చూసుకుంటాం swing trading.
+[0:03:43] second వచ్చేసి ప్రతి terms ఉంటాయి కదా, ప్రతి term మనం deep గా discuss చేస్తామన్నమాట. so next వచ్చేసి swing trading లో మనం ఏం చూడాలి, ఏమి neglect చేయొచ్చు so అవి కూడా deep గా discuss చేసుకుంటాం.
+[0:03:56] so ఆ తర్వాత, so ఇక్కడ మనకి technical part అయిపోయింది fundamental part అయిపోయింది, so basic గా మీకు technical analysis చేయటం వచ్చింది fundamental analysis చేయటం వచ్చింది so ఇప్పుడు strategy దగ్గరికి వస్తాం finally okay.
+[0:04:13] strategy లో sideways market లో ఒక strategy ఉంటది, అంటే మనం ఇప్పుడు చేసేది. second, bull run strategy ఒకటి ఉంటది next.
+[0:04:31] worst case లో మనం ఎలా prepare అవ్వాలి so మనం దాని నుంచి ఎలా బయటపడాలనేసి last లో మనం discuss చేసుకుంటాం. so ఇలా entire three parts లో మన entire course అనేది ఉంటదన్నమాట.
+[0:04:42] so అర్థమైంది కదా అందరికీ. so ఇది swing trading. okay so ఇప్పుడు options selling లో ఏమి నేర్చుకోవాలో
+[0:05:02] అనేసి చెప్తా. so options selling అదే options గురించి అంతా basics మొత్తం entire ఒక idea ఉన్నదనే నేను అనుకుంటున్నా, అక్కడి నుంచే చెప్దామనుకుంటున్నా.
+[0:05:13] so first మనం చూడాల్సింది CPR గురించి చూస్తాం central pivot points.
+[0:05:27] pivot points అంటారు okay so దాని గురించి చూస్తాం. next వచ్చేసి Vega analysis అనేసి ఉంటది.
+[0:05:42] call vega, put vega, vega defense.
+[0:05:55] దీని తర్వాత volume profile. దీని తర్వాత footprint charts.
+[0:06:10] సో once ఈ four అనే వాటిని గురించి మీరు deepగా ఒకసారి తెలుసుకున్నాక తర్వాత final ఈ fourని combine చేసి మనం ఎలా Nifty లో entries తీసుకోవాలన్నది మనం decide అవుతాం.
+[0:06:20] Okay. సో option selling అనేది ఈ four topics మీద depend అయి ఉంటుందన్నమాట option selling strategy. Okay.
+[0:06:29] first మనం swing trading complete చేస్తాం completeగా. సో next option selling direct strategyలోకి వెళ్తాం. strategyలో మనం use చేసేది CPR pivot points, Vega analysis, volume profiles, footprint charts.
+[0:06:43] ఈ four combine చేసి ఆ four మనకి satisfy చేస్తుంటే ఒక్కొక reasons నేను చెప్తాను ఏమేం చూడాలనేసి. ఆ four మనకి satisfy అవుతున్నప్పుడే మనం sell చేస్తాం.
+[0:06:53] Seventy percent probability ఉంటది. Sixty-five to seventy percent. ఇది back test చేశారా selling strategy?
+[0:07:04] ఆ చేశాం. Okay. ఆ around return ఎంతుంటది seventy percent win probabilityలో?
+[0:07:12] ఉమ్మ్ అంటే one is to two దొరుకుతాయి మీకు. Okay. ఉమ్ seventy percent అయితే పక్కా ఉంటది.
+[0:07:20] ఆ, ఆ. ఉమ్ Return percentage ఎంత capital deploy చేసిందాంట్లో roughగా? ఉమ్ మీకు monthly around selling కదా ఇది?
+[0:07:35] ఆ, ఇది intraday చేస్తాము and only naked selling. ఆ intraday, intraday. naked selling Intraday naked selling కదా so margin ఎక్కువ తీసుకుంటది but మనకి profit probability మంచిగా ఉంటే safeగా చేయొచ్చు.
+[0:07:48] ఆ ఎంత return వస్తుంది అని roughగా? ఉమ్ basic ఆ నేను చేసిందాన్ని నేను ఎంత చేశానంటే ఒక్క నిమిషం చెప్తా ఉన్నానుండి.
+[0:07:57] exact నేను చూసుకుని ఎంత ఒకసారి exact return చెప్తా ఉన్నా. Okay. సో
+[0:08:20] ఇందులో SL వచ్చేసి one percent పెట్టుకుంటారు one percent of capital deployed. సో target వచ్చేసి one is to two పెట్టుకుంటారు.
+[0:08:29] basic మీకు one percent అంటే around twenty-one points, twenty-two points వస్తాయి Nifty లో చెప్తున్నా SL.
+[0:08:37] సో thirty-five to forty points మధ్యలో మీకు target దొరుకుతుంది. అండ్ మీకు returns వచ్చేసి around ఉమ్ ten percent అయితే minimum ఉంటది.
+[0:08:47] ఎందుకంటే మనం ఇక్కడ selling చేస్తున్నాం కదా. ten to twenty percent ఉంటది returns every month. ఈ అంటే ఈ four ఆ ఏవైతే
+[0:09:07] ఉన్నాయో checklist మనకి, only four okay అన్నప్పుడు మనం first trade deploy చేస్తాం కదా. ఉమ్ అంతే, అంతే. అది మనం constantగా check చేస్తూ ఉండాలా or ఆ మనమేమన్నా ఒక alert four.
+[0:09:18] ఆహా, ఆహా అంటే phone alert అని కాదు basic మనం first చూసేది ఏంటంటే CPR pivot levels, volume profiles ఈ రెండు parallelగా observe చేస్తాం.
+[0:09:27] Okay. Okay. సో అక్కడికి వచ్చినప్పుడు volume profilesలో value area high, value area low బయటకు వచ్చేసినప్పుడు ఇవి రెండు first మనం చూసుకుంటాం.
+[0:09:35] ఇవి రెండు బయటకు వచ్చినప్పుడు next Vega analysisకి వెళ్తాం. సో అక్కడ ఒకటి చెప్తా మీకు ఏం చూడాలనేసి. అందులో చూసుకుని ఇప్పుడు footprint chartsలోకి వస్తాం.
+[0:09:44] Okay. Okay. footprint chartsలోకి వచ్చాక అక్కడ మీకు delta value ఎలా ఉన్నది, cumulative delta ఉన్నది, stack imbalance అనేసి ఒకటి ఉంటది.
+[0:09:51] సో basic ఇవన్నీ చూసుకుని last five minutes ఏమవుతుందన్నది చూసుకుని అక్కడ reversal రావడానికి chances ఉన్నాయి.
+[0:09:57] అదొక కొంచెం probability add చేస్తుంది footprint charts అనేసి. Okay, okay. Yeah majorగా మనం చూసేది CPR అదే pivot points standard pivot points అంటారు కదా standard pivot points, volume profiles.
+[0:10:09] ఈ రెండు మనం first చూస్తాము. తర్వాత ఆ levelsకి వచ్చాక అప్పుడు మనం Vega analysis, footprint chartsకి వెళ్తాం. Okay.
+[0:10:17] Yeah. mainly options sellingకి మాత్రమే ఇది buyingకి work out అవ్వదు. buyingకి నేను చేస్తున్నాను Vega analysisలోనే ఒకవేళ work out అయితే అప్పుడు తర్వాత చెప్తా.
+[0:10:29] selling అయితే ఇది work out అవుతుంది. Sure. ఇది back testతో పాటు మీరు కూడా చేశారా liveగా normalగా enter అవ్వడానికి and ఎన్ని నెలల నుంచి try చేశారు?
+[0:10:44] ఉమ్ బానే work out అవుతుందని అనిపిస్తుందా? ఆ actually నా దగ్గర data ఉన్నది sheetsలో నేను entire back test run చేసుకున్నానన్నమాట.
+[0:10:51] basic Okay నేను Vega analysis నా దగ్గర August month అంతా complete data ఉన్నది one, one minute wise. సో ఆ dataతో next open, low, highs ఉంటాయి కదా every minute.
+[0:11:01] సో compare చేసి ఆహా Strategy build చేసుకున్నానన్నమాట. Okay సో ఇది నేను ఈ week, ఆ ఈ week అదే actually last two months నుంచి దీని మీద work చేస్తున్నా.
+[0:11:09] సో ఈ week నుంచి మొదలు పెట్టా. అదే మీకు update చేస్తున్నా కదా daily చేసి. ఆహా ఆ మనకి అలాగే options sellingకి వచ్చేసేటప్పటికి ఎలాగా month అంత అయిపోతది first మనం swing trading అయ్యేటప్పటికి.
+[0:11:22] ten to fifteen hours పడతది swing tradingకి. అంటే bar Discuss Discuss చేస్తాం కదా. అప్పటికీ ఆ ఈ results కూడా వచ్చేస్తాయి.
+[0:11:31] Yeah. Okay. ఉమ్ కానీ work out అవుతుంది. నేను manuallyగా ఒక five, six months వరకు చూస్తా ఉన్నా daily day పన్నా, అదే market hoursలో daily చూస్తున్నా.
+[0:11:43] ఆ సో five, six months వరకు చూశా work out అవుతుంది. Okay. తర్వాత discipline ఉండాలి. మనకి exact ఈ four, four points మనకి okay అంటేనే చేయాలి.
+[0:11:52] లేదంటే ఆ రోజు మనం చేయకూడదు. ఆ type strictగా ఉన్నప్పుడు work out అవుతుంది. Okay. ఇప్పుడు ఏంటంటే reversals predict చేయడానికి try చేస్తున్నాం అనమాట ఇక్కడ.
+[0:12:03] ఉమ్ ఉమ్ ఇవి ఎంత oftenగా వస్తున్నాయి అంటే? ఆ నాకు తెలిసి ఇన్ని four checklist ఉన్నాయి కాబట్టి అంత oftenగా ఉండవు.
+[0:12:12] ఆ daily one trade అంతే. Daily one trade వస్తుందా? Okay. ఉమ్ మనం basically ఏంటంటే ఆ రోజు highest point lowest point predict చేయడానికి try చేస్తున్నాం ఈ four ఉపయోగించి.
+[0:12:27] అంటే ఈరోజు for example నిఫ్టీ ఇక్కడి నుంచి ఒక hundred points పెరిగింది hundred points highest point అని మనం predict చేయగలిగితే అక్కడి నుంచి కిందకి ఒక చిన్న swing కిందకి ఇచ్చినప్పుడు మనం ఆ points capture చేయొచ్చు అది.
+[0:12:42] అది ఎలా చేయొచ్చు అంటే vega difference అనేసి ఉంటాది, so అది highest point lowest points మనం vega difference ద్వారా predict చేయొచ్చు.
+[0:13:03] ok bro continue చేయండి ఉహు అంతే ok swing trading అయితే మనం first అయితే entire swing trading ఏ చూసుకుంటాం ఒక fifteen hours of sessions కావాలి swing trading complete అవడానికి next ఈ option selling వచ్చేసి ఒక five days ఒక five hours five
+[0:13:24] hours ఉంటే complete option selling కూడా అయిపోతాది so entire one month అన్నమాట one month లో మనం swing trading complete చేసుకోవచ్చు option selling strategy complete చేసుకోవచ్చు.
+[0:13:35] ఒక twenty hours twenty hours of classes ఉంటే సరిపోతాయి swing trading and option selling కి. ok so ఇంకా ఏవన్నా doubt ఉందా లేదా option selling అంటే options మరీ basics నుంచి కాకుండా కొంచెం ఇంకా ఏవన్నా ముందర నుంచి చెప్పమంటే కొన్ని అది కూడా add చేస్తాను నేను, మీ
+[0:13:56] ఇష్టం. అంటే basics నుంచి వెళితే కొంచెం time పడతాది- ఆ అంటే మరీ ఆ మరీ అంత basics నుంచి కాదు just ఇంకా కొంచెం ముందర నుంచి మొదలు పెట్టమంటా అన్నేసి.
+[0:14:09] అంటే నేను ఆ mostly ఇక్కడ ఉన్న people మీద depend అవుతది, ఎవరన్నా basics నుంచి అలా కావాలంటే అలా వెళ్లొచ్చు లేదంటే YouTube లో ఒక మంచి ఆ playlist ఏమన్నా basics options ఒకసారి explore చేసి దాని తర్వాత ఇది వింటేనే సరిపోతుంది అనుకుంటున్నా.
+[0:14:23] ఉమ్ just ఇప్పుడు మీరు ఏదైతే చెప్పారో ఇది ఎలాగా follow అయిపోదాం అన్నా just మీరు ఒక్క video separate గా మీరు own గా ఒకటి prepare చేసి common గా అందరికీ ఇచ్చేటట్టుగా basics అని ఒక video పెట్టేసేయండి ఏదైనా separate గా కావాల్సిన వాళ్ళు చూసుకుంటారు లేదంటే direct గా video jump అయిపోవచ్చు.
+[0:14:40] ok done ఎందుకంటే market గురించి already తెలుసు మళ్ళీ మనకి ఆ time waste చేసుకోవడం- ఉమ్ అవునవును అది basically అందరికీ పెట్టేసేయండి common గా అది strategy ఏమీ ఉండదు కాబట్టి ఎవరికైనా help అవుతుంది కదా అని బయట నుంచి.
+[0:14:53] ఆ ok ఈ strategy చూడాలంటే ఏమేమి నేర్చుకోవాలి అనేసి ఒక- ఆ ఇంకా ఒక structure పెట్టేసేయండి. ఆ pdfs లో YouTube videos అయి పెడతాను ఒకవేళ ఎవరన్నా చూడాలనుకుంటే basics ఆ videos చూసుకుంటే సరిపోతుంది.
+[0:15:05] ఉమ్ అదే prerequisites లాగా- ఉమ్ ఇది start అయ్యేలోపు అది చేసుకుందాం. yes ok bro public గా పెడుతున్నప్పుడు ఇంత result వచ్చింది ఇంత అని ఏం చెప్పొద్దు అన్న ఎందుకంటే strike లో పడిపోతాయి మీకు మళ్ళీ.
+[0:15:25] ఉమ్ ఉమ్
