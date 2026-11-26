@@ -1,0 +1,234 @@
+# Course part 15 transcript (ElevenLabs scribe_v2, Telugu+English), duration 3266s
+[0:00:11] ఓకే బ్రో. సో, మనం Technical Analysis complete అయిపోయింది కదా, next Fundamental Analysis లో just ఒక newbie general pipeline చూసే వాళ్ళు ఎలా analysis చేసుకోవచ్చు అన్నది మనం నిన్న discuss చేసుకున్నాం.
+[0:00:22] సో, ఈరోజు ఏంటంటే, ఆ, మనం మొన్న ఏం discuss చేశాం, just general ఒక P&L లో profits ఉండి profits ఎలా చూడాలి?
+[0:00:32] Okay, sales ఎలా చూడాలి? Profits ఎలా చూడాలి? Sales పెరుగుతా profits కూడా, profits పెరగకుండా general flat అయిపోతే మన expenses చూసి చూడాలి అన్నట్టు general basic analysis అనేది చేసుకున్నాం.
+[0:00:45] సో, ఇది basics. అంటే first level వాళ్ళు చేసేది అనమాట. సో, మనం ఈరోజు నుంచి ఏం చేస్తామంటే, ఒక్కొక్క దాన్ని తీసుకుని మనం దాంట్లో deep dive చేస్తాం.
+[0:00:54] For example, ఈరోజు మనం balance sheet అంటే ఏంటి? అందులో ఏమేమి ఉంటాయి అనేది మనం discuss చేస్తాం. రేపు పొద్దున entire P&L మొత్తం ఇవన్నీ ఎలా read చేయాలి అనేది in-depth discuss చేస్తాం.
+[0:01:03] Okay, next quarterly results కూడా అప్పుడే discuss చేస్తాం. సో, అప్పుడు మళ్ళీ ఈ రెండూ ఎలా mix చేయాలనేసి చూశాక, next cash flows గురించి discuss చేసుకుంటాం, next ratios గురించి discuss చేసుకుంటాం.
+[0:01:15] సో, అలా ఇక్కడున్న ఒక్కొక్క, ఒక్కొక్క tile ఒక్కొక్క session కింద మనం discuss చేసుకుందాం. Okay? సో, ఈరోజు వచ్చేసి మనం, ఉమ్, balance sheet discuss చేసుకుందాం.
+[0:01:29] సో, first ఇక్కడ కన్నా first వీళ్ళు reports ఇస్తారు కదా మనకు general గా, ఆ quarterly release చేసినప్పుడు లేదా yearly financial reports release చేసినప్పుడు.
+[0:01:38] సో, ఆ reports మీరు ఎక్కడ చూడాలి అంటే for example, ఇక్కడ ఏ company తీసుకున్నా, ఇక్కడ companies search చేశారనుకోండి, for example ఇది చూశాం. ఇది open చేశాక మీరు బాగా కిందకి scroll చేసుకుంటే, ఇక్కడ మీకు annual reports అనేసి ఉంటాయి.
+[0:01:50] సో, అక్కడ annual report twenty twenty six, twenty twenty five. సో, ఇలా every report అనేసి ఉంటది అనమాట వాళ్ళు submit చేసిందంతా. సో, latest తీసుకుందాం annual report twenty twenty six.
+[0:02:02] Okay, సో, ఇది Godrej Consumer Products ది annual report అనమాట. సో, ఇక్కడ మీరు simple, ఆ, find ఉంటది కదా, లేదా control F నొక్కితే వస్తది కదా, మీరు అక్కడ balance sheet అనేసి type చేశారనుకోండి, okay.
+[0:02:18] సో, ఇక్కడ balance sheet అని type చేస్తే మీకు ఇక్కడ వస్తది కదా, సో, one by one వెళ్ళండి. Okay? మీరు ఇక్కడ ఇలా ఒకటి కనిపిస్తుందనమాట standalone balance sheet.
+[0:02:34] standalone అంటే, అంటే వీళ్ళకి for example different different ఉంటాయి కదా, for example, ఒక product 'A' ఉన్నదనుకోండి, Godrej Consumer Products లో only ఆ sector లేదా ఆ ఒక్క division యొక్క standalone, okay.
+[0:02:49] అలా multiple multiple ఉంటాయి కదా, ఇదేంటంటే, అలా ఒక్కొక్క దానికి ఒక్కొక standalone balance sheet అనమాట. For example, ఇంకా కిందకి రండి.
+[0:03:14] consolidated balance sheet అనేసి ఉంటది. సో, అప్పుడు ఈ consolidated balance sheet అంటే మొత్తం entire company కి సంబంధించిన balance sheet అనమాట.
+[0:03:23] ఒక్క నిమిషం ఉండండి. ఒక్క నిమిషం. Okay.
+[0:03:41] సో, మీరు ఇలా ఇక్కడ పైన control F నొక్కి, అదే something మీకు shortcut ఉంటది కదా Chrome లో, స-- నొక్కితే ఇక్కడ balance sheet అని type చేశాక మీరు ఇలా consolidated balance sheet అన్న heading ఉన్నదాన్ని అక్కడికి రండి.
+[0:03:54] Okay? అక్కడికి వచ్చాక, మీకు ఇక్కడ, ఇక్కడ మీరు, ఆ, ఇక్కడ మనం చూస్తున్నాం కదా, ఉమ్, balance sheet.
+[0:04:04] ఇక్కడ table format లో ఉన్నది. ఇక్కడ వాళ్ళు release చేసింది ఇక్కడ ఉంటదనమాట. Okay, దీని దగ్గరికి వెళ్ళే ముందర, మనం first of all balance sheet లో ఏమేమి ఉంటాయి అనేసి first example చూద్దాం.
+[0:04:13] Okay? ఉమ్, so what is balance sheet?
+[0:04:20] అంటే a snapshot of a company or an individual financial position at a specific point of time.
+[0:04:27] అంటే every financial year తీసుకుంటే, ఆ financial year March దగ్గరికి ఆ company యొక్క snapshot అంటే everything.
+[0:04:35] వాళ్ళ దగ్గర cash ఎంత ఉన్నది, ఎంత liabilities ఉన్నాయి, ఎంత assets ఉన్నాయి, అవన్నీ చూసుకుని ఒక particular time లో ఒక snapshot ఇచ్చేదాన్నే balance sheet అంటారు.
+[0:04:43] either అది particular person, నా balance sheet అన్నా, లేదా ఒక company balance sheet అన్నా, ఆ, entire ఆ person యొక్క snapshot అనమాట financial condition.
+[0:04:53] Okay, simple balance sheet అంటే. సో, basic గా for example, ఉమ్, individual మనం తీసుకుందాం. Okay? మనల్ని తీసుకుందాం.
+[0:05:01] First assets, liabilities అవన్నీ పక్కన పెట్టేయండి. basic గా మన దగ్గర financial thing, అంటే ఒక financial లో మనకి ఏమేమి ఉంటాయి మన దగ్గర?
+[0:05:09] cash in hand, అవునా? next, ఉమ్, ఒకసారి పెద్దది చేస్తా. ఒక cash in hand ఉంటుంది, next savings accounts లో balance ఉంటది, ఒక ఇల్లు ఉంటది, land ఉంటది, ఒక car ఉంటది, bike ఉంటది, EMIs ఉంటాయి, either అది phone అన్నా లేకపోతే
+[0:05:29] ఒక house loan అన్నా, ఏదో ఒకటి. Every month మనకి credit card bills ఉంటాయి. Okay, home loan, పెద్దది తీసుకుని car loans గా divide చేశారు.
+[0:05:38] Okay, సో, ఇవన్నీ మనకి financials లో every each and every thing అనమాట. సో, వీటిని divide చేయాలి. ఎలా divide చేయాలి?
+[0:05:45] Two things కింద divide చేస్తాం మనం. Assets, liabilities. Assets, assets అంటే ఏంటంటే what you own.
+[0:05:53] For example, మీ దగ్గర ఒక car ఉన్నది అనుకోండి, అది asset కిందకు వస్తది. For example, మీ దగ్గర ఒక ten thousand account లో cash ఉన్నది, అది asset కింద వస్తది.
+[0:06:04] For example, మీకు ఒక ఇల్లు ఉన్నది. అదొక asset కింద వస్తది. Okay. మరి liabilities ఏమొస్తాయి, liabilities?
+[0:06:12] For example, మీకొక EMI ఉన్నది. Okay. అది liabilities కింద-- liabilities అంటే what you owe. మీద-- మీ pocket నుంచి బయటకు వెళ్ళేవన్నమాట.
+[0:06:21] మీకొక bike EMI ఉంటది. Okay. అది liability కింద వస్తది. Car EMI ఉంటది. అది liability కింద వస్తది.
+[0:06:28] For example, every month మనం credit card use చేస్తాం. అది liability కింద వస్తది ఆ bill. Okay. Home loans ఉంటాయి.
+[0:06:35] So, ఇలా మీ pocket నుంచి బయటకు వెళ్ళేదాన్ని liability అంటారు. మీ pocket లో ఉన్నదాన్ని, మీ pockets లో ఉన్నదాన్ని, మీ పేరు మీద ఉన్నదాన్ని దాన్ని assets అంటారు.
+[0:06:44] Assets అంటే ఏంటి? What you own. Liabilities, liabilities అంటే ఏంటి? What you owe. Okay. So, ఇందుల basically ఏందంటే two ఉంటాయి.
+[0:06:53] Assets లో రెండు ఉంటాయి. Two parts కింద divide అయి ఉంటాయి. Liabilities లో two parts ఉంటాయి. First ఏంటి, short term అంటే within a year.
+[0:07:02] Time frame చూడండి ఇక్కడ under one year. Long term, long term అంటే over one year. For example, within a year అంటే ఏంటంటే, so for example, ఇక్కడ example చూడండి మీకు ఒక clarity వస్తది.
+[0:07:13] Cash in hand, savings account balances, short term equities, inventory, trade receivables.
+[0:07:20] Trade receivables అంటే for example, ఆ, ఇది individual, for example తీసేయండి మీకు అర్థమవుతది. As a, as an individual మాట్లాడుకుంటాం కదా మనం.
+[0:07:31] Okay. Inventory పదులు for example, మీ దగ్గర, ఉమ్, gold ఉందనుకుందాం.
+[0:07:39] Okay. So, basic గా ఈ short term, long term అన్నది ఏంటంటే assets లో for example, మీరు దాన్ని liquidate చేసేయగలరు వెంటనే within a year లో.
+[0:07:49] Okay. దాన్ని short term assets లోకి వస్తాయి. Long term assets అంటే ఏంటంటే, మీరు దాన్ని over a span of years దాన్ని మీరు సంపాదించి ఉండాలి.
+[0:07:58] లేదా for example, ఒక land కొన్నారు. అదేంటి over a span of year లేదా two to, two to three years మీరు job చేసి కష్టపడి సంపాదించి దాంట్లో land లో invest చేస్తారు.
+[0:08:08] So, దాన్ని వెంటనే, వెంటనే దాన్ని liquidate చేయగలమంటే చేయలేం కదా. So, అవన్నీ long term లోకి వస్తాయన్నమాట. For example, ఇక్కడ చూడండి మీకు exam-- అర్థమవుతుంది.
+[0:08:17] Real estate, house, land, vehicles. మీరిక్కడో car కొంటారు. Car కొనంగానే అది long term for example, five years EMI యో లేకపోతే two to three years EMI యో పెట్టుకుంటారు కదా.
+[0:08:27] So, అది long time frame లోకి వస్తది. Next long term investments అంటే mutual funds, SIP చేస్తున్నారు every month. అది five years ఓ, ten years ఓ చేస్తారు.
+[0:08:35] So, అది long term లోకి వస్తది. Next laptop, phones. Okay, for example, ఒక laptop కొన్నారు.
+[0:08:42] అది మీరు every two months కి, three months కి మార్చరు కదా. ఒక particular two years కో, three years కో అది పోయేవరకు phone కూడా అంతే every two years కో, three years కో పోయేవరకు అది use చేస్తా ఉంటారు.
+[0:08:52] లేదు, ఆ, for example, ఇక్కడ plant పదులు మీరు ఏదో ఒక house కొన్నారు, property, plant equipment అంటే మీరేదో business చేస్తుంటే ఏదో plant equipment కొన్నారు.
+[0:09:02] So, intangible assets. So, intangible assets కింద తర్వాత వద్దాం. దాని గురించి కాదు. So, మీకు difference అర్థమైంది కదా.
+[0:09:09] Assets అంటే assets లో రెండు ఉంటాయి short term, long term. Short term అంటే మీరు వెంటనే liquid లో ఉండాలి.
+[0:09:15] మీకు వెంటనే cash లోకి వచ్చేయాలి మీ చేతిలోకి. అలాంటివన్నీ short term లోకి వస్తాయి. Long term అంటే over a period of time లో మీరు EMIs పెట్టుకొని for example, car కొన్నారు, real estate, ఇల్లు కొనుక్కున్నారు కష్టపడి ఒక five years, ten years డబ్బులన్నీ పోయేసి.
+[0:09:27] So, ఇలాంటి for example, mutual funds ఉన్నాయి, long term FDs ఉన్నాయి. So, ఇలాంటివన్నీ long term assets లోకి వస్తాయన్నమాట.
+[0:09:34] So same liabilities కూడా అంతే. Simple, short term అంటే within a year, long term అంటే more than a year. So, ఇక్కడ for example, examples చూడండి మీకు అర్థమవుతుంది.
+[0:09:44] Short term EMIs. For example, ఒక iPhone ఏదో ఒకటి కొన్నారు. Two lakhs ఓ, three, two lakhs ఓ, 1.5 lakhs ఓ పెట్టుకొని కొన్నారు.
+[0:09:50] దానికి six months phone EMI పెట్టారు. అది one year కిందట్లో complete అయిపోతుంది కదా liability అనేది. So, అది short term liability కింద వస్తది.
+[0:09:58] For example, credit card bills every month మనం కడతాం. Within a month లో మనం దాన్ని clear చేసేస్తున్నామా లేదా every month bill ని. So, అది short term లోకి వస్తది.
+[0:10:09] And next వచ్చేసి short term loans. ఇది కూడా loan అన్నా, EMI అన్నా, ఏదన్నా within a year లో మీకా loan clear అయిపోతుంది. ఒక eight months ఏదో loan తీసుకున్నారు.
+[0:10:16] అది clear అయిపోతుంది eight months లో. అయిపోయింది. ఆ trade payables పక్కనపెట్టండి మనం individual గా మాట్లాడుకుంటున్నాం కాబట్టి. Next, long term లోకి వద్దాం.
+[0:10:24] Long term liabilities అంటే home loan. For example, fifteen to twenty years home loan ఉంటది. అది long term. Car loan ఉంటది ఒక two to three years ఓ, three to five years ఓ ఉంటది.
+[0:10:33] అది long term liability. Next, personal loans తీసుకున్నాం ఒక five lakhs ఎంతో, అక్కడ gold, for example, gold పెట్టి gold loan తీసుకున్నాం ఒక two, two to three years span లో EMI కట్టేలాగా.
+[0:10:45] లేదా one time కట్టేలాగా, second year ఓ, third year ఓ కట్టేలాగా మనం gold loan తీసుకున్నాం. So, అది long term liability.
+[0:10:52] Okay. So, ఇలా long term, short term అనేది divide చేసుకుంటాం. ఏంటి? Assets ని, liabilities ని.
+[0:11:00] So, ఇక్కడ long term, short term అన్న దాన్ని company balance sheets లోకి వచ్చేటప్పటికి ఏమంటారంటే ఆ term ని ఏం use చేస్తారంటే short term అంటే current, current assets.
+[0:11:11] Long term అంటే non-current, non-current assets. Simple liabilities కూడా అంతే. Short term అనేదానికి ఏ term use చేస్తారు?
+[0:11:19] Current, current liabilities. Long term కి non-current liabilities. Okay so, assets, liabilities.
+[0:11:27] Next assets లో, liabilities లో current assets, non-current assets, current liabilities, non-current liabilities.
+[0:11:35] ఒక clarity వచ్చింది కదా ఒకసారి చెప్పండి ఇక్కడ. Yeah.
+[0:11:47] Okay. ఒకసారి ఇప్పుడే చెప్పండి. ఎందుకంటే మళ్ళీ చెప్పమంటే మళ్ళీ చెప్తే ఏమన్నా అర్థం కాకపోతే. ఎందుకంటే next మనకి balance sheet లోకి వెళ్ళేటప్పటికీ confuse అవుతారు మళ్ళీ.
+[0:11:56] మీకీ current, non-current మీద ఒక clarity రావాలి. Assets, liabilities అంటే ఏందంటే ఒక clarity రావాలి.
+[0:12:03] So, అది మీకు okay-- okay bro. Okay, so ఇప్పుడు Assets చూసాం, Liabilities చూసాం, Current అంటే ఏంటో చూసాం, Non-Current అంటే ఏంటో చూసాం.
+[0:12:12] So next Equity, Net worth. ఇక్కడ for example definition చూడండి. The residual interest in assets after deducting all liabilities.
+[0:12:21] The actual value belongs to owner, shareholder. For example, ఉమ్, మీరు మీది మీకు for example ఒక ten thousand అప్పు ఉన్నది.
+[0:12:33] Okay, బయట నుంచి ఎక్కడినుంచో loan తెచ్చుకున్నారుో, phone కి EMI ఉంది, car కి EMI ఉన్నది, loan house కి EMI ఉన్నది.
+[0:12:40] So, after a span of time ఇవన్నీ clear చేసేశారు. Okay, clear చేసేశాక మీ బ్యాంకులో ఒక ten thousand amount ఉన్నది.
+[0:12:49] Okay, దాన్ని మీ Equity అంటారు. For example, మీకొక ten lakhs అప్పు ఉన్నది అనుకోండి, మీ దగ్గర ఒక పదిహేను లక్షలు ఉన్నాయి అనుకోండి cash మొత్తం, మీకా ten lakhs అప్పు తీర్చేస్తే మీ దగ్గర ఎంత మిగులుతుంది?
+[0:13:02] Five lakhs మిగులుతాయి. So, ఆ five lakhs అనేది మీ Equity. Okay, ఇక్కడ చూడండి calculation example చూడండి.
+[0:13:09] Total assets ten lakhs, total liabilities five lakhs. సో, ఈ liabilities కట్టేస్తే, pay చేస్తే ఎంతుంది Equity మన దగ్గర ఇంకా?
+[0:13:17] Five lakhs. Okay, దీన్నే Equity అంటారు. Net worth ఏదన్నా చెప్పుకోవచ్చు.
+[0:13:25] సో, మనం ఈ balance sheet terms లో Equity అనే term ని use చేస్తాం. Okay, so ఇది, so Corporate equity లో ఏముంటాదంటే for example, includes initial share capital.
+[0:13:40] For example, ఒక company పెడదాం అనుకున్నాం మనం, initial ఒక capital వేసుకుంటాం కదా. For example, మన three members ఓ, four members ఓ కలిసి each fifty thousand, fifty thousand, fifty thousand వేసి ఒక for example, two lakh corpus ఓ, three lakh corpus ఓ ఒక amount అనేది పెట్టుకున్నాం ఆ company ని start చేయడానికి.
+[0:13:57] So, దాన్ని Initial equity అనేసి అంటారు. Okay, so అదొకటి గుర్తుపెట్టుకోండి. ఇనీ, ఇవన్నీ మీకు తర్వాత చెప్తా ఒకసారి చూశాక, మళ్ళీ కనిపిస్తూ ఉంటాయి ఇక్కడ.
+[0:14:07] So, ఇప్పుడు మనం మాట్లాడుకుంది ఏంటి basic balance sheets. Balance sheets లో ఏముంటాయి? మూడు ఉంటాయి. Assets, Liabilities, Equity.
+[0:14:17] Clarity వచ్చింది కదా. Assets, Liabilities లో two ఉంటాయి. Current, Non-current. Equity లో, Equity అంటే ఏంటి? మీకున్న అప్పులన్నీ minus మీ దగ్గరున్న Assets.
+[0:14:25] Minus చేస్తే ఎంత? Equity. అంటే మీది surplus amount. అది మీది. Okay, completely belongs to you.
+[0:14:35] So, three terms clarity వచ్చింది కదా, Equity, Assets, Liabilities. ఒకసారి చెప్పండి next balance sheet లోకి వెళ్దాం. ఏమైనా doubt ఉంటే ఇక్కడ అడగండి ఏం మొహమాట పడకండి.
+[0:14:55] లేదు అండి. Okay bro, ఉమ్, so first for example, ఆ, Godrej consumer products ఉంది కదా, so ఇక్కడ screeners, screener లోకొచ్చాక మీకిక్కడ ఏ company కావాలంటే ఆ company search చేసుకొని, మనం నిన్న Godrej మాట్లాడుకున్నాం కాబట్టి Godrej
+[0:15:15] తోనే continue చేస్తాం. So, ఇలా కిందకి slow, scroll చేస్తే మీకిక్కడ annual reports అనేసి ఉంటాయి.
+[0:15:21] So, latest report click చేస్తాం. ఇక్కడ వస్తాది. Okay, okay consolidated balance sheet.
+[0:15:31] Okay, as of March 31st 2026 ki, ఈ యొక్క company యొక్క balance sheet అనేది ఇది.
+[0:15:37] ఆ company అనేది మనకి SEBI ki submit చేసింది. Okay, so, మనం ఇక్కడ మాట్లాడుకున్నవన్నీ ఇక్కడ కనిపిస్తున్నాయా లేదా first చూస్-చూసుకుందాం.
+[0:15:46] Assets, assets లో ఏముంటాయని చెప్పాం? Non-current assets, current assets. కనిపించినాయి కదా.
+[0:15:52] Next, equities, equities కనిపించినాయి కదా. Next, liabilities, liabilities లో ఏముంటాయి? Non-current liabilities, current liabilities.
+[0:16:02] Done. మనకి కనిపించినాయి కదా మనం ఆడుకున్న three terms. So, first ఇక్కడి నుంచి వరుసపెట్టి వద్దాం.
+[0:16:08] వరుసపెట్టి కిందదాకా వచ్చి next compare చేసుకుందాం each. మీకు ఇంకొకటి చెప్తున్నా, for example మీకు ఏమన్నా, ఆ, for example, ఇక్కడ other intangible assets అనేది మీకు ఆ word అర్థం కాలే, simple ఏం చేస్తారంటే copy చేయండి.
+[0:16:27] ఇక్కడికొచ్చి paste చేయండి. Okay, మీకిక్కడ ఇస్తుంది కదా, మీకు simple ఇక్కడ ఆ-ఆ term కి meaning ఏంటో మీకు తెలుస్తాది.
+[0:16:36] మళ్ళీ balance sheet లోకొచ్చేయండి, మళ్ళీ continue చేయండి చదవటం. Simple logic, మీకేమన్నా తెలియకపోతే కంగారుపడాల్సిన అవసరం లేదు. Simple ఆ టె-ఆ term ని copy చేసుకోండి Google లో paste చేయండి, అక్కడ అడగండి, మీకక్కడ ఇస్తాది other intangible assets అంటే ఏంటో.
+[0:16:50] Okay? Okay, so assets లోకొద్దాం.
+[0:16:57] Assets అంటే ఏంటి? మన దగ్గరున్న, ఆ, ఆస్తులు గాని లేకపోతే ఏవన్నా వస్తువు గాని లేకపోతే cash గాని so ఇవన్నీ కలిపి assets లోకొస్తాయి.
+[0:17:08] Non-current assets అంటే ఏంటి? More than a year అందులో ఉంటే దాన్ని Non-current assets లోకొస్తాయి. For example, first చూడండి property, plant and equipment.
+[0:17:19] Okay, ఇవన్నీ long term కదా వాళ్ళు build చేసుకున్నది. So, అవీ Non-current assets లోకొస్తాయి. ఇక్కడ amount ఉంది చూసారా, ఇది crores.
+[0:17:27] So, వీ-వీళ్ళకి ఎంత amount invest, ఎంత amount ఉన్నది ఇందులో? ఈ property, plant, equipment ఎంత value చేశామంటే eighteen hundred seventy eight crores.
+[0:17:37] Okay, simple అయిపోయింది. Next రండి, Capital work in progress. So, basically term అంటే ఏంటంటే Capital work in progress అంటే for example, ఒక దాన్ని research చేస్తున్నారు లేకపోతే ఒక, for example, ఇదేంటి consumer products కదా, for example, ఒక shampoo మీదో లేకపోతే ఒక biscuit మీదో research చేస్తున్నారు అనుకోండి work in prog-- అది
+[0:17:57] future లో మనకా product వస్తుంది next one year, two years లో దాన్ని launch-launch చేస్తారు అనుకుంటే, దా-ఆ, దానికి సంబంధించిన term ని Capital work in progress అంటారు.
+[0:18:07] అంటే research కి ఉపయోగించే డబ్బులు అనమాట. అది కూడా investment ఏ కదా, ఒక investment కిందకొస్తది. two nineteen crores invest చేశారు.
+[0:18:14] ఆయన ఆ research next investment property investment property అంటే for example వీళ్ళు ఎక్కడన్నా ఒకటి కొన్నారు అనుకోండి ఒక site గాని ఓకే either ఈ property లోకి either ఒక company చిన్న company లో invest చేశారనుకోండి అది కూడా వస్తది ఓకే అలా investment property వీళ్ళు ఒక asset లో invest
+[0:18:35] చేశారు ఎంత eighty five crores next rights of use assets for example rights of use assets అంటే ఏంటంటే ఆ for example ఒక chip ఒక biscuit తయారు చేశారు ఆ biscuit కి something వీళ్ళ దగ్గర ఒక formula ఉన్నది ఓకే ఆ formula ని ఆ
+[0:18:56] అది intangible asset అన్నమాట అంటే దాన్ని physical formula ఉండదు కాకపోతే ఏందంటే అది కూడా ఒక value ఏ దాన్ని rights of use assets అంటారు ఓకే అది ఎంత amount ఉన్నది three eighty six crores goodwill goodwill అంటే మీకు తెలిసే ఉంటది కదా for example ఒక popular ఒక x అనే brand ఉన్నది అనుకోండి
+[0:19:17] ఆ x కి చాలా మంచి reputation ఉన్నది company లో దాని value hundred crores మీరు ఏం చేస్తారు ఆ hundred crores acquire చేసుకుని పైన goodwill కోసం thirty crores forty crores extra ఇస్తారు ఆ extra ఇచ్చిన goodwill ఉంది చూసారా దాన్ని goodwill అంటారు extra ఇచ్చిన amount ఉంది చూసారా దాన్ని goodwill అంటారు ఎంత ఇచ్చారు వీళ్ళు అంతే కదా ఉ
+[0:19:39] five thousand seven hundred and fifteen crores next other intangible assets అంటే same మీకు ఆ copyrights గాని patent గాని physical కాదు కాకపోతే దానికి ఒక value ఉంటది దాన్ని intangible assets intangible assets under development for example research అంటే future లో వస్తాయి అది ఇంకా
+[0:19:59] apply చేస్తున్నారు దానికి invest చేసిన amount nine crores ఓకే next financial assets for example other investments ఉన్నాయి other investments అంటే main వీళ్ళ investments ఏంటి property, plant, equipment లేదా ఒక company ని acquire చేసుకోవడానికి తీసుకుంటారు ఇవన్నీ పెద్ద పెద్ద investments ఓకే other
+[0:20:19] investments ఏంటంటే చిన్న చిన్న చిన్న ఏమో investments for example one crore two crores అలా individual individual అలా కలుపుకొని other investments nine fourteen crores invest చేశారు ఓకే next loan ఇక్కడ assets లో ఉన్నది కాబట్టి assets అంటే ఏంటి మన pocket లో ఉన్నది so వీళ్ళు బయట వాళ్ళకి loan ఇచ్చిందన్నమాట అర్థమైందా అది zero point zero three అంటే three lakhs others
+[0:20:40] others అంటే financial assets లో ఇంకా చిన్న చిన్నవి అవన్నీ అంతా forty seven point one seven crores so ఇందులో ఇప్పుడు for example ఇవన్నీ in depth ఎలా for example property, plant, equipment అని రాశారు eighteen hundred crores అని రాశారు కాకపోతే అవి ఎక్కడ ఉన్నాయి ఆ properties ఏంటి plants ఏంటి equipments ఏమేమి కొన్నారు అవన్నీ కూడా మనకు in depth వస్తాయి so
+[0:21:00] అదే ఇక్కడ note number ఉంది చూసారా ఈ three దగ్గరికి వెళ్ళాం అంటే మనకు ఆ in depth అనేది వస్తుంది అలా for example capital work in progress ఎందులో invest చేశారు ఏ products లో invest చేశారు ఎంతెంత డబ్బులు ఎందులో invest చేశారు ఇక్కడికి వెళ్తే మీకు detail వస్తుంది investment property 3A అక్కడికి వెళ్లారంటే 3A దగ్గరికి మీకు అక్కడ in depth ఉంటది so same ఇక్కడ others లో కూడా ఇక్కడ nine
+[0:21:21] దగ్గరికి వెళ్లారంటే others ఏమేమి ఉన్నాయో ఏమేమి ఉండవో మీకు ఒక clarity వస్తుంది ఇక్కడ loan eight అంటే వీళ్ళు ఏ ఏ companies కి ఈ loans ఇచ్చినవో in depth ఉంటది so అలా ఇక్కడ note number ఏంటంటే ఈ దీనికి in depth అనేది మీకు దొరుకుతది అనమాట each investments కి లేదా liabilities కి etc ఓకే other non current assets non
+[0:21:41] current tax assets అంటే for example loss carry forwards కానీ tax benefits ఉంటాయి కదా so అది deferred tax assets అన్న అది కూడా అందులోకే వస్తది so ఇవన్నీ మీకేమన్నా ఒకటి అర్థం కాలేదనుకోండి simple copy చేసుకోండి Google లో paste చేయండి దాని meaning తెలుసుకొని మళ్ళీ balance sheet లోకి రండి అంత simple ఓకే ఇప్పుడు assets లో non current assets అంటే long
+[0:22:01] term assets అనేది మనం చూసాం ఓకే అవి బానే ఉన్నాయి మంచిగా invest చేసుకున్నారు ఓకే ఇక్కడ total ఇవన్నీ కలిపి total non current assets ఎంత fourteen thousand two hundred and eighty eight crores next current assets అంటే within a year లో వీళ్ళు liquidate చేసుకోగలరు so అవన్నట్లే మనం వాళ్ళు utilize చేసుకోగలరు
+[0:22:22] అలాంటివన్నీ current assets లోకి వస్తాయి within a year లో inventory for example వీళ్ళ దగ్గర ఒక ఆ ఒక godown దగ్గర full stock ఉన్నదనుకోండి దాన్ని inventory అంటారు వాళ్ళ products ని వాళ్ళు within a year లో clear చేసుకోగలరు కదా ఒక అది sixteen hundred crores ఉన్నదా inventory next financial assets అంటే investments trade
+[0:22:42] investments దగ్గరికి వద్దాం investments అంటే for example వీళ్ళు ఆ ఒక చిన్న చిన్న company ఉన్నదనుకోండి ఆ company లో invest చేశారు వాళ్ళ దగ్గర నుంచి product acquire చేశారు ఓకే ఆ acquire చేసిన దాన్ని within a year లో వాళ్ళు మళ్ళీ ఆ డబ్బులనేవి వాళ్ళు వెనక్కి తీసుకో తీసేసుకోగలరు అలాంటి investments current assets లోకి వస్తాయి లేదు long
+[0:23:03] term investments అనుకోండి మళ్ళీ non current లోకి వెళ్ళిపోతాయి గుర్తుపెట్టుకోండి next trade receivables for example ఆ ఒక ఇది consumer consumer brand కాబట్టి ఒక distributor కి ఆ thousand crores ఎంతో వాళ్ళకి credit ఇచ్చారు so అది మళ్ళీ మీకు వెనక్కి రావాల్సింది అది trade receivables ఎంత eighteen hundred crores next
+[0:23:23] cash and cash equivalents ఇవి basically ఏంటంటే cash and cash equivalents అంటే for example ఉ ఎలా చెప్పాలి అంటే for example ఉ వీళ్ళ దగ్గర for example ఇదే inventory ఏ తీసుకోండి ఒక hundred crores worth of inventory ఉన్నది రేపు పొద్దున కల్లా వాళ్ళు దాన్ని cash లోకి తెచ్చేసుకోగలరు దాన్నే cash and cash equivalents
+[0:23:44] అంటారు అంటే as soon as immediate గా ఎంత immediate గా తెచ్చుకోగల్గుతామో అంత immediate గా cash లోకి convert చేసుకోగలరు దాన్ని దాన్నే cash and cash equivalents అంటారు ఎంతున్నది వాళ్ళ దగ్గర nine seventy six crores వాళ్ళు వెంటనే ఎప్పుడు కావాలంటే అప్పుడు దాన్ని cash లోకి convert చేసుకోవచ్చు ఓకే దాన్ని cash and cash equivalents bank balances and other three above అంటే ఈ three
+[0:24:04] ఇంకా చిన్న చిన్నవి ఉంటాయి చూసారా sorry other than three above అంటే ఈ మూడు కాకుండా bank balance ఎంతున్నది twenty eight loans simple అంటే short term లో loans వచ్చేసివి ఏమీ లేవు ఎవరికీ ఇవ్వలేదు short term లో వచ్చేవి others Others అంటే ఇంకా చిన్న చిన్నవి అన్నమాట మీకు in detail others లో ఏమేమి ఉన్నాయని తెలుసు తెలియాలంటే ఈ Seventeen లోకి వెళ్తారు మీరు in
+[0:24:25] depth లో మీకు ఇస్తాది everything. Okay so total current assets ఎన్ని ఉన్నాయి Seven thousand nineteen crores okay so ఇప్పుడు total assets అంటే current assets, non current assets long term, short term assets ఎన్ని ఉన్నాయి మొత్తం total twenty one thousand crores three hundred and thirty three rupees okay next
+[0:24:45] liabilities లోకి వద్దాం equity పక్కన పెట్టండి liabilitiesలోకి రండి liabilities తర్వాత equity లోకి వెళ్దాం. Liabilities first non current liabilities అంటే long term financial liabilities లోకి వస్తే ఏముంది subject ఇక్కడ lease liabilities అంటే for example వీళ్ళ factory ఉంటాది ఆ warehouse ఉంటాయి వాళ్ళ నాటికి rent కట్టాలి కదా lease
+[0:25:05] అయితే lease గాని so అది two seventeen crores అంటే for example ten years lease తీసుకున్నారు అనుకోండి ten years కే two hundred crores అనుకున్నారు అనుకోండి ఏదో some property కి ఒక warehouse కి గాని factory కి గాని ఏదో ఒక దానికి equipment కి గాని ఏదో ఒక lease తీసుకున్న దానికి అది long term లోకి వస్తాది కదా ఒక ten years, twenty years, thirty years కి.
+[0:25:24] అలా long term leases అన్నీ non current liabilities లోకి వస్తాయి so వీళ్ళు అలా long term lease ఎంత ఇచ్చారు two seventeen crores spend చేశారు provisions, provisions అంటే different different provisions ఉంటాయి కదా so అది ఎంత one fifty crores deferred tax liabilities ఇది కూడా అంటే tax benefits లోకి వస్తాయి or లేదా ఇక్కడ మీకు liabilities
+[0:25:44] లో ఉన్నది కాబట్టి మీకు బయటకు వెళ్ళేవి అంటే వీళ్ళ pockets నుంచి బయటకు వెళ్ళేవి long term లో five hundred and eighty three crores ఉన్నాయి.
+[0:25:51] సో మీకు ఇట్లా తెలియదు అనుకోండి simple search చేయండి other non current liabilities అంటే ఇంకా చిన్న చిన్నవి ఒక one crore lakhs లోనో చిన్న చిన్నవి ఉంటాయి చూశారా minute negligible అవన్నీ others others liabilities లో వేసేశారు long term అవి total ఎన్ని ఉన్నాయి twenty two crores ఉన్నాయి so ఇక్కడ total non non current liabilities ఎన్ని ఉన్నాయి total nine hundred and seventy three crores
+[0:26:13] okay next current liabilities అంటే within a year లో ఇవన్నీ తీర్చేసుకోవాలి రూపీలు borrowings బయట నుంచి తెచ్చుకున్న డబ్బులు ఎంత four thousand crores within a year లో within a span of a year లో వీళ్ళు తీర్చేసుకోగలరు or eight months లోపు తీర్చుకోవాలనేసి ఒక deadline ఉన్నది అలా within a year లో borrowings ఉన్నాయి close అయిపోతాయి అలాంటివి ఎన్ని ఉన్నాయి four thousand
+[0:26:33] crores lease liability so ఈ సంవత్సరం within అదే for example ఒక five months కే ఒక warehouse ని lease తీసుకున్నారు అనుకోండి లేదా one year ten months కో eleven months కో one year కే lease తీసుకున్నారు అనుకోండి అలాంటి leases sixty two crores వీళ్ళు pay చేయాలి rents total payables total outstanding dues of micro and small
+[0:26:53] enterprises ఇవేంటంటే for example ఉ ఒక biscuit ఉన్నది biscuit పైన wrapper ఉంది కదా ఆ wrapper అనేది వీళ్ళు తయారు చేయరు కదా బయట వేరే ఆ printing companies దగ్గర నుంచి order ఇచ్చుకుని తెచ్చుకుంటారు okay వాళ్ళకి డబ్బులు ఇవ్వాలి కదా అలాంటి micro and small enterprises for example sugar ఉన్నది sugar
+[0:27:14] బయట ఎక్కడినుంచో తెచ్చుకుంటారు వాళ్ళకి డబ్బులు ఇవ్వాలి కదా so అలాంటివన్నీ one twenty two crores ఉన్నాయి total outstanding dues of creditors other than micro and small enterprises so ఈ micro and small enterprises కాకుండా మిగిలినవి ఉంటాయి చూశారా ఇంకా చిన్న చిన్నవి అలాంటివి ఎంతున్నాయి two thousand one seventy nine crores అని ఉన్నాయి.
+[0:27:36] Okay other financial liabilities ఇవి చిన్న చిన్న amounts అన్నీ కలిపేసి ఒక others లో వేసేశారు వీళ్ళు అదెంత ఉన్నాయి amounts six sixty four six sixty four crores ఉన్నాయి.
+[0:27:49] Other current liabilities same ఇది కూడా అంటే provisions, provisions long term లో provisions ఉన్నాయి short term లో provisions ఉన్నాయి next current tax liabilities ఇంకా ఎంత tax కట్టాలి within a year లో okay tax కి సంబంధించినవన్నీ ఇన్ని ఉన్నాయి మీకు in depth కావాలంటే ఇక్కడికి వెళ్తారు ఇక్కడ కనిపిస్తాయి okay so ఇప్పుడు పైన total assets ఎన్ని ఉన్నాయని
+[0:28:09] చూసాం twenty one thousand crores assets ఉన్నాయి total liabilities ఎన్ని seven thousand seven hundred crores so ఇప్పుడు మనకిక్కడ difference ఎంత వచ్చింది twenty one thousand crores minus twenty one minus seven seven crores ఎంత అయింది fourteen thousand crores
+[0:28:29] అనేది మీకు plus లో ఉన్నాం so ఆ amount అంతా ఎక్కడ ఉన్నదంటే either వాళ్ళు equities లో ఉంటాదన్నమాట అంతే కదా మనం ఇందాక ఏం మాట్లాడుకున్నాం ఇక్కడ.
+[0:28:40] ఉమ్ ఇక్కడేంటి total, total assets minus total liabilities equal to equity.
+[0:28:52] so అప్పుడు ఇప్పుడు equity కి రండి ఇక్కడ equity కనిపిస్తుంది కదా equity share capital అంటే మనం మాట్లాడుకున్నాం కదా for example ఈ company start చేసినప్పుడు కొంచెం డబ్బులు వేసుకుంటారు అని చెప్పాను కదా for example partners లేకపోతే ఎక్కడినుంచో ఆ వాళ్ళ సొంత డబ్బులు లేదా something ఒక amount తీసుకొచ్చి ఒక company account లో వేస్తారు కదా ఆ share capital ఎంతుంది one or two crores లేదా
+[0:29:13] initial public offering అయినప్పుడు ఇన్ని shares release చేస్తే ఆ డబ్బులు వెనక్కి వెళ్తాయి కదా ఎందుకవి so అవన్నీ కలిపి equity share capital అనేసి అందులో ఎంతున్నాయి one or two crores ఉన్నాయి other equity, other equity అంటే for example వీళ్ళు bank లో డబ్బులు ఉండొచ్చు లేదా properties లో ఉండొచ్చు అంటే loan అంతా clear చేసేసి okay లేదా వేరే companies లో invest చేసి ఉండొచ్చు so
+[0:29:33] ఇవన్నీ కలుపుకుని other equity ఎంతున్నది twelve thousand five hundred and fifty crores so total equity ఎంతున్నది twelve thousand six hundred and fifty two crores ఈ twelve thousand six hundred and fifty two crores ఎలా చూడాలంటే మీరు ఇందాక EMIs అన్నీ తీర్చేసుకున్నాక మీ car, మీ ఇల్లు, మీ phone, మీ bank balance, మీ ఇంట్లో ఉన్న cash,
+[0:29:53] మీ gold, investments మీకు మొత్తం liabilities అన్నీ liabilities కి ఇక్కడ మీ దగ్గర ఉన్న వాటికి సంబంధం ఎలా లేదు అలా ఇక్కడ twelve thousand twelve thousand six hundred and fifty two crores కి వాళ్ళకి ఎటువంటి సంబంధం లేదు okay.
+[0:30:10] ఇవన్నీ liabilities అంటే అప్పులు అవన్నీ తీర్చేసుకున్నారు equity కి సంబంధించిన ఈ twelve thousand crore worth అన్నట్లుగా అన్నీ తీర్చేసుకున్నారు ఇవన్నీ complete గా వీళ్ళకి సొంతం.
+[0:30:18] రేపొద్దున్న company మొత్తం దివాలా తీసేసిందన్నా వీళ్ళ దగ్గర twelve thousand six hundred and fifty two crores వీళ్ళ దగ్గర plus లో ఉంటారు okay simple అలా గుర్తుపెట్టుకోండి.
+[0:30:30] సో ఇప్పుడు, ఓకే సో అర్థమైంది కదా మనం basic గా line by line ఎలా చదవాలనేసి.
+[0:30:49] ఒకసారి చెప్పండి. assets, liabilities, equities. first చదవటం ఎలా balance sheet ని చదవాలనేసి.
+[0:31:03] ఏమైనా doubt ఉంటే అడగండి. అదండీ అన్న key words మీరు చెప్పినవే మేము కొంచెం practice చేస్తే ఒక idea వస్తది.
+[0:31:11] ఆ మీకేమైనా తెలియలేదు అనుకోండి simple ఆ term ని Google చేయండి for example goodwill in non current assets non current non current assets అంటే ఏంటి Google చేయండి so అలా.
+[0:31:23] ఇక్కడ ఈ term తీసుకుని దీని మీద పెట్టండి current assets లో ఇటు investments అంటే ఏంటి?
+[0:31:29] ఏమేమి వస్తాయి? so అలా Google చేసుకుంటే మీకు simple వస్తాయి so అలా read చేయండి. మీకు maximum ఒక్కసారి మీరు ఇవన్నీ ఒక book లో రాసుకున్నా పర్లేదు లేదా ఒక notepad లో రాసుకున్నా పర్లేదు maximum ఇవి ఈ terms ఉంటాయి కొంచెం అటూ ఇటూ ఒకటో రెండో మారతాయి గానీ మిగిలిన company same అన్ని companies కి maximum ఈ terms ఉంటాయి.
+[0:31:45] so ఒక్కొక్కసారి ప్రతిదీ అన్నా doubt వస్తే Google చేసుకోండి అది మీరు notepad లో రాసుకోండి next time మీకు ఏమైనా doubt వచ్చింటే ఆ notepad తీసుకుని simple గా చూసుకుంటే మీకు అర్థమైపోతుంది.
+[0:31:56] ఓకే సో చదవటం వచ్చింది ఎలా చదవాలి అనేసి balance sheet ని. so ఇప్పుడు ఒక company మంచిది దాని balance sheet బాగుంది అంటే for example మనమే తీసుకుందాం మనల్ని తీసుకోండి for example ten lakhs మన దగ్గర ఉన్నాయి assets phone, ఇల్లు, cash, gold, investments అన్నీ కలుపుకొని
+[0:32:16] liabilities అంటే మనం EMI's బయట వాళ్ళకి ఇవ్వాల్సినవి మనం loans తెచ్చుకున్నవి అవన్నీ five lakhs ఉన్నాయి. మనం ఇప్పుడుకు ఇప్పుడు అవన్నీ ఇచ్చేయాలంటే మన ten lakhs అంటే మన దగ్గర ఉన్న వస్తువులు అమ్మేసో లేకపోతే ఏదో చేసేసి ఇచ్చేసి ఆ five lakhs తీసేసుకుందాం.
+[0:32:30] మన దగ్గర మిగిలిన amount ఉంది ఎంతుంది? five lakhs అంటే ఇది ఒక positive thing ఏ కదా మీరు plus లో ఉన్నారు.
+[0:32:38] అలా కాకుండా ఇక్కడ fifteen lakhs మీకు total liabilities ఉన్నాయి అనుకోండి. అంటే మీ దగ్గర ఉన్న assets ఏమో ten lakhs liabilities ఏమో fifteen lakhs ఉన్నాయి.
+[0:32:52] so మీరు అప్పుడు negative లోకి వెళ్తున్నారా లేదా minus negative లోకి వెళ్తున్నారు so ఇది మంచిది కాదు. so ఇలాగే company కి కూడా ఆ equity value గాని minus లోకి వెళ్ళింది అంటే అది మంచిది కాదు అనేసి అర్థం చేసుకోవాలి.
+[0:33:06] for example ఇక్కడ చూడండి ఉమ్ total assets ఎన్ని ఉన్నాయి?
+[0:33:16] ఇదే కదా twenty one thousand crores ఉన్నాయి. ఒక్క నిమిషం ఉండండి ఓకే total assets వచ్చేసి twenty one thousand crores ఉంది so liabilities ఎన్ని ఉన్నాయి?
+[0:33:36] ఉమ్ ఎక్కడ ఇచ్చాడు ఇడా total non current, total current, total equities ఒక equity రెండు కలిపేసాడు so liabilities విడిగా చూసుకుంటే మనకి non current ఎంతున్నాయి?
+[0:33:47] nine hundred crores ఇక్కడ seven thousand seven hundred zero seven plus nine seventy three ఓకే eight thousand six hundred and eighty crores వీళ్ళకి liabilities ఉన్నాయి.
+[0:34:02] ఓకే వీళ్ళు ఇప్పుడుకు ఇప్పుడు మొత్తం రేపు పొద్దున్న అన్న రోజు company close అయిపోయింది లేదా ఏదో ఇబ్బంది పడ్డారు వీళ్ళకి revenues ఆగిపోయినాయి అంటే వీళ్ళు బయటకి ఇవ్వాల్సిన డబ్బులన్నీ eight thousand eight hundred crores ఓకే.
+[0:34:16] so అన్ని డబ్బులు వీళ్ళ దగ్గర reserves ఉన్నాయా? అంటే మీరు ఎక్కడ చూసుకోవాలి? total equities total equities లో ఉన్నాయి కదా మొత్తం అవన్నీ తీర్చేసుకున్నా ఇక్కడ ఎంత పోతది twelve thousand crores లో వీళ్ళ liabilities అన్నీ కొట్టాక settle చేసేస్తే eight thousand crores పోయింది కదా ఇంకా four thousand crores ఉన్నది అనుకోండి ఆ four thousand crores plus మీకిక్కడ assets ఉన్నాయి కదా
+[0:34:37] ఈ assets plus చేసుకుంటే వీళ్ళు మంచి మంచిగానే ఉన్నారా లేదా? ఈ company బాగుందా లేదా so ఇలా compare చేసుకుంటారు.
+[0:34:45] liabilities ఎన్ని ఉన్నాయి? assets ఎన్ని ఉన్నాయి? equity ఎంత ఉన్నది? ఓకే మీకెప్పుడు equity అనేది పెరుగుతా వెళ్తుంది అనుకోండి వాళ్ళు మంచి profits లో ఉన్నారని అర్థం చేసుకోవాలి మంచిగా investments చేస్తున్నారు అనేది అర్థం చేసుకోవాలి.
+[0:34:58] లేదు మీకిక్కడ తగ్గుతుంది అనుకోండి ఇక్కడ for example twelve thousand crores ఉన్నది previous financial year ఈ financial year only eight thousand crores ఏ ఉన్నది so ఎందుకు తగ్గింది?
+[0:35:08] అవి ఎక్కడ spend చేశారు? అది తెలుసుకోవాలంటే ఈ depth లోకి వెళ్ళాలి ఎక్కడ spend చేశారు for example వీళ్ళ దగ్గర for example మీ pocket లో ఉన్న డబ్బులు అయిపోయినాయంటే ఎక్కడ spend చేస్తారు?
+[0:35:20] ఏదర ఏదో loan అన్నా తీర్చుండాలి ఓకే ఒక పెద్ద loan లేదు అంటే ఎక్కడో invest చేసేసుండాలి అంటే company దాంట్లో for example ఇక్కడ factory కి ఏదో heavy గా invest చేసేసుండాలి so అలా రెండు ఉంటాయి positives ఉంటాయి negatives ఉంటాయి so అవి ఎక్కడికి వెళ్ళినాయి డబ్బులు అనేసి మీరు further గా analysis
+[0:35:40] చేసుకోవాలి. for example ఓకే మీకిక్కడ చదవటం వచ్చింది assets చదవటం వచ్చింది liabilities అంటే ఏంటో చదవటం వచ్చింది equity అంటే చదవటం వచ్చింది next ఒక company మంచి balance sheet maintain చేస్తుందా లేదా తెలుసుకోవాలంటే ఏంటి?
+[0:35:53] ఇప్పుడుకు ఇప్పుడు company మొత్తం operations అన్నీ ఆపేస్తే వాళ్ళ దగ్గర వాళ్ళు net positive cash లో కూర్చుంటున్నారా లేదా net positive equity లో ఉంటున్నారా లేదా అన్నది గాని వాళ్ళు గాని maintain చేస్తుంటే company is in a good growth అనేసి మనం అర్థం చేసుకోవాలి and also equity కూడా ఇక్కడ every year పెరుగుతా ఉంటే వాళ్ళు మంచి profits చేసుకుంటున్నారు మంచి cash లో కూర్చున్నారు అనేసి
+[0:36:13] మనం అర్థం చేసుకోవచ్చు. ఓకే so balance sheet అనేది చదవటం వచ్చింది కదా and also ఈ company మంచిగా run అవుతుందా లేదా internal గా అన్నీ బానే ఉన్నాయా లేదా చదవడం మనకు వచ్చేసిందా లేదా ఒకసారి నాకు అర్థమైందో లేదో చెప్పండి.
+[0:36:28] మీకు ఎలా చదవటం వచ్చిందో ఎలా చదవాలో తెలిసింది and also ఈ company good condition లో ఉందా bad condition లో ఉన్నదా కూడా మీకు తెలిసిపోయింది ఇక్కడితో.
+[0:36:36] అది మీరు చేయగలరా లేదా ఒకసారి నాకు clarity ఇవ్వండి. అర్థమైంది బ్రో, yeah చేయగలను.
+[0:36:44] Okay. So balance sheet అంటే ఏంటో మనకు అర్థమైపోయింది. ఇదే balance sheet అంటే ఇంకేమీ కాదు. So ఇప్పుడు మీకు in depth అది చెప్పాను కదా మీకు note number అనేసి, so ఈ note number ఎక్కడ ఉంటుదో నేను చూపిస్తే, ఇక్కడ ఏంటి three ఉంది కదా, ఒకసారి.
+[0:37:41] ఏం మాట్లాడుతున్నారా మీరు? ఆ లేదు లేదు. Okay. అవి, అవి ఎక్కడ ఉన్నాయనేది చూస్తున్నా. Okay. ఒక
+[0:38:44] నిమిషం రా బ్రో, చూస్తున్నాను వచ్చి. ఒక్క
+[0:40:52] నిమిషం రా, చెప్తా clarity. ఇదిగో
+[0:41:58] బ్రో మీకు ఎలా ఉంటదంటే ఇలా detail ఉంటదన్నమాట. నాకు కనిపిచ్చి చెప్పలేదు సరిగ్గా. So for example ఇక్కడ చూడండి, ఇక్కడ చూశారా four అనేసి ఉండి property plant and equipment.
+[0:42:10] Okay so ఇక్కడ A B అని వచ్చింది కదా అంటే owned assets, rights of use asset. ఇక్కడ చూడండి in detail ఇచ్చారు.
+[0:42:18] For example, balance as of first April twenty twenty four, balance as of thirty first March twenty twenty five.
+[0:42:26] So in detail ఇక్కడ ఏమైంది addition or transfer from capital working progress during the year. Land free hold ఎంత, buildings లో ఎంత పెట్టారు, plant and equipment లో ఎక్కడా పెట్టారు, office equipment లో ఎంత పెట్టారు, furniture and fixtures.
+[0:42:39] ఎంత పెట్టారు for example aircrafts వీళ్ళు M&M చేస్తున్నావు కాబట్టి vehicles లో ఎంత పెట్టారు. so ఇలా మీకు everything in depth అనేది వస్తది అనమాట.
+[0:42:48] okay so ఇలా మీరు ఆ cash flows కాకుండా నాకు అసలా ఇది ఏంటో ఇంకా in depth తెలియాలంటే మీకు ఇలా note numbers అనేసి ఉంటాయి financial statements లో so మీకు in depth అనేది ఇస్తారనమాట.
+[0:43:00] complete other other అంటే ఏంటి? ఏమేమి ఉన్నాయి others లో? so అలా మీకు in depth మీకు కావాలంటే మీరు ఇలా వచ్చి చూసుకోవచ్చు.
+[0:43:10] so as long as మనకి others లో మరీ ఎక్కువ income లేకపోయినంత వరకు మీరు అంతలా చూడాల్సిన అవసరం లేదు మీకు just ఆ మీకు ఆ equity అనేది net positive లో ఉన్నది so liability assets కన్నా అదే liabilities కన్నా assets అనేవి ఎక్కువున్నాయి so ఇవన్నీ మీకు positive
+[0:43:30] లో ఉన్నప్పుడు మీరు ఇంత ఇంత deep గా వచ్చి చూడాల్సిన అవసరం లేదు. and also మీకు తర్వాత ఇదంతా అయిపోయాక complete last లో మీకు ఒక AI use చేసి ఎలా చేయాలన్నది కూడా మీకు కొన్ని కొన్ని అవి ఇస్తా.
+[0:43:43] ఉమ్ ఒక statements type మీకు ఇచ్చేస్తాను ఒక PDF లో so simple గా అవన్నీ మీరు fill చేసుకున్న PDF ఇస్తే అది మీకు ఇదంతా analysis చేసి మీకే ఇస్తది అనమాట.
+[0:43:53] so అది నేను మీకు ready చేసి ఇస్తాను. so for example PDF ఉంది PDF అనేది దానికి attach చేసి మీకు కావాల్సింది ఒక prompt ఇస్తా.
+[0:44:01] ఆ prompt enter చేస్తే ఏంటంటే అదే మీకు ఏమేమి కావాలో అన్నీ చేసి అది ఒక analysis చేసి మీకు ఇచ్చేస్తది. నేను plan చేస్తున్నాను అది మీకు ఇదంతా అయిపోయాక last లో bonuses అని చెప్పేసి ఆ buying strategy తో పాటు ఇది కూడా ఇది కూడా చెప్తా మీకు.
+[0:44:15] so okay మీకు ఇలా in depth కావాలంటే మీరు ఇలా చూసుకోవచ్చు four అనేసి ఉంది కదా ఇక్కడ ఏంటి property, plant and equipment అనేసి పైన మనం ఇందాక చూసాం కదా అవి ఏంటి అసలా?
+[0:44:23] ఆ property, plant and equipment అంటే lands లో ఎంత పెట్టారా, buildings construct చేయడానికి ఎంత పెట్టారు, ఆ plant లో equipment కి ఎంత పెట్టారు, office equipment for example chairs, tables, almirahs ఎంత పెట్టారు, ఇవి repairs, furniture and fixtures.
+[0:44:38] అంటే అక్కడ fix అయిపోయాయి లేదా for example ఏదో repairs వచ్చినాయి ఆ repairs కి ఎంత అయ్యింది so అలాంటివన్నీ మీకు ఇలా individual individual గా everything ఉంటది అనమాట.
+[0:44:47] for example aircraft అనేసి ఉంది aircraft ఎంత పెట్టారు, vehicles vehicles లో ఎంత invest చేశారు. so అలా everything మీకు in depth అనేది వస్తది for example ఇక్కడ చూడండి.
+[0:45:04] ఇంకొకటి ఇంకొక దానికి వెళ్దాం. okay ఇక్కడ other intangible assets అని ఉన్నది కదా other intangible assets లో ఇక్కడ ఏముంది చూసారా as of as of అది చూసుకోండి.
+[0:45:15] ఇక్కడ చూడండి development expenditure అంటే development for example R&D కాదా అంతా ఎంత ఎంత ఖర్చు పెట్టారు, brand licenses brand licenses అంటే for example ఒక logo ఉన్నదా ఆ logo కి ఎంత ఖర్చు పెట్టారు వాళ్ళు అది తీసుకురావడానికి next computer softwares ఆ software కి ఎంత ఖర్చు పెట్టారు others.
+[0:45:33] okay? intangible assets అంటే for example computer software అంటే ఏంటంటే for example ఒక software ఉంది అది వీళ్ళ asset అంటే ఒక develop చేసుకున్నారు అది వీళ్ళు బయట వాళ్ళకి sell చేసుకోగలరు so అలా computer software develop చేసుకున్నారు.
+[0:45:47] అది ఎంత worth అది one forty eight crores next brand licenses for example ఆ ఏం చేసుకుందాం for example ఒక door ఒక car design ఉంటది చూసారా ఏదో something internal లేకపోతే architecture ఏదో ఒకటి ఆ బ్రా-- దాన్ని license చేస్తారు చూసారా ఆ brand license లోకి వస్తది.
+[0:46:04] next development expenditure so for example ఒక ఇప్పుడు electric cars వస్తున్నాయి so దాన్ని develop చేయడానికి ఒక two to three years తర్వాత ఒక car అనే కేస్ car అనేసి అనుకున్నారు so దాన్ని develop చేయడానికి ఎంత exp-- ఎంత ఖర్చు పెడుతున్నారు R&D లో.
+[0:46:19] so అలా మీకు in depth ఇంకా బాగా everything బాగా in depth తెలుసుకోవాలంటే మీరు ఇలా కిందకొచ్చి everything మీకు కనిపిస్తుంది everything మీరు చూసుకోవచ్చు.
+[0:46:30] so balance sheet ఎలా reach చేయాలి అనేసి ఒక clarity వచ్చింది కదా and also company ఆ healthy గా grow అవుతుందో లేదో కూడా మనం ca-- balance sheet చూసి మనం తెలుసుకోవచ్చు.
+[0:46:42] okay so ప్రస్తుతం ఇందులోకి వెళ్లి మీరు చూడండి annual reports లో నేను మీకు మొత్తం ఈ fundamentals అన్నీ అయిపోయాక అప్పుడు screener screener లోకొచ్చి every term మీకు నేను మీకు explain చేస్తా.
+[0:46:55] for example book value అంటే ఇప్పుడు చెప్తే book value తెలియదు so తర్వాత. so అలా అవన్నీ fundamentals అన్నీ ఒక్కొకటి discuss చేసుకున్నాక ఇక్కడ ఉన్న ఒక్కొక్క tile ఒక్కొక్క రోజు okay?
+[0:47:05] రేపు పొద్దున P&L చెప్పుకుందాం. so balance sheet అయిపోయింది next cash flow గురించి చూసుకుందాం next ratios గురించి చూసుకుందాం.
+[0:47:13] ఇవన్నీ అయిపోయాక అప్పుడు ఒకసారి screen ఒక రోజు ఒక half an hour పెట్టుకొని screener గురించి మొత్తం each and every thing ఏంటి each and every tile దేనికి use చేస్తాం అనేది మనం discuss చేసుకుందాం.
+[0:47:25] so ఈ రోజుకి ఉమ్ complete అయింది. okay మీకు అర్థమైందా లేకపోతే ఏమైనా doubt ఉంటే ఒకసారి అడగండి చూస్తా.
+[0:47:35] ఈరోజు balance sheet అనే concept complete అయింది. equity అంటే ఏంటి, assets అంటే ఏంటి, liabilities అంటే ఏంటో తెలుసుకున్నాం.
+[0:47:42] ఆ company healthy గా ఉన్నదో లేదో కూడా తెలుసుకున్నాం. so అర్థమైంది కదా అందరికీ?
+[0:47:54] so ఇప్పుడు చెప్పింది practice చేయకపోతే మర్చిపోతారు వెంటనే మర్చిపోతారు. మీరు ఇప్పుడు ఈ session అయ్యాక ఏం చేస్తారంటే for example screener లోకి రండి ఏది ఏదో ఒక random ఒక three to four తీసుకోండి కిందకంతా scroll చేయండి మీకు ఇక్కడ annual report ఉంది కదా annual report కి రండి and also మీకు ఇంకొకటి చూపిస్తా మర్చిపోయాను ఒక్క second Actually
+[0:50:05] మీకు Mahindra & Mahindra report బాగుంటాది. అందుకే ఇందులో చూస్తున్నా. ఒక నిమిషం ఉండండి మీకు చూపిస్తాను.
+[0:50:14] అంటే just previous financial year, ఈ year ఎలా compare చేయాలనేసి అదొక్కటి చెప్తాం అనేసి. ఉమ్.
+[0:50:51] ఉమ్. so మీకు ఇక్కడ కనిపిస్తుంది కదా, ఇక్కడ twenty twenty పై twenty twenty six అంటే twenty twenty financial year లో ఇది, twenty twenty six లో ఇది.
+[0:51:03] మీకు ఇక్కడ ఎలా కూడా compare చేసుకోవచ్చు. ఇక్కడ everything ఎందులో investments అనేది పెరుగుతున్నాయి. for example ఇక్కడ చూడండి property, plant, equipment లో మీకు previous twenty five thousand ఉంటే ఇప్పుడు twenty nine thousand crores assets ఉన్నాయి.
+[0:51:15] so అలా liabilities కూడా మీకు liabilities ఎందులో ఎక్కువ వీళ్ళు aggressive గా వెళ్తున్నారు అన్నది కూడా మీరు ఇక్కడ చూసుకోవచ్చు అనమాట.
+[0:51:23] ఏది ఎక్కువ పెరుగుతుంది, ఏది తగ్గుతుంది. for example borrowings చూడండి seventy nine thousand crores నుంచి seventy three thousand crores కి వచ్చారు.
+[0:51:30] so positive ఏ కదా ఇది. so అలా, ఇలా కూడా compare చేసుకోవచ్చు మీరు. previous financial year, ఈ financial year.
+[0:51:37] equity ఇక్కడ equity చూసుకోండి ఎంతలా పెరిగిందో. బాగా పెరిగిందా లేదా? and also at the same time liabilities కూడా పెరిగినాయి.
+[0:51:44] okay. ఆ liabilities లో వీళ్ళు మంచి liabilities ఉన్నాయా లేకపోతే ఎక్కడన్నా bad loans కానీ లేకపోతే ఎక్కడన్నా వీళ్ళు minus లోకి వెళ్తున్నారా అన్నది కూడా చూసుకుని ఒకవేళ అది ఇది set అయ్యిందంటే liabilities మంచి liabilities ఉన్నాయి it's ok.
+[0:52:01] but at the end of the day మీరు equities లో మీరు ఇక్కడ పెరుగుతుంది అంటే it's ok. company కి అనేది మంచి profits వస్తున్నాయి, వాళ్ళు మంచిగా invest చేసుకుంటున్నారు, మంచిగా cash లో ఉంటున్నారు అనేసి మనం అర్థం చేసుకోవచ్చు.
+[0:52:12] ok that's it. so ఇలా కూడా completely compare చేసుకోండి ok previous financial year, ఈ financial year.
+[0:52:20] so ఇప్పుడు ఏం చేస్తారంటే, ఆ ఎలా balance sheets open చేసుకో, మీకు actually Mahindra & Mahindra మీరు balance sheet చూడండి.
+[0:52:27] actually బాగుంటుంది అనమాట UI కొంచెం. అంటే మంచిగా కొంచెం colours పెట్టి, సో ఇలా divide చేసి ఇట్లే చేస్తారు. సో ఇది చూడండి ఎలా ఉన్నదో, ఇది చూడండి ఎలా ఉన్నదో.
+[0:52:39] so మీరు ఒకసారి compare, comparison చేసుకోండి previous financial year కి, ఈ financial year కి. next ఇవన్నీ మీకు ఏమన్నా తెలియకపోతే ఒకసారి దీన్ని simple గా copy చేసి paste చేసి అది దాని meaning ఏంటో తెలుసుకోండి మళ్ళీ వెనక్కి రండి.
+[0:52:51] so ఇప్పుడు మీరు అయిన వెంటనే ఇప్పుడు గాని మీరు చేయకపోతే ఇవన్నీ మర్చిపోతారు నేను ముందరే చెప్తున్నా. confusion అనేది వస్తది. నేను చెప్పా కదా, ఈ recording అనేది నేను ఈ వీక్ దినే hour లేదా two hours లో upload చేసేస్తా, మీకు update చేస్తాను.
+[0:53:03] ఏమైనా doubts ఉంటే అందులోకి వెళ్ళండి. ఈలోగా ఒకసారి ఒక five companies లేదా Mahindra & Mahindra ఏ తీసుకోండి. ఏదైనా page number one ninety nine లో ఉన్నది.
+[0:53:12] ok. page number one ninety nine కి వచ్చి ఇదంతా చదవడానికి try చేయండి. ఈ terms అనేవి గుర్తుపెట్టుకోండి. లేదు మీకు గుర్తుండవు అంటే simple గా notepad ఒకటి పెట్టుకొని notepad లో రాసేసుకోండి.
+[0:53:22] maximum number of terms ప్రతి company లో same ఉంటాయి. ఏదో అక్కడక్కడ ఒకటి కొత్తగా ఉంటది అంతే. ok. so అది మీరు ఇప్పుడు చేయాల్సిన assignment.
+[0:53:31] so ఇది మాత్రం చేయకపోతే మాత్రం మీరు మర్చిపోతారు. ఖచ్చితంగా నేను చెప్తున్నా. ఒకసారి practice చేస్తేనే మీకు అది గుర్తుంటుంది అనమాట.
+[0:53:37] ok. so assets, liabilities, equities ఈ మూడు ప్రతీది read చేస్తారు. తర్వాత compare చేసుకుంటారు previous financial year కి, ఈ financial year కి.
+[0:53:47] ok. so next assets అనేవి sorry equity అనేది grow అవుతుందో లేదో చూసుకుంటారు previous financial year కి, ఈ financial year కి.
+[0:53:54] just అలా analysis చేయడానికి try చేయండి balance sheet ని. ఎక్కడ తప్పు ఉన్నది, positive ఉందా లేదా, ఎక్కడెక్కడ వీళ్ళు mistakes చేస్తున్నారో try to find it.
+[0:54:04] ok. ok bro so అది చేయండి. ఒక half an hour time పడతది just M&M ఏ తీసుకుని try చేయండి.
+[0:54:11] that's it. ok bro so రేపు పొద్దున్న మనం P&L గురించి మాట్లాడుకుందాం.
